@@ -25,12 +25,12 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Mon, 23 Nov 2026 15:36:02 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:31:50 +0200</lastBuildDate>
     <item>
-      <title>הרב רועי אהרוני | שיעור · י״ב כסלו תשפ״ז</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: י״ב כסלו תשפ״ז (22.11.2026)</p><p>#הרב_רועי_אהרוני</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: י״ב כסלו תשפ״ז (22.11.2026)</p><p>#הרב_רועי_אהרוני</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב רועי אהרוני | ותצא דינה</title>
+      <description><![CDATA[<p>ותצא דינה<br>מעביר: הרב רועי אהרוני<br>תאריך: י״ב כסלו תשפ״ז (22.11.2026)</p><p>#הרב_רועי_אהרוני</p>]]></description>
+      <content:encoded><![CDATA[<p>ותצא דינה<br>מעביר: הרב רועי אהרוני<br>תאריך: י״ב כסלו תשפ״ז (22.11.2026)</p><p>#הרב_רועי_אהרוני</p>]]></content:encoded>
+      <itunes:summary>ותצא דינה
 מעביר: הרב רועי אהרוני
 תאריך: י״ב כסלו תשפ״ז (22.11.2026)
 
@@ -46,10 +46,10 @@
       <podcast:person role="host">הרב רועי אהרוני</podcast:person>
     </item>
     <item>
-      <title>הרב נח ויזונסקי | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב נח ויזונסקי<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)</p><p>#הרב_נח_ויזונסקי</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב נח ויזונסקי<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)</p><p>#הרב_נח_ויזונסקי</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב נח ויזונסקי | אהבת ישראל. אורות ישראל</title>
+      <description><![CDATA[<p>אהבת ישראל. אורות ישראל<br>מעביר: הרב נח ויזונסקי<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)</p><p>#הרב_נח_ויזונסקי</p>]]></description>
+      <content:encoded><![CDATA[<p>אהבת ישראל. אורות ישראל<br>מעביר: הרב נח ויזונסקי<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)</p><p>#הרב_נח_ויזונסקי</p>]]></content:encoded>
+      <itunes:summary>אהבת ישראל. אורות ישראל
 מעביר: הרב נח ויזונסקי
 תאריך: ט׳ כסלו תשפ״ז (19.11.2026)
 
@@ -65,13 +65,14 @@
       <podcast:person role="host">הרב נח ויזונסקי</podcast:person>
     </item>
     <item>
-      <title>הרב חגי לונדין | מוזיקה · ט׳ כסלו תשפ״ז</title>
-      <description><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
-      <content:encoded><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
-      <itunes:summary>מוזיקה
+      <title>הרב חגי לונדין | מוזיקה 4</title>
+      <description><![CDATA[<p>מוזיקה 4<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
+      <content:encoded><![CDATA[<p>מוזיקה 4<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
+      <itunes:summary>מוזיקה 4
 מעביר: הרב חגי לונדין
 סדרה: מוזיקה
 תאריך: ט׳ כסלו תשפ״ז (19.11.2026)
+מקום: המרפסת
 
 #הרב_חגי_לונדין #מוזיקה</itunes:summary>
       <itunes:author>הרב חגי לונדין</itunes:author>
@@ -85,20 +86,21 @@
       <podcast:person role="host">הרב חגי לונדין</podcast:person>
     </item>
     <item>
-      <title>הרב אלי פיינסילבר | שמונה פרקים לרמב"ם</title>
-      <description><![CDATA[<p>שמונה פרקים לרמב&quot;ם<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה פרקים לרמב&quot;ם<br>תאריך: ז׳ כסלו תשפ״ז (17.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_פרקים_לרמבם</p>]]></description>
-      <content:encoded><![CDATA[<p>שמונה פרקים לרמב&quot;ם<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה פרקים לרמב&quot;ם<br>תאריך: ז׳ כסלו תשפ״ז (17.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_פרקים_לרמבם</p>]]></content:encoded>
-      <itunes:summary>שמונה פרקים לרמב"ם
+      <title>הרב אלי פיינסילבר | שמונה פרקים לרמב"ם – שמונה קבצים ב ל,לב</title>
+      <description><![CDATA[<p>שמונה פרקים לרמב&quot;ם – שמונה קבצים ב ל,לב<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה פרקים לרמב&quot;ם<br>תאריך: ו׳ כסלו תשפ״ז (16.11.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #שמונה_פרקים_לרמבם</p>]]></description>
+      <content:encoded><![CDATA[<p>שמונה פרקים לרמב&quot;ם – שמונה קבצים ב ל,לב<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה פרקים לרמב&quot;ם<br>תאריך: ו׳ כסלו תשפ״ז (16.11.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #שמונה_פרקים_לרמבם</p>]]></content:encoded>
+      <itunes:summary>שמונה פרקים לרמב"ם – שמונה קבצים ב ל,לב
 מעביר: הרב אלי פיינסילבר
 סדרה: שמונה פרקים לרמב"ם
-תאריך: ז׳ כסלו תשפ״ז (17.11.2026)
+תאריך: ו׳ כסלו תשפ״ז (16.11.2026)
+מקום: המרפסת
 
 #הרב_אלי_פיינסילבר #שמונה_פרקים_לרמבם</itunes:summary>
       <itunes:author>הרב אלי פיינסילבר</itunes:author>
       <itunes:keywords>הרב אלי פיינסילבר,שמונה פרקים לרמב"ם</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1nj2MEFitTlOJwtj3IVcE_FBWq88QCdmH.mp3" length="22174033" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-520ad867-b9f1-4be9-a89a-1ce33e7951d9</guid>
-      <pubDate>Tue, 17 Nov 2026 20:00:00 +0200</pubDate>
+      <pubDate>Mon, 16 Nov 2026 20:00:00 +0200</pubDate>
       <itunes:duration>2771</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -106,12 +108,13 @@
     </item>
     <item>
       <title>הרב הרצל רוזנברג | סיפורים על ליכטנשטיין</title>
-      <description><![CDATA[<p>סיפורים על ליכטנשטיין<br>מעביר: הרב הרצל רוזנברג<br>מועד: פורים<br>תאריך: ה׳ כסלו תשפ״ז (15.11.2026)</p><p>#הרב_הרצל_רוזנברג #פורים</p>]]></description>
-      <content:encoded><![CDATA[<p>סיפורים על ליכטנשטיין<br>מעביר: הרב הרצל רוזנברג<br>מועד: פורים<br>תאריך: ה׳ כסלו תשפ״ז (15.11.2026)</p><p>#הרב_הרצל_רוזנברג #פורים</p>]]></content:encoded>
+      <description><![CDATA[<p>סיפורים על ליכטנשטיין<br>מעביר: הרב הרצל רוזנברג<br>מועד: פורים<br>תאריך: ה׳ כסלו תשפ״ז (15.11.2026)<br>מקום: המרפסת</p><p>#הרב_הרצל_רוזנברג #פורים</p>]]></description>
+      <content:encoded><![CDATA[<p>סיפורים על ליכטנשטיין<br>מעביר: הרב הרצל רוזנברג<br>מועד: פורים<br>תאריך: ה׳ כסלו תשפ״ז (15.11.2026)<br>מקום: המרפסת</p><p>#הרב_הרצל_רוזנברג #פורים</p>]]></content:encoded>
       <itunes:summary>סיפורים על ליכטנשטיין
 מעביר: הרב הרצל רוזנברג
 מועד: פורים
 תאריך: ה׳ כסלו תשפ״ז (15.11.2026)
+מקום: המרפסת
 
 #הרב_הרצל_רוזנברג #פורים</itunes:summary>
       <itunes:author>הרב הרצל רוזנברג</itunes:author>
@@ -125,10 +128,10 @@
       <podcast:person role="host">הרב הרצל רוזנברג</podcast:person>
     </item>
     <item>
-      <title>הרב לביא אנגלמן | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב לביא אנגלמן<br>תאריך: ב׳ כסלו תשפ״ז (12.11.2026)</p><p>#הרב_לביא_אנגלמן</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב לביא אנגלמן<br>תאריך: ב׳ כסלו תשפ״ז (12.11.2026)</p><p>#הרב_לביא_אנגלמן</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב לביא אנגלמן | יעקב ועשו. ישראל רומא. . תולדות</title>
+      <description><![CDATA[<p>יעקב ועשו. ישראל רומא. . תולדות<br>מעביר: הרב לביא אנגלמן<br>תאריך: ב׳ כסלו תשפ״ז (12.11.2026)</p><p>#הרב_לביא_אנגלמן</p>]]></description>
+      <content:encoded><![CDATA[<p>יעקב ועשו. ישראל רומא. . תולדות<br>מעביר: הרב לביא אנגלמן<br>תאריך: ב׳ כסלו תשפ״ז (12.11.2026)</p><p>#הרב_לביא_אנגלמן</p>]]></content:encoded>
+      <itunes:summary>יעקב ועשו. ישראל רומא. . תולדות
 מעביר: הרב לביא אנגלמן
 תאריך: ב׳ כסלו תשפ״ז (12.11.2026)
 
@@ -144,13 +147,14 @@
       <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
     </item>
     <item>
-      <title>הרב אלי פיינסילבר | שמונה קבצים · ל׳ חשון תשפ״ז</title>
-      <description><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: ל׳ חשון תשפ״ז (10.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></description>
-      <content:encoded><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: ל׳ חשון תשפ״ז (10.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></content:encoded>
-      <itunes:summary>שמונה קבצים
+      <title>הרב אלי פיינסילבר | שמונה קבצים ב כט</title>
+      <description><![CDATA[<p>שמונה קבצים ב כט<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: ל׳ חשון תשפ״ז (10.11.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></description>
+      <content:encoded><![CDATA[<p>שמונה קבצים ב כט<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: ל׳ חשון תשפ״ז (10.11.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></content:encoded>
+      <itunes:summary>שמונה קבצים ב כט
 מעביר: הרב אלי פיינסילבר
 סדרה: שמונה קבצים
 תאריך: ל׳ חשון תשפ״ז (10.11.2026)
+מקום: המרפסת
 
 #הרב_אלי_פיינסילבר #שמונה_קבצים</itunes:summary>
       <itunes:author>הרב אלי פיינסילבר</itunes:author>
@@ -164,10 +168,10 @@
       <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
     </item>
     <item>
-      <title>הרב חגי לונדין | מוזיקה · כ״ח חשון תשפ״ז</title>
-      <description><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״ח חשון תשפ״ז (08.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
-      <content:encoded><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״ח חשון תשפ״ז (08.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
-      <itunes:summary>מוזיקה
+      <title>הרב חגי לונדין | מוזיקה – מוסיקה 3</title>
+      <description><![CDATA[<p>מוזיקה – מוסיקה 3<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״ח חשון תשפ״ז (08.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
+      <content:encoded><![CDATA[<p>מוזיקה – מוסיקה 3<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״ח חשון תשפ״ז (08.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
+      <itunes:summary>מוזיקה – מוסיקה 3
 מעביר: הרב חגי לונדין
 סדרה: מוזיקה
 תאריך: כ״ח חשון תשפ״ז (08.11.2026)
@@ -184,13 +188,14 @@
       <podcast:person role="host">הרב חגי לונדין</podcast:person>
     </item>
     <item>
-      <title>הרב אלי פיינסילבר | שמונה קבצים · כ״ג חשון תשפ״ז</title>
-      <description><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ג חשון תשפ״ז (03.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></description>
-      <content:encoded><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ג חשון תשפ״ז (03.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></content:encoded>
-      <itunes:summary>שמונה קבצים
+      <title>הרב אלי פיינסילבר | שמונה קבצים ב כד-כו</title>
+      <description><![CDATA[<p>שמונה קבצים ב כד-כו<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ג חשון תשפ״ז (03.11.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></description>
+      <content:encoded><![CDATA[<p>שמונה קבצים ב כד-כו<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ג חשון תשפ״ז (03.11.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></content:encoded>
+      <itunes:summary>שמונה קבצים ב כד-כו
 מעביר: הרב אלי פיינסילבר
 סדרה: שמונה קבצים
 תאריך: כ״ג חשון תשפ״ז (03.11.2026)
+מקום: המרפסת
 
 #הרב_אלי_פיינסילבר #שמונה_קבצים</itunes:summary>
       <itunes:author>הרב אלי פיינסילבר</itunes:author>
@@ -204,10 +209,10 @@
       <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
     </item>
     <item>
-      <title>הרב חגי לונדין | מוזיקה · כ״א חשון תשפ״ז</title>
-      <description><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״א חשון תשפ״ז (01.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
-      <content:encoded><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״א חשון תשפ״ז (01.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
-      <itunes:summary>מוזיקה
+      <title>הרב חגי לונדין | מוזיקה – מוסיקה 2</title>
+      <description><![CDATA[<p>מוזיקה – מוסיקה 2<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״א חשון תשפ״ז (01.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
+      <content:encoded><![CDATA[<p>מוזיקה – מוסיקה 2<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״א חשון תשפ״ז (01.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
+      <itunes:summary>מוזיקה – מוסיקה 2
 מעביר: הרב חגי לונדין
 סדרה: מוזיקה
 תאריך: כ״א חשון תשפ״ז (01.11.2026)
@@ -225,18 +230,20 @@
     </item>
     <item>
       <title>הרב יוני מילוא | כי נביא הוא</title>
-      <description><![CDATA[<p>כי נביא הוא<br>מעביר: הרב יוני מילוא<br>תאריך: י״ח חשון תשפ״ז (29.10.2026)</p><p>#הרב_יוני_מילוא</p>]]></description>
-      <content:encoded><![CDATA[<p>כי נביא הוא<br>מעביר: הרב יוני מילוא<br>תאריך: י״ח חשון תשפ״ז (29.10.2026)</p><p>#הרב_יוני_מילוא</p>]]></content:encoded>
+      <description><![CDATA[<p>כי נביא הוא<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז חשון תשפ״ז (28.10.2026)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כי נביא הוא<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז חשון תשפ״ז (28.10.2026)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
       <itunes:summary>כי נביא הוא
 מעביר: הרב יוני מילוא
-תאריך: י״ח חשון תשפ״ז (29.10.2026)
+מסגרת: כולל ליל שישי
+תאריך: י״ז חשון תשפ״ז (28.10.2026)
+מקום: המרפסת
 
-#הרב_יוני_מילוא</itunes:summary>
+#הרב_יוני_מילוא #כולל_ליל_שישי</itunes:summary>
       <itunes:author>הרב יוני מילוא</itunes:author>
-      <itunes:keywords>הרב יוני מילוא</itunes:keywords>
+      <itunes:keywords>הרב יוני מילוא,כולל ליל שישי</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1Lwowbhtaq3qFPt-pyUS6tA5jvLDOyrjt.mp3" length="30122546" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-3a19fce9-19e3-4ee8-8412-0b34c5f2b4ce</guid>
-      <pubDate>Thu, 29 Oct 2026 20:00:00 +0200</pubDate>
+      <pubDate>Wed, 28 Oct 2026 20:00:00 +0200</pubDate>
       <itunes:duration>3765</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -244,18 +251,19 @@
     </item>
     <item>
       <title>הרב ערן טמיר | בין חנוך נח ואברהם</title>
-      <description><![CDATA[<p>בין חנוך נח ואברהם<br>מעביר: הרב ערן טמיר<br>תאריך: ט״ז חשון תשפ״ז (27.10.2026)</p><p>#הרב_ערן_טמיר</p>]]></description>
-      <content:encoded><![CDATA[<p>בין חנוך נח ואברהם<br>מעביר: הרב ערן טמיר<br>תאריך: ט״ז חשון תשפ״ז (27.10.2026)</p><p>#הרב_ערן_טמיר</p>]]></content:encoded>
+      <description><![CDATA[<p>בין חנוך נח ואברהם<br>מעביר: הרב ערן טמיר<br>תאריך: ט״ו חשון תשפ״ז (26.10.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר</p>]]></description>
+      <content:encoded><![CDATA[<p>בין חנוך נח ואברהם<br>מעביר: הרב ערן טמיר<br>תאריך: ט״ו חשון תשפ״ז (26.10.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר</p>]]></content:encoded>
       <itunes:summary>בין חנוך נח ואברהם
 מעביר: הרב ערן טמיר
-תאריך: ט״ז חשון תשפ״ז (27.10.2026)
+תאריך: ט״ו חשון תשפ״ז (26.10.2026)
+מקום: המרפסת
 
 #הרב_ערן_טמיר</itunes:summary>
       <itunes:author>הרב ערן טמיר</itunes:author>
       <itunes:keywords>הרב ערן טמיר</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/122e1-rRb2nBZ0B2CHodKCutbpQ9jyDHe.mp3" length="37930865" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-9b6b57c0-62e6-4c68-b999-99aae7134d60</guid>
-      <pubDate>Tue, 27 Oct 2026 20:00:00 +0200</pubDate>
+      <pubDate>Mon, 26 Oct 2026 20:00:00 +0200</pubDate>
       <itunes:duration>4741</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -263,12 +271,13 @@
     </item>
     <item>
       <title>הרב חגי לונדין | מוזיקה – מוסיקה מפגש ראשון</title>
-      <description><![CDATA[<p>מוזיקה – מוסיקה מפגש ראשון<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה · מפגש 1<br>תאריך: י״ד חשון תשפ״ז (25.10.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
-      <content:encoded><![CDATA[<p>מוזיקה – מוסיקה מפגש ראשון<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה · מפגש 1<br>תאריך: י״ד חשון תשפ״ז (25.10.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
+      <description><![CDATA[<p>מוזיקה – מוסיקה מפגש ראשון<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה · מפגש 1<br>תאריך: י״ד חשון תשפ״ז (25.10.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
+      <content:encoded><![CDATA[<p>מוזיקה – מוסיקה מפגש ראשון<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה · מפגש 1<br>תאריך: י״ד חשון תשפ״ז (25.10.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
       <itunes:summary>מוזיקה – מוסיקה מפגש ראשון
 מעביר: הרב חגי לונדין
 סדרה: מוזיקה · מפגש 1
 תאריך: י״ד חשון תשפ״ז (25.10.2026)
+מקום: המרפסת
 
 #הרב_חגי_לונדין #מוזיקה</itunes:summary>
       <itunes:author>הרב חגי לונדין</itunes:author>
@@ -282,10 +291,10 @@
       <podcast:person role="host">הרב חגי לונדין</podcast:person>
     </item>
     <item>
-      <title>הרב יואב אוריאל | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב יואב אוריאל<br>תאריך: י״א חשון תשפ״ז (22.10.2026)</p><p>#הרב_יואב_אוריאל</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב יואב אוריאל<br>תאריך: י״א חשון תשפ״ז (22.10.2026)</p><p>#הרב_יואב_אוריאל</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב יואב אוריאל | לך לך סגולה מול בחירה</title>
+      <description><![CDATA[<p>לך לך סגולה מול בחירה<br>מעביר: הרב יואב אוריאל<br>תאריך: י״א חשון תשפ״ז (22.10.2026)</p><p>#הרב_יואב_אוריאל</p>]]></description>
+      <content:encoded><![CDATA[<p>לך לך סגולה מול בחירה<br>מעביר: הרב יואב אוריאל<br>תאריך: י״א חשון תשפ״ז (22.10.2026)</p><p>#הרב_יואב_אוריאל</p>]]></content:encoded>
+      <itunes:summary>לך לך סגולה מול בחירה
 מעביר: הרב יואב אוריאל
 תאריך: י״א חשון תשפ״ז (22.10.2026)
 
@@ -320,10 +329,10 @@
       <podcast:person role="host">הרב אהרן כהן</podcast:person>
     </item>
     <item>
-      <title>הרב נח ודקה | תוקף איסורי דרבנן · ז׳ חשון תשפ״ז</title>
-      <description><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ז׳ חשון תשפ״ז (18.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></description>
-      <content:encoded><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ז׳ חשון תשפ״ז (18.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></content:encoded>
-      <itunes:summary>תוקף איסורי דרבנן
+      <title>הרב נח ודקה | תוקף איסורי דרבנן – תוקף דיני דרבנן</title>
+      <description><![CDATA[<p>תוקף איסורי דרבנן – תוקף דיני דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ז׳ חשון תשפ״ז (18.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></description>
+      <content:encoded><![CDATA[<p>תוקף איסורי דרבנן – תוקף דיני דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ז׳ חשון תשפ״ז (18.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></content:encoded>
+      <itunes:summary>תוקף איסורי דרבנן – תוקף דיני דרבנן
 מעביר: הרב נח ודקה
 סדרה: תוקף איסורי דרבנן
 תאריך: ז׳ חשון תשפ״ז (18.10.2026)
@@ -341,25 +350,25 @@
     </item>
     <item>
       <title>הרב אלי פיינסילבר | דור הפלגה</title>
-      <description><![CDATA[<p>דור הפלגה<br>מעביר: הרב אלי פיינסילבר<br>תאריך: ד׳ חשון תשפ״ז (15.10.2026)</p><p>#הרב_אלי_פיינסילבר</p>]]></description>
-      <content:encoded><![CDATA[<p>דור הפלגה<br>מעביר: הרב אלי פיינסילבר<br>תאריך: ד׳ חשון תשפ״ז (15.10.2026)</p><p>#הרב_אלי_פיינסילבר</p>]]></content:encoded>
+      <description><![CDATA[<p>דור הפלגה<br>מעביר: הרב אלי פיינסילבר<br>תאריך: ג׳ חשון תשפ״ז (14.10.2026)</p><p>#הרב_אלי_פיינסילבר</p>]]></description>
+      <content:encoded><![CDATA[<p>דור הפלגה<br>מעביר: הרב אלי פיינסילבר<br>תאריך: ג׳ חשון תשפ״ז (14.10.2026)</p><p>#הרב_אלי_פיינסילבר</p>]]></content:encoded>
       <itunes:summary>דור הפלגה
 מעביר: הרב אלי פיינסילבר
-תאריך: ד׳ חשון תשפ״ז (15.10.2026)
+תאריך: ג׳ חשון תשפ״ז (14.10.2026)
 
 #הרב_אלי_פיינסילבר</itunes:summary>
       <itunes:author>הרב אלי פיינסילבר</itunes:author>
       <itunes:keywords>הרב אלי פיינסילבר</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1fhyNxp7kwp3Q5K0N8v5oCBSLIexHPIdH.mp3" length="24042711" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-464a81ab-199a-481e-a1b3-1d1e19888f25</guid>
-      <pubDate>Thu, 15 Oct 2026 20:00:00 +0300</pubDate>
+      <pubDate>Wed, 14 Oct 2026 20:00:00 +0300</pubDate>
       <itunes:duration>3005</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
     </item>
     <item>
-      <title>הרב ברוך רוזנבלום | שיעור · א׳ חשון תשפ״ז</title>
+      <title>הרב ברוך רוזנבלום | שיעור</title>
       <description><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: א׳ חשון תשפ״ז (12.10.2026)</p><p>#הרב_ברוך_רוזנבלום</p>]]></description>
       <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: א׳ חשון תשפ״ז (12.10.2026)</p><p>#הרב_ברוך_רוזנבלום</p>]]></content:encoded>
       <itunes:summary>שיעור
@@ -378,10 +387,10 @@
       <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
     </item>
     <item>
-      <title>הרב נח ודקה | תוקף איסורי דרבנן · ל׳ תשרי תשפ״ז</title>
-      <description><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ל׳ תשרי תשפ״ז (11.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></description>
-      <content:encoded><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ל׳ תשרי תשפ״ז (11.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></content:encoded>
-      <itunes:summary>תוקף איסורי דרבנן
+      <title>הרב נח ודקה | תוקף איסורי דרבנן – ספקות דרבנן 2</title>
+      <description><![CDATA[<p>תוקף איסורי דרבנן – ספקות דרבנן 2<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ל׳ תשרי תשפ״ז (11.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></description>
+      <content:encoded><![CDATA[<p>תוקף איסורי דרבנן – ספקות דרבנן 2<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ל׳ תשרי תשפ״ז (11.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></content:encoded>
+      <itunes:summary>תוקף איסורי דרבנן – ספקות דרבנן 2
 מעביר: הרב נח ודקה
 סדרה: תוקף איסורי דרבנן
 תאריך: ל׳ תשרי תשפ״ז (11.10.2026)
@@ -398,10 +407,10 @@
       <podcast:person role="host">הרב נח ודקה</podcast:person>
     </item>
     <item>
-      <title>הרב משאל רובין | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב משאל רובין<br>תאריך: כ״ז תשרי תשפ״ז (08.10.2026)</p><p>#הרב_משאל_רובין</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב משאל רובין<br>תאריך: כ״ז תשרי תשפ״ז (08.10.2026)</p><p>#הרב_משאל_רובין</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב משאל רובין | בראשית</title>
+      <description><![CDATA[<p>בראשית<br>מעביר: הרב משאל רובין<br>תאריך: כ״ז תשרי תשפ״ז (08.10.2026)</p><p>#הרב_משאל_רובין</p>]]></description>
+      <content:encoded><![CDATA[<p>בראשית<br>מעביר: הרב משאל רובין<br>תאריך: כ״ז תשרי תשפ״ז (08.10.2026)</p><p>#הרב_משאל_רובין</p>]]></content:encoded>
+      <itunes:summary>בראשית
 מעביר: הרב משאל רובין
 תאריך: כ״ז תשרי תשפ״ז (08.10.2026)
 
@@ -417,13 +426,14 @@
       <podcast:person role="host">הרב משאל רובין</podcast:person>
     </item>
     <item>
-      <title>הרב אלי פיינסילבר | שמונה קבצים · כ״ה תשרי תשפ״ז</title>
-      <description><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ה תשרי תשפ״ז (06.10.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></description>
-      <content:encoded><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ה תשרי תשפ״ז (06.10.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></content:encoded>
-      <itunes:summary>שמונה קבצים
+      <title>הרב אלי פיינסילבר | שמונה קבצים ב כא</title>
+      <description><![CDATA[<p>שמונה קבצים ב כא<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ה תשרי תשפ״ז (06.10.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></description>
+      <content:encoded><![CDATA[<p>שמונה קבצים ב כא<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ה תשרי תשפ״ז (06.10.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></content:encoded>
+      <itunes:summary>שמונה קבצים ב כא
 מעביר: הרב אלי פיינסילבר
 סדרה: שמונה קבצים
 תאריך: כ״ה תשרי תשפ״ז (06.10.2026)
+מקום: המרפסת
 
 #הרב_אלי_פיינסילבר #שמונה_קבצים</itunes:summary>
       <itunes:author>הרב אלי פיינסילבר</itunes:author>
@@ -437,62 +447,24 @@
       <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
     </item>
     <item>
-      <title>הרב נח ודקה | תוקף איסורי דרבנן · כ״ד תשרי תשפ״ז</title>
-      <description><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: כ״ד תשרי תשפ״ז (05.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></description>
-      <content:encoded><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: כ״ד תשרי תשפ״ז (05.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></content:encoded>
-      <itunes:summary>תוקף איסורי דרבנן
+      <title>הרב נח ודקה | תוקף איסורי דרבנן – מצוות דרבנן היכן ציוונו</title>
+      <description><![CDATA[<p>תוקף איסורי דרבנן – מצוות דרבנן היכן ציוונו<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: כ״ג תשרי תשפ״ז (04.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></description>
+      <content:encoded><![CDATA[<p>תוקף איסורי דרבנן – מצוות דרבנן היכן ציוונו<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: כ״ג תשרי תשפ״ז (04.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></content:encoded>
+      <itunes:summary>תוקף איסורי דרבנן – מצוות דרבנן היכן ציוונו
 מעביר: הרב נח ודקה
 סדרה: תוקף איסורי דרבנן
-תאריך: כ״ד תשרי תשפ״ז (05.10.2026)
+תאריך: כ״ג תשרי תשפ״ז (04.10.2026)
 
 #הרב_נח_ודקה #תוקף_איסורי_דרבנן</itunes:summary>
       <itunes:author>הרב נח ודקה</itunes:author>
       <itunes:keywords>הרב נח ודקה,תוקף איסורי דרבנן</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1X8pIWdrhcP6ebtig9MGjNeTOylR1hzfe.mp3" length="26713287" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-2d6207da-0dfc-4c52-bc91-efbc5f7c3564</guid>
-      <pubDate>Mon, 05 Oct 2026 20:00:00 +0300</pubDate>
+      <pubDate>Sun, 04 Oct 2026 20:00:00 +0300</pubDate>
       <itunes:duration>3339</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <podcast:person role="host">הרב נח ודקה</podcast:person>
-    </item>
-    <item>
-      <title>הרב עוזי ביננפלד | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב עוזי ביננפלד<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_עוזי_ביננפלד</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב עוזי ביננפלד<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_עוזי_ביננפלד</p>]]></content:encoded>
-      <itunes:summary>שיעור
-מעביר: הרב עוזי ביננפלד
-תאריך: כ׳ תשרי תשפ״ז (01.10.2026)
-
-#הרב_עוזי_ביננפלד</itunes:summary>
-      <itunes:author>הרב עוזי ביננפלד</itunes:author>
-      <itunes:keywords>הרב עוזי ביננפלד</itunes:keywords>
-      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1GVdGk2WGLyG24GHaWBCcyRkn1i48Sdxp.mp3" length="23857125" type="audio/mpeg"/>
-      <guid isPermaLink="false">mirpeset-rec-c78cd9be-5020-4d9c-a39b-1deefb6ed9a3</guid>
-      <pubDate>Thu, 01 Oct 2026 20:00:00 +0300</pubDate>
-      <itunes:duration>2982</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:person role="host">הרב עוזי ביננפלד</podcast:person>
-    </item>
-    <item>
-      <title>הרב יוני מילוא | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב יוני מילוא<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_יוני_מילוא</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב יוני מילוא<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_יוני_מילוא</p>]]></content:encoded>
-      <itunes:summary>שיעור
-מעביר: הרב יוני מילוא
-תאריך: כ׳ תשרי תשפ״ז (01.10.2026)
-
-#הרב_יוני_מילוא</itunes:summary>
-      <itunes:author>הרב יוני מילוא</itunes:author>
-      <itunes:keywords>הרב יוני מילוא</itunes:keywords>
-      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1IDGGft6VORnJ9t-lDUWqkPnOUmrNHolJ.mp3" length="28945143" type="audio/mpeg"/>
-      <guid isPermaLink="false">mirpeset-rec-c1802184-acae-4e2e-ba0d-db71c29877b6</guid>
-      <pubDate>Thu, 01 Oct 2026 20:00:00 +0300</pubDate>
-      <itunes:duration>3618</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:person role="host">הרב יוני מילוא</podcast:person>
     </item>
     <item>
       <title>הרב יואב אוריאל | ליל הושענה רבה</title>
@@ -515,36 +487,55 @@
       <podcast:person role="host">הרב יואב אוריאל</podcast:person>
     </item>
     <item>
-      <title>הרב הרצל רוזנברג | למהותו של הושענא רבא</title>
-      <description><![CDATA[<p>למהותו של הושענא רבא<br>מעביר: הרב הרצל רוזנברג<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_הרצל_רוזנברג #הושענא_רבה</p>]]></description>
-      <content:encoded><![CDATA[<p>למהותו של הושענא רבא<br>מעביר: הרב הרצל רוזנברג<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_הרצל_רוזנברג #הושענא_רבה</p>]]></content:encoded>
-      <itunes:summary>למהותו של הושענא רבא
-מעביר: הרב הרצל רוזנברג
-מועד: הושענא רבה
-תאריך: כ׳ תשרי תשפ״ז (01.10.2026)
-
-#הרב_הרצל_רוזנברג #הושענא_רבה</itunes:summary>
-      <itunes:author>הרב הרצל רוזנברג</itunes:author>
-      <itunes:keywords>הרב הרצל רוזנברג,הושענא רבה</itunes:keywords>
-      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1B4DdOmPsfedcplAKmHQ4MZwij8ZjkCbB.mp3" length="30342418" type="audio/mpeg"/>
-      <guid isPermaLink="false">mirpeset-rec-28e87cac-7844-4df7-8b4c-d33e5ccea744</guid>
-      <pubDate>Thu, 01 Oct 2026 20:00:00 +0300</pubDate>
-      <itunes:duration>3792</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:person role="host">הרב הרצל רוזנברג</podcast:person>
-    </item>
-    <item>
-      <title>הרב חגי לונדין | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב חגי לונדין<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)</p><p>#הרב_חגי_לונדין</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב חגי לונדין<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)</p><p>#הרב_חגי_לונדין</p>]]></content:encoded>
-      <itunes:summary>שיעור
-מעביר: הרב חגי לונדין
+      <title>הרב עוזי ביננפלד | למה דווקא 4 מינים הללו</title>
+      <description><![CDATA[<p>למה דווקא 4 מינים הללו<br>מעביר: הרב עוזי ביננפלד<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)</p><p>#הרב_עוזי_ביננפלד</p>]]></description>
+      <content:encoded><![CDATA[<p>למה דווקא 4 מינים הללו<br>מעביר: הרב עוזי ביננפלד<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)</p><p>#הרב_עוזי_ביננפלד</p>]]></content:encoded>
+      <itunes:summary>למה דווקא 4 מינים הללו
+מעביר: הרב עוזי ביננפלד
 תאריך: י״ט תשרי תשפ״ז (30.09.2026)
 
-#הרב_חגי_לונדין</itunes:summary>
+#הרב_עוזי_ביננפלד</itunes:summary>
+      <itunes:author>הרב עוזי ביננפלד</itunes:author>
+      <itunes:keywords>הרב עוזי ביננפלד</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1GVdGk2WGLyG24GHaWBCcyRkn1i48Sdxp.mp3" length="23857125" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-c78cd9be-5020-4d9c-a39b-1deefb6ed9a3</guid>
+      <pubDate>Wed, 30 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2982</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב עוזי ביננפלד</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | מה יש לשמוח בתורה</title>
+      <description><![CDATA[<p>מה יש לשמוח בתורה<br>מעביר: הרב יוני מילוא<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)</p><p>#הרב_יוני_מילוא</p>]]></description>
+      <content:encoded><![CDATA[<p>מה יש לשמוח בתורה<br>מעביר: הרב יוני מילוא<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)</p><p>#הרב_יוני_מילוא</p>]]></content:encoded>
+      <itunes:summary>מה יש לשמוח בתורה
+מעביר: הרב יוני מילוא
+תאריך: י״ט תשרי תשפ״ז (30.09.2026)
+
+#הרב_יוני_מילוא</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1IDGGft6VORnJ9t-lDUWqkPnOUmrNHolJ.mp3" length="28945143" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-c1802184-acae-4e2e-ba0d-db71c29877b6</guid>
+      <pubDate>Wed, 30 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3618</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | תשרי השחרור מהדמיונות</title>
+      <description><![CDATA[<p>תשרי השחרור מהדמיונות<br>מעביר: הרב חגי לונדין<br>מועד: סוכות<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)</p><p>#הרב_חגי_לונדין #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>תשרי השחרור מהדמיונות<br>מעביר: הרב חגי לונדין<br>מועד: סוכות<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)</p><p>#הרב_חגי_לונדין #סוכות</p>]]></content:encoded>
+      <itunes:summary>תשרי השחרור מהדמיונות
+מעביר: הרב חגי לונדין
+מועד: סוכות
+תאריך: י״ט תשרי תשפ״ז (30.09.2026)
+
+#הרב_חגי_לונדין #סוכות</itunes:summary>
       <itunes:author>הרב חגי לונדין</itunes:author>
-      <itunes:keywords>הרב חגי לונדין</itunes:keywords>
+      <itunes:keywords>הרב חגי לונדין,סוכות</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/14st9D_nMLMmQAx0VWjsg5f9hydta1Fy8.mp3" length="25812539" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-b1bc8b9e-6a86-4028-a93f-bd6ef6116f8a</guid>
       <pubDate>Wed, 30 Sep 2026 20:00:00 +0300</pubDate>
@@ -554,16 +545,38 @@
       <podcast:person role="host">הרב חגי לונדין</podcast:person>
     </item>
     <item>
-      <title>הרב ברוך רוזנבלום | שיעור · י״ח תשרי תשפ״ז</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_ברוך_רוזנבלום</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_ברוך_רוזנבלום</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב הרצל רוזנברג | למהותו של הושענא רבא</title>
+      <description><![CDATA[<p>למהותו של הושענא רבא<br>מעביר: הרב הרצל רוזנברג<br>מועד: הושענא רבה<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)<br>מקום: המרפסת</p><p>#הרב_הרצל_רוזנברג #הושענא_רבה</p>]]></description>
+      <content:encoded><![CDATA[<p>למהותו של הושענא רבא<br>מעביר: הרב הרצל רוזנברג<br>מועד: הושענא רבה<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)<br>מקום: המרפסת</p><p>#הרב_הרצל_רוזנברג #הושענא_רבה</p>]]></content:encoded>
+      <itunes:summary>למהותו של הושענא רבא
+מעביר: הרב הרצל רוזנברג
+מועד: הושענא רבה
+תאריך: י״ט תשרי תשפ״ז (30.09.2026)
+מקום: המרפסת
+
+#הרב_הרצל_רוזנברג #הושענא_רבה</itunes:summary>
+      <itunes:author>הרב הרצל רוזנברג</itunes:author>
+      <itunes:keywords>הרב הרצל רוזנברג,הושענא רבה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1B4DdOmPsfedcplAKmHQ4MZwij8ZjkCbB.mp3" length="30342418" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-28e87cac-7844-4df7-8b4c-d33e5ccea744</guid>
+      <pubDate>Wed, 30 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3792</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב הרצל רוזנברג</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | סוכות · י״ח תשרי תשפ״ז</title>
+      <description><![CDATA[<p>סוכות<br>מעביר: הרב ברוך רוזנבלום<br>מועד: סוכות<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_ברוך_רוזנבלום #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>סוכות<br>מעביר: הרב ברוך רוזנבלום<br>מועד: סוכות<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_ברוך_רוזנבלום #סוכות</p>]]></content:encoded>
+      <itunes:summary>סוכות
 מעביר: הרב ברוך רוזנבלום
+מועד: סוכות
 תאריך: י״ח תשרי תשפ״ז (29.09.2026)
 
-#הרב_ברוך_רוזנבלום</itunes:summary>
+#הרב_ברוך_רוזנבלום #סוכות</itunes:summary>
       <itunes:author>הרב ברוך רוזנבלום</itunes:author>
-      <itunes:keywords>הרב ברוך רוזנבלום</itunes:keywords>
+      <itunes:keywords>הרב ברוך רוזנבלום,סוכות</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1mQ0EDk2r0xj5ZMU_C-r8_eitP2lDB1nQ.mp3" length="26947344" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-e6b5c62c-eb3f-4ead-9dae-0a2541c27c43</guid>
       <pubDate>Tue, 29 Sep 2026 20:00:00 +0300</pubDate>
@@ -573,10 +586,10 @@
       <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
     </item>
     <item>
-      <title>הרב שי סבג | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב שי סבג<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_שי_סבג</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב שי סבג<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_שי_סבג</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב שי סבג | משה ואהרן כלל ופרט</title>
+      <description><![CDATA[<p>משה ואהרן כלל ופרט<br>מעביר: הרב שי סבג<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_שי_סבג</p>]]></description>
+      <content:encoded><![CDATA[<p>משה ואהרן כלל ופרט<br>מעביר: הרב שי סבג<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_שי_סבג</p>]]></content:encoded>
+      <itunes:summary>משה ואהרן כלל ופרט
 מעביר: הרב שי סבג
 תאריך: י״ח תשרי תשפ״ז (29.09.2026)
 
@@ -592,10 +605,10 @@
       <podcast:person role="host">הרב שי סבג</podcast:person>
     </item>
     <item>
-      <title>הרב רועי אהרוני | שיעור · ט״ז תשרי תשפ״ז</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: ט״ז תשרי תשפ״ז (27.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: ט״ז תשרי תשפ״ז (27.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב רועי אהרוני | קהלת התשובה לאתאיסטים</title>
+      <description><![CDATA[<p>קהלת התשובה לאתאיסטים<br>מעביר: הרב רועי אהרוני<br>תאריך: ט״ז תשרי תשפ״ז (27.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></description>
+      <content:encoded><![CDATA[<p>קהלת התשובה לאתאיסטים<br>מעביר: הרב רועי אהרוני<br>תאריך: ט״ז תשרי תשפ״ז (27.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></content:encoded>
+      <itunes:summary>קהלת התשובה לאתאיסטים
 מעביר: הרב רועי אהרוני
 תאריך: ט״ז תשרי תשפ״ז (27.09.2026)
 
@@ -612,18 +625,19 @@
     </item>
     <item>
       <title>הרב יצחק זאגא | ובגויים לא יתחשב</title>
-      <description><![CDATA[<p>ובגויים לא יתחשב<br>מעביר: הרב יצחק זאגא<br>תאריך: י״ג תשרי תשפ״ז (24.09.2026)</p><p>#הרב_יצחק_זאגא</p>]]></description>
-      <content:encoded><![CDATA[<p>ובגויים לא יתחשב<br>מעביר: הרב יצחק זאגא<br>תאריך: י״ג תשרי תשפ״ז (24.09.2026)</p><p>#הרב_יצחק_זאגא</p>]]></content:encoded>
+      <description><![CDATA[<p>ובגויים לא יתחשב<br>מעביר: הרב יצחק זאגא<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_יצחק_זאגא #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>ובגויים לא יתחשב<br>מעביר: הרב יצחק זאגא<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_יצחק_זאגא #סוכות</p>]]></content:encoded>
       <itunes:summary>ובגויים לא יתחשב
 מעביר: הרב יצחק זאגא
-תאריך: י״ג תשרי תשפ״ז (24.09.2026)
+מועד: סוכות
+תאריך: י״ב תשרי תשפ״ז (23.09.2026)
 
-#הרב_יצחק_זאגא</itunes:summary>
+#הרב_יצחק_זאגא #סוכות</itunes:summary>
       <itunes:author>הרב יצחק זאגא</itunes:author>
-      <itunes:keywords>הרב יצחק זאגא</itunes:keywords>
+      <itunes:keywords>הרב יצחק זאגא,סוכות</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1GhBx5jaHQYMIP2hdL_9Qm02jMrRMDojF.mp3" length="29025200" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-fef2b168-ab63-43a2-9bb3-4e281036e5b4</guid>
-      <pubDate>Thu, 24 Sep 2026 20:00:00 +0300</pubDate>
+      <pubDate>Wed, 23 Sep 2026 20:00:00 +0300</pubDate>
       <itunes:duration>3628</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -631,75 +645,57 @@
     </item>
     <item>
       <title>הרב לביא אנגלמן | המהות המיוחדת של סוכות</title>
-      <description><![CDATA[<p>המהות המיוחדת של סוכות<br>מעביר: הרב לביא אנגלמן<br>מועד: סוכות<br>תאריך: י״ג תשרי תשפ״ז (24.09.2026)</p><p>#הרב_לביא_אנגלמן #סוכות</p>]]></description>
-      <content:encoded><![CDATA[<p>המהות המיוחדת של סוכות<br>מעביר: הרב לביא אנגלמן<br>מועד: סוכות<br>תאריך: י״ג תשרי תשפ״ז (24.09.2026)</p><p>#הרב_לביא_אנגלמן #סוכות</p>]]></content:encoded>
+      <description><![CDATA[<p>המהות המיוחדת של סוכות<br>מעביר: הרב לביא אנגלמן<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_לביא_אנגלמן #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>המהות המיוחדת של סוכות<br>מעביר: הרב לביא אנגלמן<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_לביא_אנגלמן #סוכות</p>]]></content:encoded>
       <itunes:summary>המהות המיוחדת של סוכות
 מעביר: הרב לביא אנגלמן
 מועד: סוכות
-תאריך: י״ג תשרי תשפ״ז (24.09.2026)
+תאריך: י״ב תשרי תשפ״ז (23.09.2026)
 
 #הרב_לביא_אנגלמן #סוכות</itunes:summary>
       <itunes:author>הרב לביא אנגלמן</itunes:author>
       <itunes:keywords>הרב לביא אנגלמן,סוכות</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/188Z6EeXaz1QJ0va_Rvk6l5CFgkfMD9V9.mp3" length="25396707" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-bb5d05a8-0d64-45c7-985c-a348ff6622a2</guid>
-      <pubDate>Thu, 24 Sep 2026 20:00:00 +0300</pubDate>
+      <pubDate>Wed, 23 Sep 2026 20:00:00 +0300</pubDate>
       <itunes:duration>3174</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
     </item>
     <item>
-      <title>הרב מרדכי מאיר | הכנה לסוכות</title>
-      <description><![CDATA[<p>הכנה לסוכות<br>מעביר: הרב מרדכי מאיר<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_מרדכי_מאיר #סוכות</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לסוכות<br>מעביר: הרב מרדכי מאיר<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_מרדכי_מאיר #סוכות</p>]]></content:encoded>
-      <itunes:summary>הכנה לסוכות
+      <title>הרב מרדכי מאיר | מה האבלות על משה מלמדת אותנו</title>
+      <description><![CDATA[<p>מה האבלות על משה מלמדת אותנו<br>מעביר: הרב מרדכי מאיר<br>מועד: סוכות<br>תאריך: י״א תשרי תשפ״ז (22.09.2026)<br>מקום: המרפסת</p><p>#הרב_מרדכי_מאיר #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>מה האבלות על משה מלמדת אותנו<br>מעביר: הרב מרדכי מאיר<br>מועד: סוכות<br>תאריך: י״א תשרי תשפ״ז (22.09.2026)<br>מקום: המרפסת</p><p>#הרב_מרדכי_מאיר #סוכות</p>]]></content:encoded>
+      <itunes:summary>מה האבלות על משה מלמדת אותנו
 מעביר: הרב מרדכי מאיר
 מועד: סוכות
-תאריך: י״ב תשרי תשפ״ז (23.09.2026)
+תאריך: י״א תשרי תשפ״ז (22.09.2026)
+מקום: המרפסת
 
 #הרב_מרדכי_מאיר #סוכות</itunes:summary>
       <itunes:author>הרב מרדכי מאיר</itunes:author>
       <itunes:keywords>הרב מרדכי מאיר,סוכות</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1qaonfQril2Uwvsy2EWxmVYG8kP8WRkdd.mp3" length="23659643" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-fe1450fb-4937-40d1-af98-2fa7a8770281</guid>
-      <pubDate>Wed, 23 Sep 2026 20:00:00 +0300</pubDate>
+      <pubDate>Tue, 22 Sep 2026 20:00:00 +0300</pubDate>
       <itunes:duration>2957</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
     </item>
     <item>
-      <title>הרב יואב אוריאל | הכנה לסוכות</title>
-      <description><![CDATA[<p>הכנה לסוכות<br>מעביר: הרב יואב אוריאל<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_יואב_אוריאל #סוכות</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לסוכות<br>מעביר: הרב יואב אוריאל<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_יואב_אוריאל #סוכות</p>]]></content:encoded>
-      <itunes:summary>הכנה לסוכות
-מעביר: הרב יואב אוריאל
-מועד: סוכות
-תאריך: י״ב תשרי תשפ״ז (23.09.2026)
-
-#הרב_יואב_אוריאל #סוכות</itunes:summary>
-      <itunes:author>הרב יואב אוריאל</itunes:author>
-      <itunes:keywords>הרב יואב אוריאל,סוכות</itunes:keywords>
-      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1_fNZ7LcQC3_anRR_vwRTmKEv5j9fH4Vq.mp3" length="24400689" type="audio/mpeg"/>
-      <guid isPermaLink="false">mirpeset-rec-9d98b3b1-2e32-4e05-b8a2-9cb87f6f9038</guid>
-      <pubDate>Wed, 23 Sep 2026 20:00:00 +0300</pubDate>
-      <itunes:duration>3049</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <podcast:person role="host">הרב יואב אוריאל</podcast:person>
-    </item>
-    <item>
-      <title>הרב יואב אקריש | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב יואב אקריש<br>תאריך: י״א תשרי תשפ״ז (22.09.2026)</p><p>#הרב_יואב_אקריש</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב יואב אקריש<br>תאריך: י״א תשרי תשפ״ז (22.09.2026)</p><p>#הרב_יואב_אקריש</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב יואב אקריש | סוכות סיני כרמל תבור</title>
+      <description><![CDATA[<p>סוכות סיני כרמל תבור<br>מעביר: הרב יואב אקריש<br>מועד: סוכות<br>תאריך: י״א תשרי תשפ״ז (22.09.2026)</p><p>#הרב_יואב_אקריש #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>סוכות סיני כרמל תבור<br>מעביר: הרב יואב אקריש<br>מועד: סוכות<br>תאריך: י״א תשרי תשפ״ז (22.09.2026)</p><p>#הרב_יואב_אקריש #סוכות</p>]]></content:encoded>
+      <itunes:summary>סוכות סיני כרמל תבור
 מעביר: הרב יואב אקריש
+מועד: סוכות
 תאריך: י״א תשרי תשפ״ז (22.09.2026)
 
-#הרב_יואב_אקריש</itunes:summary>
+#הרב_יואב_אקריש #סוכות</itunes:summary>
       <itunes:author>הרב יואב אקריש</itunes:author>
-      <itunes:keywords>הרב יואב אקריש</itunes:keywords>
+      <itunes:keywords>הרב יואב אקריש,סוכות</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1eepCQcL9SNPHVKXp1tVj4Gst0VeWuHaL.mp3" length="21153757" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-e377ee2c-0ae2-4f7a-9fe8-1e5f98a2074b</guid>
       <pubDate>Tue, 22 Sep 2026 20:00:00 +0300</pubDate>
@@ -709,10 +705,30 @@
       <podcast:person role="host">הרב יואב אקריש</podcast:person>
     </item>
     <item>
-      <title>הרב רועי אהרוני | שיעור · ו׳ תשרי תשפ״ז</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: ו׳ תשרי תשפ״ז (17.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: ו׳ תשרי תשפ״ז (17.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב יואב אוריאל | דור הניסים</title>
+      <description><![CDATA[<p>דור הניסים<br>מעביר: הרב יואב אוריאל<br>מועד: סוכות<br>תאריך: י״א תשרי תשפ״ז (22.09.2026)</p><p>#הרב_יואב_אוריאל #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>דור הניסים<br>מעביר: הרב יואב אוריאל<br>מועד: סוכות<br>תאריך: י״א תשרי תשפ״ז (22.09.2026)</p><p>#הרב_יואב_אוריאל #סוכות</p>]]></content:encoded>
+      <itunes:summary>דור הניסים
+מעביר: הרב יואב אוריאל
+מועד: סוכות
+תאריך: י״א תשרי תשפ״ז (22.09.2026)
+
+#הרב_יואב_אוריאל #סוכות</itunes:summary>
+      <itunes:author>הרב יואב אוריאל</itunes:author>
+      <itunes:keywords>הרב יואב אוריאל,סוכות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1_fNZ7LcQC3_anRR_vwRTmKEv5j9fH4Vq.mp3" length="24400689" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-9d98b3b1-2e32-4e05-b8a2-9cb87f6f9038</guid>
+      <pubDate>Tue, 22 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3049</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יואב אוריאל</podcast:person>
+    </item>
+    <item>
+      <title>הרב רועי אהרוני | תשובת יונה</title>
+      <description><![CDATA[<p>תשובת יונה<br>מעביר: הרב רועי אהרוני<br>תאריך: ו׳ תשרי תשפ״ז (17.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></description>
+      <content:encoded><![CDATA[<p>תשובת יונה<br>מעביר: הרב רועי אהרוני<br>תאריך: ו׳ תשרי תשפ״ז (17.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></content:encoded>
+      <itunes:summary>תשובת יונה
 מעביר: הרב רועי אהרוני
 תאריך: ו׳ תשרי תשפ״ז (17.09.2026)
 
@@ -729,49 +745,50 @@
     </item>
     <item>
       <title>הרב ערן דאום | סליחה מחילה וכפרה</title>
-      <description><![CDATA[<p>סליחה מחילה וכפרה<br>מעביר: הרב ערן דאום<br>מועד: יום הכיפורים<br>תאריך: ו׳ תשרי תשפ״ז (17.09.2026)</p><p>#הרב_ערן_דאום #יום_הכיפורים</p>]]></description>
-      <content:encoded><![CDATA[<p>סליחה מחילה וכפרה<br>מעביר: הרב ערן דאום<br>מועד: יום הכיפורים<br>תאריך: ו׳ תשרי תשפ״ז (17.09.2026)</p><p>#הרב_ערן_דאום #יום_הכיפורים</p>]]></content:encoded>
+      <description><![CDATA[<p>סליחה מחילה וכפרה<br>מעביר: הרב ערן דאום<br>מועד: יום הכיפורים<br>תאריך: ה׳ תשרי תשפ״ז (16.09.2026)</p><p>#הרב_ערן_דאום #יום_הכיפורים</p>]]></description>
+      <content:encoded><![CDATA[<p>סליחה מחילה וכפרה<br>מעביר: הרב ערן דאום<br>מועד: יום הכיפורים<br>תאריך: ה׳ תשרי תשפ״ז (16.09.2026)</p><p>#הרב_ערן_דאום #יום_הכיפורים</p>]]></content:encoded>
       <itunes:summary>סליחה מחילה וכפרה
 מעביר: הרב ערן דאום
 מועד: יום הכיפורים
-תאריך: ו׳ תשרי תשפ״ז (17.09.2026)
+תאריך: ה׳ תשרי תשפ״ז (16.09.2026)
 
 #הרב_ערן_דאום #יום_הכיפורים</itunes:summary>
       <itunes:author>הרב ערן דאום</itunes:author>
       <itunes:keywords>הרב ערן דאום,יום הכיפורים</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1dulbGRp7Xppe11lLlTE1houKso0DhGRK.mp3" length="22037965" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-9ca35f69-7c50-4de9-bf71-2b36e360a368</guid>
-      <pubDate>Thu, 17 Sep 2026 20:00:00 +0300</pubDate>
+      <pubDate>Wed, 16 Sep 2026 20:00:00 +0300</pubDate>
       <itunes:duration>2754</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <podcast:person role="host">הרב ערן דאום</podcast:person>
     </item>
     <item>
-      <title>הרב אהוד אחיטוב | כולל ליל שישי · כ״ח אלול תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ח אלול תשפ״ו (10.09.2026)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ח אלול תשפ״ו (10.09.2026)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
-מעביר: הרב אהוד אחיטוב
+      <title>הרב יצחק זאגא | נאחז בסבך בקרניו</title>
+      <description><![CDATA[<p>נאחז בסבך בקרניו<br>מעביר: הרב יצחק זאגא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ח אלול תשפ״ו (10.09.2026)<br>מקום: המרפסת</p><p>#הרב_יצחק_זאגא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>נאחז בסבך בקרניו<br>מעביר: הרב יצחק זאגא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ח אלול תשפ״ו (10.09.2026)<br>מקום: המרפסת</p><p>#הרב_יצחק_זאגא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>נאחז בסבך בקרניו
+מעביר: הרב יצחק זאגא
 מסגרת: כולל ליל שישי
 תאריך: כ״ח אלול תשפ״ו (10.09.2026)
+מקום: המרפסת
 
-#הרב_אהוד_אחיטוב #כולל_ליל_שישי</itunes:summary>
-      <itunes:author>הרב אהוד אחיטוב</itunes:author>
-      <itunes:keywords>הרב אהוד אחיטוב,כולל ליל שישי</itunes:keywords>
+#הרב_יצחק_זאגא #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יצחק זאגא</itunes:author>
+      <itunes:keywords>הרב יצחק זאגא,כולל ליל שישי</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/18uPd3-pQCfIWKaNPrzJMRpTW0CMtGDdI.mp3" length="26427202" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-dda37539-00f6-46ac-b61b-aa9cc4d05f52</guid>
       <pubDate>Thu, 10 Sep 2026 20:00:00 +0300</pubDate>
       <itunes:duration>3303</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
+      <podcast:person role="host">הרב יצחק זאגא</podcast:person>
     </item>
     <item>
-      <title>הרב חגי לונדין | כולל ליל שישי · כ״א אלול תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״א אלול תשפ״ו (03.09.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״א אלול תשפ״ו (03.09.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב חגי לונדין | קול השופר</title>
+      <description><![CDATA[<p>קול השופר<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״א אלול תשפ״ו (03.09.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>קול השופר<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״א אלול תשפ״ו (03.09.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>קול השופר
 מעביר: הרב חגי לונדין
 מסגרת: כולל ליל שישי
 תאריך: כ״א אלול תשפ״ו (03.09.2026)
@@ -788,13 +805,14 @@
       <podcast:person role="host">הרב חגי לונדין</podcast:person>
     </item>
     <item>
-      <title>הרב אהרן כהן | הכנה לראש השנה · י״ח אלול תשפ״ו</title>
-      <description><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: י״ח אלול תשפ״ו (31.08.2026)</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: י״ח אלול תשפ״ו (31.08.2026)</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></content:encoded>
+      <title>הרב אהרן כהן | הכנה לראש השנה</title>
+      <description><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: י״ח אלול תשפ״ו (31.08.2026)<br>מקום: המרפסת</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: י״ח אלול תשפ״ו (31.08.2026)<br>מקום: המרפסת</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></content:encoded>
       <itunes:summary>הכנה לראש השנה
 מעביר: הרב אהרן כהן
 מועד: ראש השנה
 תאריך: י״ח אלול תשפ״ו (31.08.2026)
+מקום: המרפסת
 
 #הרב_אהרן_כהן #ראש_השנה</itunes:summary>
       <itunes:author>הרב אהרן כהן</itunes:author>
@@ -829,30 +847,32 @@
       <podcast:person role="host">הרב אברהם בלס</podcast:person>
     </item>
     <item>
-      <title>הרב לביא אנגלמן | כולל ליל שישי · י״ד אלול תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד אלול תשפ״ו (27.08.2026)</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד אלול תשפ״ו (27.08.2026)</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
-מעביר: הרב לביא אנגלמן
+      <title>הרב צבי שוורץ | סוד התקיעות</title>
+      <description><![CDATA[<p>סוד התקיעות<br>מעביר: הרב צבי שוורץ<br>מסגרת: כולל ליל שישי<br>מועד: ראש השנה<br>תאריך: י״ד אלול תשפ״ו (27.08.2026)<br>מקום: המרפסת</p><p>#הרב_צבי_שוורץ #ראש_השנה #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>סוד התקיעות<br>מעביר: הרב צבי שוורץ<br>מסגרת: כולל ליל שישי<br>מועד: ראש השנה<br>תאריך: י״ד אלול תשפ״ו (27.08.2026)<br>מקום: המרפסת</p><p>#הרב_צבי_שוורץ #ראש_השנה #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>סוד התקיעות
+מעביר: הרב צבי שוורץ
 מסגרת: כולל ליל שישי
+מועד: ראש השנה
 תאריך: י״ד אלול תשפ״ו (27.08.2026)
+מקום: המרפסת
 
-#הרב_לביא_אנגלמן #כולל_ליל_שישי</itunes:summary>
-      <itunes:author>הרב לביא אנגלמן</itunes:author>
-      <itunes:keywords>הרב לביא אנגלמן,כולל ליל שישי</itunes:keywords>
+#הרב_צבי_שוורץ #ראש_השנה #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב צבי שוורץ</itunes:author>
+      <itunes:keywords>הרב צבי שוורץ,ראש השנה,כולל ליל שישי</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1LN-PVmP7aY25sCyzouTZfaSDrIJJgLN7.mp3" length="24658816" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-95689027-6044-42b2-b3e7-1ff885502c61</guid>
       <pubDate>Thu, 27 Aug 2026 20:00:00 +0300</pubDate>
       <itunes:duration>3082</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
+      <podcast:person role="host">הרב צבי שוורץ</podcast:person>
     </item>
     <item>
-      <title>הרב ערן דאום | לקראת ראש השנה</title>
-      <description><![CDATA[<p>לקראת ראש השנה<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></description>
-      <content:encoded><![CDATA[<p>לקראת ראש השנה<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></content:encoded>
-      <itunes:summary>לקראת ראש השנה
+      <title>הרב ערן דאום | יום ג' 26. 8. 26 כי תבוא ברכות וקללות כיצד</title>
+      <description><![CDATA[<p>יום ג&#x27; 26. 8. 26 כי תבוא ברכות וקללות כיצד<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>יום ג&#x27; 26. 8. 26 כי תבוא ברכות וקללות כיצד<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></content:encoded>
+      <itunes:summary>יום ג' 26. 8. 26 כי תבוא ברכות וקללות כיצד
 מעביר: הרב ערן דאום
 מועד: ראש השנה
 תאריך: י״ב אלול תשפ״ו (25.08.2026)
@@ -869,52 +889,51 @@
       <podcast:person role="host">הרב ערן דאום</podcast:person>
     </item>
     <item>
-      <title>הרב אהרן כהן | שמונה קבצים – לקראת ראש השנה</title>
-      <description><![CDATA[<p>שמונה קבצים – לקראת ראש השנה<br>מעביר: הרב אהרן כהן<br>סדרה: שמונה קבצים<br>מועד: ראש השנה<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)</p><p>#הרב_אהרן_כהן #ראש_השנה #שמונה_קבצים</p>]]></description>
-      <content:encoded><![CDATA[<p>שמונה קבצים – לקראת ראש השנה<br>מעביר: הרב אהרן כהן<br>סדרה: שמונה קבצים<br>מועד: ראש השנה<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)</p><p>#הרב_אהרן_כהן #ראש_השנה #שמונה_קבצים</p>]]></content:encoded>
-      <itunes:summary>שמונה קבצים – לקראת ראש השנה
-מעביר: הרב אהרן כהן
+      <title>הרב אלי פיינסילבר | שמונה קבצים קובץ ב יא</title>
+      <description><![CDATA[<p>שמונה קבצים קובץ ב יא<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></description>
+      <content:encoded><![CDATA[<p>שמונה קבצים קובץ ב יא<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></content:encoded>
+      <itunes:summary>שמונה קבצים קובץ ב יא
+מעביר: הרב אלי פיינסילבר
 סדרה: שמונה קבצים
-מועד: ראש השנה
 תאריך: י״ב אלול תשפ״ו (25.08.2026)
+מקום: המרפסת
 
-#הרב_אהרן_כהן #ראש_השנה #שמונה_קבצים</itunes:summary>
-      <itunes:author>הרב אהרן כהן</itunes:author>
-      <itunes:keywords>הרב אהרן כהן,ראש השנה,שמונה קבצים</itunes:keywords>
+#הרב_אלי_פיינסילבר #שמונה_קבצים</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר,שמונה קבצים</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/19UCGrVI57n7nYmLzew50LCNskdHqfXHh.mp3" length="24140740" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-68595f7e-aaa1-4dbb-979f-504c59287461</guid>
       <pubDate>Tue, 25 Aug 2026 20:00:00 +0300</pubDate>
       <itunes:duration>3017</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:person role="host">הרב אהרן כהן</podcast:person>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
     </item>
     <item>
-      <title>הרב אברהם בלס | חגי תשרי – הכנה לראש השנה</title>
-      <description><![CDATA[<p>חגי תשרי – הכנה לראש השנה<br>מעביר: הרב אברהם בלס<br>סדרה: חגי תשרי<br>מועד: ראש השנה<br>תאריך: י׳ אלול תשפ״ו (23.08.2026)</p><p>#הרב_אברהם_בלס #ראש_השנה #חגי_תשרי</p>]]></description>
-      <content:encoded><![CDATA[<p>חגי תשרי – הכנה לראש השנה<br>מעביר: הרב אברהם בלס<br>סדרה: חגי תשרי<br>מועד: ראש השנה<br>תאריך: י׳ אלול תשפ״ו (23.08.2026)</p><p>#הרב_אברהם_בלס #ראש_השנה #חגי_תשרי</p>]]></content:encoded>
-      <itunes:summary>חגי תשרי – הכנה לראש השנה
-מעביר: הרב אברהם בלס
-סדרה: חגי תשרי
+      <title>הרב ברוך רוזנבלום | הכנה לראש השנה</title>
+      <description><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ראש השנה<br>תאריך: י׳ אלול תשפ״ו (23.08.2026)</p><p>#הרב_ברוך_רוזנבלום #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ראש השנה<br>תאריך: י׳ אלול תשפ״ו (23.08.2026)</p><p>#הרב_ברוך_רוזנבלום #ראש_השנה</p>]]></content:encoded>
+      <itunes:summary>הכנה לראש השנה
+מעביר: הרב ברוך רוזנבלום
 מועד: ראש השנה
 תאריך: י׳ אלול תשפ״ו (23.08.2026)
 
-#הרב_אברהם_בלס #ראש_השנה #חגי_תשרי</itunes:summary>
-      <itunes:author>הרב אברהם בלס</itunes:author>
-      <itunes:keywords>הרב אברהם בלס,ראש השנה,חגי תשרי</itunes:keywords>
+#הרב_ברוך_רוזנבלום #ראש_השנה</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום,ראש השנה</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1W4n0fxY_ebygK5fN64dKzHFyNLZO7Oqa.mp3" length="26545466" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-4e9ffeb8-f9f2-4e7a-aa5e-cbb44fc009d3</guid>
       <pubDate>Sun, 23 Aug 2026 20:00:00 +0300</pubDate>
       <itunes:duration>3318</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <podcast:person role="host">הרב אברהם בלס</podcast:person>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
     </item>
     <item>
-      <title>הרב מרדכי מאיר | כולל ליל שישי · ז׳ אלול תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ז׳ אלול תשפ״ו (20.08.2026)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ז׳ אלול תשפ״ו (20.08.2026)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב מרדכי מאיר | על קן ציפור יגיעו רחמיך. דביר שחר</title>
+      <description><![CDATA[<p>על קן ציפור יגיעו רחמיך. דביר שחר<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ז׳ אלול תשפ״ו (20.08.2026)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>על קן ציפור יגיעו רחמיך. דביר שחר<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ז׳ אלול תשפ״ו (20.08.2026)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>על קן ציפור יגיעו רחמיך. דביר שחר
 מעביר: הרב מרדכי מאיר
 מסגרת: כולל ליל שישי
 תאריך: ז׳ אלול תשפ״ו (20.08.2026)
@@ -953,10 +972,10 @@
       <podcast:person role="host">הרב ערן טמיר</podcast:person>
     </item>
     <item>
-      <title>הרב יוני מילוא | כולל ליל שישי · כ״ג אב תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אב תשפ״ו (06.08.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אב תשפ״ו (06.08.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב יוני מילוא | קמטי מקראות בשר תאווה עם המבט לעתיד</title>
+      <description><![CDATA[<p>קמטי מקראות בשר תאווה עם המבט לעתיד<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אב תשפ״ו (06.08.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>קמטי מקראות בשר תאווה עם המבט לעתיד<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אב תשפ״ו (06.08.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>קמטי מקראות בשר תאווה עם המבט לעתיד
 מעביר: הרב יוני מילוא
 מסגרת: כולל ליל שישי
 תאריך: כ״ג אב תשפ״ו (06.08.2026)
@@ -1014,10 +1033,10 @@
       <podcast:person role="host">הרב חגי לונדין</podcast:person>
     </item>
     <item>
-      <title>הרב חגי לונדין | כולל ליל שישי · כ״ד תמוז תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תמוז תשפ״ו (09.07.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תמוז תשפ״ו (09.07.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב חגי לונדין | התדמית בדורינו</title>
+      <description><![CDATA[<p>התדמית בדורינו<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תמוז תשפ״ו (09.07.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>התדמית בדורינו<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תמוז תשפ״ו (09.07.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>התדמית בדורינו
 מעביר: הרב חגי לונדין
 מסגרת: כולל ליל שישי
 תאריך: כ״ד תמוז תשפ״ו (09.07.2026)
@@ -1034,10 +1053,10 @@
       <podcast:person role="host">הרב חגי לונדין</podcast:person>
     </item>
     <item>
-      <title>הרב לביא אנגלמן | כולל ליל שישי · י״ז תמוז תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תמוז תשפ״ו (02.07.2026)</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תמוז תשפ״ו (02.07.2026)</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב לביא אנגלמן | בין המצרים</title>
+      <description><![CDATA[<p>בין המצרים<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תמוז תשפ״ו (02.07.2026)</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>בין המצרים<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תמוז תשפ״ו (02.07.2026)</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>בין המצרים
 מעביר: הרב לביא אנגלמן
 מסגרת: כולל ליל שישי
 תאריך: י״ז תמוז תשפ״ו (02.07.2026)
@@ -1054,10 +1073,10 @@
       <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
     </item>
     <item>
-      <title>הרב ערן דאום | מסעות המדבר - פרשנות, מדרש ומחשבה</title>
-      <description><![CDATA[<p>מסעות המדבר - פרשנות, מדרש ומחשבה<br>מעביר: הרב ערן דאום<br>סדרה: מסעות המדבר - פרשנות, מדרש ומחשבה<br>תאריך: ח׳ סיון תשפ״ו (24.05.2026)</p><p>#הרב_ערן_דאום #מסעות_המדבר_פרשנות_מדרש_ומחשבה</p>]]></description>
-      <content:encoded><![CDATA[<p>מסעות המדבר - פרשנות, מדרש ומחשבה<br>מעביר: הרב ערן דאום<br>סדרה: מסעות המדבר - פרשנות, מדרש ומחשבה<br>תאריך: ח׳ סיון תשפ״ו (24.05.2026)</p><p>#הרב_ערן_דאום #מסעות_המדבר_פרשנות_מדרש_ומחשבה</p>]]></content:encoded>
-      <itunes:summary>מסעות המדבר - פרשנות, מדרש ומחשבה
+      <title>הרב ערן דאום | מסעות המדבר - פרשנות, מדרש ומחשבה – חצבה עמודיה שבעה</title>
+      <description><![CDATA[<p>מסעות המדבר - פרשנות, מדרש ומחשבה – חצבה עמודיה שבעה<br>מעביר: הרב ערן דאום<br>סדרה: מסעות המדבר - פרשנות, מדרש ומחשבה<br>תאריך: ח׳ סיון תשפ״ו (24.05.2026)</p><p>#הרב_ערן_דאום #מסעות_המדבר_פרשנות_מדרש_ומחשבה</p>]]></description>
+      <content:encoded><![CDATA[<p>מסעות המדבר - פרשנות, מדרש ומחשבה – חצבה עמודיה שבעה<br>מעביר: הרב ערן דאום<br>סדרה: מסעות המדבר - פרשנות, מדרש ומחשבה<br>תאריך: ח׳ סיון תשפ״ו (24.05.2026)</p><p>#הרב_ערן_דאום #מסעות_המדבר_פרשנות_מדרש_ומחשבה</p>]]></content:encoded>
+      <itunes:summary>מסעות המדבר - פרשנות, מדרש ומחשבה – חצבה עמודיה שבעה
 מעביר: הרב ערן דאום
 סדרה: מסעות המדבר - פרשנות, מדרש ומחשבה
 תאריך: ח׳ סיון תשפ״ו (24.05.2026)
@@ -1074,10 +1093,10 @@
       <podcast:person role="host">הרב ערן דאום</podcast:person>
     </item>
     <item>
-      <title>הרב יוני מילוא | לקראת שבועות</title>
-      <description><![CDATA[<p>לקראת שבועות<br>מעביר: הרב יוני מילוא<br>מועד: שבועות<br>תאריך: ד׳ סיון תשפ״ו (20.05.2026)</p><p>#הרב_יוני_מילוא #שבועות</p>]]></description>
-      <content:encoded><![CDATA[<p>לקראת שבועות<br>מעביר: הרב יוני מילוא<br>מועד: שבועות<br>תאריך: ד׳ סיון תשפ״ו (20.05.2026)</p><p>#הרב_יוני_מילוא #שבועות</p>]]></content:encoded>
-      <itunes:summary>לקראת שבועות
+      <title>הרב יוני מילוא | מגילת הפליאה והחסד</title>
+      <description><![CDATA[<p>מגילת הפליאה והחסד<br>מעביר: הרב יוני מילוא<br>מועד: שבועות<br>תאריך: ד׳ סיון תשפ״ו (20.05.2026)</p><p>#הרב_יוני_מילוא #שבועות</p>]]></description>
+      <content:encoded><![CDATA[<p>מגילת הפליאה והחסד<br>מעביר: הרב יוני מילוא<br>מועד: שבועות<br>תאריך: ד׳ סיון תשפ״ו (20.05.2026)</p><p>#הרב_יוני_מילוא #שבועות</p>]]></content:encoded>
+      <itunes:summary>מגילת הפליאה והחסד
 מעביר: הרב יוני מילוא
 מועד: שבועות
 תאריך: ד׳ סיון תשפ״ו (20.05.2026)
@@ -1094,10 +1113,10 @@
       <podcast:person role="host">הרב יוני מילוא</podcast:person>
     </item>
     <item>
-      <title>הרב אהרן כהן | לקראת שבועות</title>
-      <description><![CDATA[<p>לקראת שבועות<br>מעביר: הרב אהרן כהן<br>מועד: שבועות<br>תאריך: ג׳ סיון תשפ״ו (19.05.2026)</p><p>#הרב_אהרן_כהן #שבועות</p>]]></description>
-      <content:encoded><![CDATA[<p>לקראת שבועות<br>מעביר: הרב אהרן כהן<br>מועד: שבועות<br>תאריך: ג׳ סיון תשפ״ו (19.05.2026)</p><p>#הרב_אהרן_כהן #שבועות</p>]]></content:encoded>
-      <itunes:summary>לקראת שבועות
+      <title>הרב אהרן כהן | שבועות</title>
+      <description><![CDATA[<p>שבועות<br>מעביר: הרב אהרן כהן<br>מועד: שבועות<br>תאריך: ג׳ סיון תשפ״ו (19.05.2026)</p><p>#הרב_אהרן_כהן #שבועות</p>]]></description>
+      <content:encoded><![CDATA[<p>שבועות<br>מעביר: הרב אהרן כהן<br>מועד: שבועות<br>תאריך: ג׳ סיון תשפ״ו (19.05.2026)</p><p>#הרב_אהרן_כהן #שבועות</p>]]></content:encoded>
+      <itunes:summary>שבועות
 מעביר: הרב אהרן כהן
 מועד: שבועות
 תאריך: ג׳ סיון תשפ״ו (19.05.2026)
@@ -1114,10 +1133,10 @@
       <podcast:person role="host">הרב אהרן כהן</podcast:person>
     </item>
     <item>
-      <title>הרב ברוך רוזנבלום | לקראת שבועות</title>
-      <description><![CDATA[<p>לקראת שבועות<br>מעביר: הרב ברוך רוזנבלום<br>מועד: שבועות<br>תאריך: ב׳ סיון תשפ״ו (18.05.2026)</p><p>#הרב_ברוך_רוזנבלום #שבועות</p>]]></description>
-      <content:encoded><![CDATA[<p>לקראת שבועות<br>מעביר: הרב ברוך רוזנבלום<br>מועד: שבועות<br>תאריך: ב׳ סיון תשפ״ו (18.05.2026)</p><p>#הרב_ברוך_רוזנבלום #שבועות</p>]]></content:encoded>
-      <itunes:summary>לקראת שבועות
+      <title>הרב ברוך רוזנבלום | שבועות</title>
+      <description><![CDATA[<p>שבועות<br>מעביר: הרב ברוך רוזנבלום<br>מועד: שבועות<br>תאריך: ב׳ סיון תשפ״ו (18.05.2026)</p><p>#הרב_ברוך_רוזנבלום #שבועות</p>]]></description>
+      <content:encoded><![CDATA[<p>שבועות<br>מעביר: הרב ברוך רוזנבלום<br>מועד: שבועות<br>תאריך: ב׳ סיון תשפ״ו (18.05.2026)</p><p>#הרב_ברוך_רוזנבלום #שבועות</p>]]></content:encoded>
+      <itunes:summary>שבועות
 מעביר: הרב ברוך רוזנבלום
 מועד: שבועות
 תאריך: ב׳ סיון תשפ״ו (18.05.2026)
@@ -1134,10 +1153,10 @@
       <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
     </item>
     <item>
-      <title>הרב ערן טמיר | חג שבועות · א׳ סיון תשפ״ו</title>
-      <description><![CDATA[<p>חג שבועות<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: א׳ סיון תשפ״ו (17.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></description>
-      <content:encoded><![CDATA[<p>חג שבועות<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: א׳ סיון תשפ״ו (17.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></content:encoded>
-      <itunes:summary>חג שבועות
+      <title>הרב ערן טמיר | חג שבועות – התורה</title>
+      <description><![CDATA[<p>חג שבועות – התורה<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: א׳ סיון תשפ״ו (17.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></description>
+      <content:encoded><![CDATA[<p>חג שבועות – התורה<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: א׳ סיון תשפ״ו (17.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></content:encoded>
+      <itunes:summary>חג שבועות – התורה
 מעביר: הרב ערן טמיר
 סדרה: חג שבועות
 מועד: שבועות
@@ -1155,17 +1174,18 @@
       <podcast:person role="host">הרב ערן טמיר</podcast:person>
     </item>
     <item>
-      <title>הרב אהוד אחיטוב | כולל ליל שישי · כ״ז אייר תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ז אייר תשפ״ו (14.05.2026)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ז אייר תשפ״ו (14.05.2026)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב אהוד אחיטוב | יום ירושלים</title>
+      <description><![CDATA[<p>יום ירושלים<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>מועד: יום ירושלים<br>תאריך: כ״ז אייר תשפ״ו (14.05.2026)</p><p>#הרב_אהוד_אחיטוב #יום_ירושלים #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>יום ירושלים<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>מועד: יום ירושלים<br>תאריך: כ״ז אייר תשפ״ו (14.05.2026)</p><p>#הרב_אהוד_אחיטוב #יום_ירושלים #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>יום ירושלים
 מעביר: הרב אהוד אחיטוב
 מסגרת: כולל ליל שישי
+מועד: יום ירושלים
 תאריך: כ״ז אייר תשפ״ו (14.05.2026)
 
-#הרב_אהוד_אחיטוב #כולל_ליל_שישי</itunes:summary>
+#הרב_אהוד_אחיטוב #יום_ירושלים #כולל_ליל_שישי</itunes:summary>
       <itunes:author>הרב אהוד אחיטוב</itunes:author>
-      <itunes:keywords>הרב אהוד אחיטוב,כולל ליל שישי</itunes:keywords>
+      <itunes:keywords>הרב אהוד אחיטוב,יום ירושלים,כולל ליל שישי</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1ZFN_sEYeWn73BSczp8lcLi7IdgXeOsLc.mp3" length="16596384" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-af79070b-53f8-487c-859e-73c388fa01d8</guid>
       <pubDate>Thu, 14 May 2026 20:00:00 +0300</pubDate>
@@ -1175,10 +1195,10 @@
       <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
     </item>
     <item>
-      <title>אלישע בר שאול | לקראת יום ירושלים · כ״ה אייר תשפ״ו (חלק 2)</title>
-      <description><![CDATA[<p>לקראת יום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></description>
-      <content:encoded><![CDATA[<p>לקראת יום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></content:encoded>
-      <itunes:summary>לקראת יום ירושלים
+      <title>אלישע בר שאול | ליום ירושלים · כ״ה אייר תשפ״ו (חלק 2)</title>
+      <description><![CDATA[<p>ליום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></description>
+      <content:encoded><![CDATA[<p>ליום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></content:encoded>
+      <itunes:summary>ליום ירושלים
 מעביר: אלישע בר שאול
 מועד: יום ירושלים
 תאריך: כ״ה אייר תשפ״ו (12.05.2026)
@@ -1196,10 +1216,10 @@
       <podcast:person role="host">אלישע בר שאול</podcast:person>
     </item>
     <item>
-      <title>אלישע בר שאול | לקראת יום ירושלים · כ״ה אייר תשפ״ו (חלק 1)</title>
-      <description><![CDATA[<p>לקראת יום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></description>
-      <content:encoded><![CDATA[<p>לקראת יום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></content:encoded>
-      <itunes:summary>לקראת יום ירושלים
+      <title>אלישע בר שאול | ליום ירושלים · כ״ה אייר תשפ״ו (חלק 1)</title>
+      <description><![CDATA[<p>ליום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></description>
+      <content:encoded><![CDATA[<p>ליום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></content:encoded>
+      <itunes:summary>ליום ירושלים
 מעביר: אלישע בר שאול
 מועד: יום ירושלים
 תאריך: כ״ה אייר תשפ״ו (12.05.2026)
@@ -1238,10 +1258,10 @@
       <podcast:person role="host">הרב ערן טמיר</podcast:person>
     </item>
     <item>
-      <title>הרב ברוך רוזנבלום | לקראת ל"ג בעומר</title>
-      <description><![CDATA[<p>לקראת ל&quot;ג בעומר<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ל&quot;ג בעומר<br>תאריך: י״ז אייר תשפ״ו (04.05.2026)</p><p>#הרב_ברוך_רוזנבלום #לג_בעומר</p>]]></description>
-      <content:encoded><![CDATA[<p>לקראת ל&quot;ג בעומר<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ל&quot;ג בעומר<br>תאריך: י״ז אייר תשפ״ו (04.05.2026)</p><p>#הרב_ברוך_רוזנבלום #לג_בעומר</p>]]></content:encoded>
-      <itunes:summary>לקראת ל"ג בעומר
+      <title>הרב ברוך רוזנבלום | רבי שמעון בר יוחאי</title>
+      <description><![CDATA[<p>רבי שמעון בר יוחאי<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ל&quot;ג בעומר<br>תאריך: י״ז אייר תשפ״ו (04.05.2026)</p><p>#הרב_ברוך_רוזנבלום #לג_בעומר</p>]]></description>
+      <content:encoded><![CDATA[<p>רבי שמעון בר יוחאי<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ל&quot;ג בעומר<br>תאריך: י״ז אייר תשפ״ו (04.05.2026)</p><p>#הרב_ברוך_רוזנבלום #לג_בעומר</p>]]></content:encoded>
+      <itunes:summary>רבי שמעון בר יוחאי
 מעביר: הרב ברוך רוזנבלום
 מועד: ל"ג בעומר
 תאריך: י״ז אייר תשפ״ו (04.05.2026)
@@ -1258,10 +1278,10 @@
       <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
     </item>
     <item>
-      <title>הרב ערן טמיר | חג שבועות · ט״ז אייר תשפ״ו</title>
-      <description><![CDATA[<p>חג שבועות<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: ט״ז אייר תשפ״ו (03.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></description>
-      <content:encoded><![CDATA[<p>חג שבועות<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: ט״ז אייר תשפ״ו (03.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></content:encoded>
-      <itunes:summary>חג שבועות
+      <title>הרב ערן טמיר | חג שבועות – הנסתר ינצח את הנגלה 2</title>
+      <description><![CDATA[<p>חג שבועות – הנסתר ינצח את הנגלה 2<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: ט״ז אייר תשפ״ו (03.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></description>
+      <content:encoded><![CDATA[<p>חג שבועות – הנסתר ינצח את הנגלה 2<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: ט״ז אייר תשפ״ו (03.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></content:encoded>
+      <itunes:summary>חג שבועות – הנסתר ינצח את הנגלה 2
 מעביר: הרב ערן טמיר
 סדרה: חג שבועות
 מועד: שבועות
@@ -1301,10 +1321,10 @@
       <podcast:person role="host">הרב יעקב שמעון</podcast:person>
     </item>
     <item>
-      <title>הרב ערן טמיר | לקראת לג בעומר הנסתר ינצח את העולם</title>
-      <description><![CDATA[<p>לקראת לג בעומר הנסתר ינצח את העולם<br>מעביר: הרב ערן טמיר<br>מועד: ל&quot;ג בעומר<br>תאריך: י״א אייר תשפ״ו (28.04.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר #לג_בעומר</p>]]></description>
-      <content:encoded><![CDATA[<p>לקראת לג בעומר הנסתר ינצח את העולם<br>מעביר: הרב ערן טמיר<br>מועד: ל&quot;ג בעומר<br>תאריך: י״א אייר תשפ״ו (28.04.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר #לג_בעומר</p>]]></content:encoded>
-      <itunes:summary>לקראת לג בעומר הנסתר ינצח את העולם
+      <title>הרב ערן טמיר | הנסתר ינצח את העולם א</title>
+      <description><![CDATA[<p>הנסתר ינצח את העולם א<br>מעביר: הרב ערן טמיר<br>מועד: ל&quot;ג בעומר<br>תאריך: י״א אייר תשפ״ו (28.04.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר #לג_בעומר</p>]]></description>
+      <content:encoded><![CDATA[<p>הנסתר ינצח את העולם א<br>מעביר: הרב ערן טמיר<br>מועד: ל&quot;ג בעומר<br>תאריך: י״א אייר תשפ״ו (28.04.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר #לג_בעומר</p>]]></content:encoded>
+      <itunes:summary>הנסתר ינצח את העולם א
 מעביר: הרב ערן טמיר
 מועד: ל"ג בעומר
 תאריך: י״א אייר תשפ״ו (28.04.2026)
@@ -1322,10 +1342,10 @@
       <podcast:person role="host">הרב ערן טמיר</podcast:person>
     </item>
     <item>
-      <title>הרב יוסי קבסה | כך היא גאולתן של ישראל · ט׳ אייר תשפ״ו</title>
-      <description><![CDATA[<p>כך היא גאולתן של ישראל<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ט׳ אייר תשפ״ו (26.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></description>
-      <content:encoded><![CDATA[<p>כך היא גאולתן של ישראל<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ט׳ אייר תשפ״ו (26.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></content:encoded>
-      <itunes:summary>כך היא גאולתן של ישראל
+      <title>הרב יוסי קבסה | כך היא גאולתן של ישראל 2</title>
+      <description><![CDATA[<p>כך היא גאולתן של ישראל 2<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ט׳ אייר תשפ״ו (26.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></description>
+      <content:encoded><![CDATA[<p>כך היא גאולתן של ישראל 2<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ט׳ אייר תשפ״ו (26.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></content:encoded>
+      <itunes:summary>כך היא גאולתן של ישראל 2
 מעביר: הרב יוסי קבסה
 סדרה: כך היא גאולתן של ישראל
 תאריך: ט׳ אייר תשפ״ו (26.04.2026)
@@ -1363,10 +1383,10 @@
       <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
     </item>
     <item>
-      <title>הרב יוסי קבסה | כך היא גאולתן של ישראל · ב׳ אייר תשפ״ו</title>
-      <description><![CDATA[<p>כך היא גאולתן של ישראל<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ב׳ אייר תשפ״ו (19.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></description>
-      <content:encoded><![CDATA[<p>כך היא גאולתן של ישראל<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ב׳ אייר תשפ״ו (19.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></content:encoded>
-      <itunes:summary>כך היא גאולתן של ישראל
+      <title>הרב יוסי קבסה | כך היא גאולתן של ישראל א</title>
+      <description><![CDATA[<p>כך היא גאולתן של ישראל א<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ב׳ אייר תשפ״ו (19.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></description>
+      <content:encoded><![CDATA[<p>כך היא גאולתן של ישראל א<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ב׳ אייר תשפ״ו (19.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></content:encoded>
+      <itunes:summary>כך היא גאולתן של ישראל א
 מעביר: הרב יוסי קבסה
 סדרה: כך היא גאולתן של ישראל
 תאריך: ב׳ אייר תשפ״ו (19.04.2026)
@@ -1383,10 +1403,10 @@
       <podcast:person role="host">הרב יוסי קבסה</podcast:person>
     </item>
     <item>
-      <title>הרב חגי לונדין | כולל ליל שישי · כ״ט ניסן תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט ניסן תשפ״ו (16.04.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט ניסן תשפ״ו (16.04.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב חגי לונדין | כך היא גאולתן של ישראל א</title>
+      <description><![CDATA[<p>כך היא גאולתן של ישראל א<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט ניסן תשפ״ו (16.04.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כך היא גאולתן של ישראל א<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט ניסן תשפ״ו (16.04.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כך היא גאולתן של ישראל א
 מעביר: הרב חגי לונדין
 מסגרת: כולל ליל שישי
 תאריך: כ״ט ניסן תשפ״ו (16.04.2026)
@@ -1425,10 +1445,10 @@
       <podcast:person role="host">הרב יוני מילוא</podcast:person>
     </item>
     <item>
-      <title>הרב אברהם בלס | חגי ניסן אייר · כ״ה ניסן תשפ״ו</title>
-      <description><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: כ״ה ניסן תשפ״ו (12.04.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></description>
-      <content:encoded><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: כ״ה ניסן תשפ״ו (12.04.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></content:encoded>
-      <itunes:summary>חגי ניסן אייר
+      <title>הרב אברהם בלס | חגי ניסן אייר – חג הגאולה עפ הירושלמי</title>
+      <description><![CDATA[<p>חגי ניסן אייר – חג הגאולה עפ הירושלמי<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: כ״ה ניסן תשפ״ו (12.04.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></description>
+      <content:encoded><![CDATA[<p>חגי ניסן אייר – חג הגאולה עפ הירושלמי<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: כ״ה ניסן תשפ״ו (12.04.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></content:encoded>
+      <itunes:summary>חגי ניסן אייר – חג הגאולה עפ הירושלמי
 מעביר: הרב אברהם בלס
 סדרה: חגי ניסן אייר
 מועד: פסח
@@ -1446,10 +1466,10 @@
       <podcast:person role="host">הרב אברהם בלס</podcast:person>
     </item>
     <item>
-      <title>הרב עוזי ביננפלד | כולל ליל שישי · כ״ב ניסן תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ב ניסן תשפ״ו (09.04.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ב ניסן תשפ״ו (09.04.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב עוזי ביננפלד | גאולה אחרונה אין לה הפסק</title>
+      <description><![CDATA[<p>גאולה אחרונה אין לה הפסק<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ב ניסן תשפ״ו (09.04.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>גאולה אחרונה אין לה הפסק<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ב ניסן תשפ״ו (09.04.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>גאולה אחרונה אין לה הפסק
 מעביר: הרב עוזי ביננפלד
 מסגרת: כולל ליל שישי
 תאריך: כ״ב ניסן תשפ״ו (09.04.2026)
@@ -1486,10 +1506,10 @@
       <podcast:person role="host">הרב שי סבג</podcast:person>
     </item>
     <item>
-      <title>הרב אברהם בלס | חגי ניסן אייר · י״א ניסן תשפ״ו (חלק 2)</title>
-      <description><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></description>
-      <content:encoded><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></content:encoded>
-      <itunes:summary>חגי ניסן אייר
+      <title>הרב אברהם בלס | חגי ניסן אייר – חג הלאומיות והחירות · י״א ניסן תשפ״ו (חלק 2)</title>
+      <description><![CDATA[<p>חגי ניסן אייר – חג הלאומיות והחירות<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></description>
+      <content:encoded><![CDATA[<p>חגי ניסן אייר – חג הלאומיות והחירות<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></content:encoded>
+      <itunes:summary>חגי ניסן אייר – חג הלאומיות והחירות
 מעביר: הרב אברהם בלס
 סדרה: חגי ניסן אייר
 מועד: פסח
@@ -1507,10 +1527,10 @@
       <podcast:person role="host">הרב אברהם בלס</podcast:person>
     </item>
     <item>
-      <title>הרב אברהם בלס | חגי ניסן אייר · י״א ניסן תשפ״ו (חלק 1)</title>
-      <description><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></description>
-      <content:encoded><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></content:encoded>
-      <itunes:summary>חגי ניסן אייר
+      <title>הרב אברהם בלס | חגי ניסן אייר – חג הלאומיות והחירות · י״א ניסן תשפ״ו (חלק 1)</title>
+      <description><![CDATA[<p>חגי ניסן אייר – חג הלאומיות והחירות<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></description>
+      <content:encoded><![CDATA[<p>חגי ניסן אייר – חג הלאומיות והחירות<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></content:encoded>
+      <itunes:summary>חגי ניסן אייר – חג הלאומיות והחירות
 מעביר: הרב אברהם בלס
 סדרה: חגי ניסן אייר
 מועד: פסח
@@ -1570,10 +1590,10 @@
       <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
     </item>
     <item>
-      <title>הרב יוני מילוא | כולל ליל שישי · כ״ג אדר תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אדר תשפ״ו (12.03.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אדר תשפ״ו (12.03.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב יוני מילוא | איך בונים בית מחדש. יוני מלוא. ויקהל פקודי</title>
+      <description><![CDATA[<p>איך בונים בית מחדש. יוני מלוא. ויקהל פקודי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אדר תשפ״ו (12.03.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>איך בונים בית מחדש. יוני מלוא. ויקהל פקודי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אדר תשפ״ו (12.03.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>איך בונים בית מחדש. יוני מלוא. ויקהל פקודי
 מעביר: הרב יוני מילוא
 מסגרת: כולל ליל שישי
 תאריך: כ״ג אדר תשפ״ו (12.03.2026)
@@ -1612,10 +1632,10 @@
       <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
     </item>
     <item>
-      <title>הרב ברוך רוזנבלום | הכנה לפורים</title>
-      <description><![CDATA[<p>הכנה לפורים<br>מעביר: הרב ברוך רוזנבלום<br>מועד: פורים<br>תאריך: י״ב אדר תשפ״ו (01.03.2026)</p><p>#הרב_ברוך_רוזנבלום #פורים</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לפורים<br>מעביר: הרב ברוך רוזנבלום<br>מועד: פורים<br>תאריך: י״ב אדר תשפ״ו (01.03.2026)</p><p>#הרב_ברוך_רוזנבלום #פורים</p>]]></content:encoded>
-      <itunes:summary>הכנה לפורים
+      <title>הרב ברוך רוזנבלום | תפילת יתום פורים</title>
+      <description><![CDATA[<p>תפילת יתום פורים<br>מעביר: הרב ברוך רוזנבלום<br>מועד: פורים<br>תאריך: י״ב אדר תשפ״ו (01.03.2026)</p><p>#הרב_ברוך_רוזנבלום #פורים</p>]]></description>
+      <content:encoded><![CDATA[<p>תפילת יתום פורים<br>מעביר: הרב ברוך רוזנבלום<br>מועד: פורים<br>תאריך: י״ב אדר תשפ״ו (01.03.2026)</p><p>#הרב_ברוך_רוזנבלום #פורים</p>]]></content:encoded>
+      <itunes:summary>תפילת יתום פורים
 מעביר: הרב ברוך רוזנבלום
 מועד: פורים
 תאריך: י״ב אדר תשפ״ו (01.03.2026)
@@ -1673,10 +1693,10 @@
       <podcast:person role="host">הרב ערן טמיר</podcast:person>
     </item>
     <item>
-      <title>הרב אלי פיינסילבר | הכנה לפורים · ה׳ אדר תשפ״ו</title>
-      <description><![CDATA[<p>הכנה לפורים<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לפורים<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>הכנה לפורים
+      <title>הרב אלי פיינסילבר | פורים</title>
+      <description><![CDATA[<p>פורים<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>פורים<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>פורים
 מעביר: הרב אלי פיינסילבר
 מסגרת: כולל ליל שישי
 מועד: פורים
@@ -1696,15 +1716,16 @@
     </item>
     <item>
       <title>הרב נתנאל אוירבך | סדרה, מפגש שלישי · ה׳ אדר תשפ״ו (חלק 2)</title>
-      <description><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך</p>]]></description>
-      <content:encoded><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך</p>]]></content:encoded>
+      <description><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>מועד: פורים<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך #פורים</p>]]></description>
+      <content:encoded><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>מועד: פורים<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך #פורים</p>]]></content:encoded>
       <itunes:summary>סדרה, מפגש שלישי
 מעביר: הרב נתנאל אוירבך
+מועד: פורים
 תאריך: ה׳ אדר תשפ״ו (22.02.2026)
 
-#הרב_נתנאל_אוירבך</itunes:summary>
+#הרב_נתנאל_אוירבך #פורים</itunes:summary>
       <itunes:author>הרב נתנאל אוירבך</itunes:author>
-      <itunes:keywords>הרב נתנאל אוירבך</itunes:keywords>
+      <itunes:keywords>הרב נתנאל אוירבך,פורים</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1aa-JEsB9l9g9DTPiEDp0rnj3f3lH8Inm.mp3" length="32159534" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-168e3cfa-f7ca-492d-8176-7eaeae533947</guid>
       <pubDate>Sun, 22 Feb 2026 20:00:00 +0200</pubDate>
@@ -1715,15 +1736,16 @@
     </item>
     <item>
       <title>הרב נתנאל אוירבך | סדרה, מפגש שלישי · ה׳ אדר תשפ״ו (חלק 1)</title>
-      <description><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך</p>]]></description>
-      <content:encoded><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך</p>]]></content:encoded>
+      <description><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>מועד: פורים<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך #פורים</p>]]></description>
+      <content:encoded><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>מועד: פורים<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך #פורים</p>]]></content:encoded>
       <itunes:summary>סדרה, מפגש שלישי
 מעביר: הרב נתנאל אוירבך
+מועד: פורים
 תאריך: ה׳ אדר תשפ״ו (22.02.2026)
 
-#הרב_נתנאל_אוירבך</itunes:summary>
+#הרב_נתנאל_אוירבך #פורים</itunes:summary>
       <itunes:author>הרב נתנאל אוירבך</itunes:author>
-      <itunes:keywords>הרב נתנאל אוירבך</itunes:keywords>
+      <itunes:keywords>הרב נתנאל אוירבך,פורים</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1aa-JEsB9l9g9DTPiEDp0rnj3f3lH8Inm.mp3" length="32159534" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-0cc7b3ec-4074-4be5-9cbe-819aa742e07d</guid>
       <pubDate>Sun, 22 Feb 2026 20:00:00 +0200</pubDate>
@@ -1733,10 +1755,10 @@
       <podcast:person role="host">הרב נתנאל אוירבך</podcast:person>
     </item>
     <item>
-      <title>הרב עוזי ביננפלד | כולל ליל שישי · ב׳ אדר תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב עוזי ביננפלד | מיהו עמלק</title>
+      <description><![CDATA[<p>מיהו עמלק<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>מיהו עמלק<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>מיהו עמלק
 מעביר: הרב עוזי ביננפלד
 מסגרת: כולל ליל שישי
 תאריך: ב׳ אדר תשפ״ו (19.02.2026)
@@ -1753,10 +1775,10 @@
       <podcast:person role="host">הרב עוזי ביננפלד</podcast:person>
     </item>
     <item>
-      <title>הרב נח ויזונסקי | הכנה לפורים</title>
-      <description><![CDATA[<p>הכנה לפורים<br>מעביר: הרב נח ויזונסקי<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)<br>מקום: המרפסת</p><p>#הרב_נח_ויזונסקי #פורים #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לפורים<br>מעביר: הרב נח ויזונסקי<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)<br>מקום: המרפסת</p><p>#הרב_נח_ויזונסקי #פורים #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>הכנה לפורים
+      <title>הרב נח ויזונסקי | עין איה</title>
+      <description><![CDATA[<p>עין איה<br>מעביר: הרב נח ויזונסקי<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)<br>מקום: המרפסת</p><p>#הרב_נח_ויזונסקי #פורים #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>עין איה<br>מעביר: הרב נח ויזונסקי<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)<br>מקום: המרפסת</p><p>#הרב_נח_ויזונסקי #פורים #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>עין איה
 מעביר: הרב נח ויזונסקי
 מסגרת: כולל ליל שישי
 מועד: פורים
@@ -1775,10 +1797,10 @@
       <podcast:person role="host">הרב נח ויזונסקי</podcast:person>
     </item>
     <item>
-      <title>הרב אלי פיינסילבר | הכנה לפורים מפגש שני</title>
-      <description><![CDATA[<p>הכנה לפורים מפגש שני<br>מעביר: הרב אלי פיינסילבר<br>סדרה: הכנה לפורים · מפגש 2<br>מועד: פורים<br>תאריך: כ״ח שבט תשפ״ו (15.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #הכנה_לפורים</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לפורים מפגש שני<br>מעביר: הרב אלי פיינסילבר<br>סדרה: הכנה לפורים · מפגש 2<br>מועד: פורים<br>תאריך: כ״ח שבט תשפ״ו (15.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #הכנה_לפורים</p>]]></content:encoded>
-      <itunes:summary>הכנה לפורים מפגש שני
+      <title>הרב אלי פיינסילבר | הכנה לפורים – כלל ופרט במגילה. ב, מפגש 2</title>
+      <description><![CDATA[<p>הכנה לפורים – כלל ופרט במגילה. ב, מפגש 2<br>מעביר: הרב אלי פיינסילבר<br>סדרה: הכנה לפורים · מפגש 2<br>מועד: פורים<br>תאריך: כ״ח שבט תשפ״ו (15.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #הכנה_לפורים</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לפורים – כלל ופרט במגילה. ב, מפגש 2<br>מעביר: הרב אלי פיינסילבר<br>סדרה: הכנה לפורים · מפגש 2<br>מועד: פורים<br>תאריך: כ״ח שבט תשפ״ו (15.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #הכנה_לפורים</p>]]></content:encoded>
+      <itunes:summary>הכנה לפורים – כלל ופרט במגילה. ב, מפגש 2
 מעביר: הרב אלי פיינסילבר
 סדרה: הכנה לפורים · מפגש 2
 מועד: פורים
@@ -1818,10 +1840,10 @@
       <podcast:person role="host">הרב חגי לונדין</podcast:person>
     </item>
     <item>
-      <title>הרב אלי פיינסילבר | הכנה לפורים · כ״א שבט תשפ״ו</title>
-      <description><![CDATA[<p>הכנה לפורים<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: כ״א שבט תשפ״ו (08.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לפורים<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: כ״א שבט תשפ״ו (08.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>הכנה לפורים
+      <title>הרב אלי פיינסילבר | כלל ופרט במגילה. א</title>
+      <description><![CDATA[<p>כלל ופרט במגילה. א<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: כ״א שבט תשפ״ו (08.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כלל ופרט במגילה. א<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: כ״א שבט תשפ״ו (08.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כלל ופרט במגילה. א
 מעביר: הרב אלי פיינסילבר
 מסגרת: כולל ליל שישי
 מועד: פורים
@@ -1861,10 +1883,10 @@
       <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
     </item>
     <item>
-      <title>הרב לביא אנגלמן | הכנה לט"ו בשבט</title>
-      <description><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב לביא אנגלמן<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_לביא_אנגלמן #טו_בשבט</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב לביא אנגלמן<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_לביא_אנגלמן #טו_בשבט</p>]]></content:encoded>
-      <itunes:summary>הכנה לט"ו בשבט
+      <title>הרב לביא אנגלמן | קדושת ארץ ישראל</title>
+      <description><![CDATA[<p>קדושת ארץ ישראל<br>מעביר: הרב לביא אנגלמן<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_לביא_אנגלמן #טו_בשבט</p>]]></description>
+      <content:encoded><![CDATA[<p>קדושת ארץ ישראל<br>מעביר: הרב לביא אנגלמן<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_לביא_אנגלמן #טו_בשבט</p>]]></content:encoded>
+      <itunes:summary>קדושת ארץ ישראל
 מעביר: הרב לביא אנגלמן
 מועד: ט"ו בשבט
 תאריך: י״ד שבט תשפ״ו (01.02.2026)
@@ -1881,10 +1903,10 @@
       <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
     </item>
     <item>
-      <title>הרב ברוך רוזנבלום | הכנה לט"ו בשבט · י״ד שבט תשפ״ו (חלק 2)</title>
-      <description><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></content:encoded>
-      <itunes:summary>הכנה לט"ו בשבט
+      <title>הרב ברוך רוזנבלום | טו בשבט · י״ד שבט תשפ״ו (חלק 2)</title>
+      <description><![CDATA[<p>טו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></description>
+      <content:encoded><![CDATA[<p>טו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></content:encoded>
+      <itunes:summary>טו בשבט
 מעביר: הרב ברוך רוזנבלום
 מועד: ט"ו בשבט
 תאריך: י״ד שבט תשפ״ו (01.02.2026)
@@ -1901,10 +1923,10 @@
       <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
     </item>
     <item>
-      <title>הרב ברוך רוזנבלום | הכנה לט"ו בשבט · י״ד שבט תשפ״ו (חלק 1)</title>
-      <description><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></content:encoded>
-      <itunes:summary>הכנה לט"ו בשבט
+      <title>הרב ברוך רוזנבלום | טו בשבט · י״ד שבט תשפ״ו (חלק 1)</title>
+      <description><![CDATA[<p>טו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></description>
+      <content:encoded><![CDATA[<p>טו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></content:encoded>
+      <itunes:summary>טו בשבט
 מעביר: הרב ברוך רוזנבלום
 מועד: ט"ו בשבט
 תאריך: י״ד שבט תשפ״ו (01.02.2026)
@@ -1921,10 +1943,10 @@
       <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
     </item>
     <item>
-      <title>הרב אלי פיינסילבר | כולל ליל שישי</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>תאריך: י״א שבט תשפ״ו (29.01.2026)</p><p>#הרב_אלי_פיינסילבר #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>תאריך: י״א שבט תשפ״ו (29.01.2026)</p><p>#הרב_אלי_פיינסילבר #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב אלי פיינסילבר | מהות גזירות חזל</title>
+      <description><![CDATA[<p>מהות גזירות חזל<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>תאריך: י״א שבט תשפ״ו (29.01.2026)</p><p>#הרב_אלי_פיינסילבר #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>מהות גזירות חזל<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>תאריך: י״א שבט תשפ״ו (29.01.2026)</p><p>#הרב_אלי_פיינסילבר #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>מהות גזירות חזל
 מעביר: הרב אלי פיינסילבר
 מסגרת: כולל ליל שישי
 תאריך: י״א שבט תשפ״ו (29.01.2026)
@@ -1941,10 +1963,10 @@
       <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
     </item>
     <item>
-      <title>הרב יוסי קבסה | כולל ליל שישי</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוסי קבסה<br>מסגרת: כולל ליל שישי<br>תאריך: ד׳ שבט תשפ״ו (22.01.2026)</p><p>#הרב_יוסי_קבסה #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוסי קבסה<br>מסגרת: כולל ליל שישי<br>תאריך: ד׳ שבט תשפ״ו (22.01.2026)</p><p>#הרב_יוסי_קבסה #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב יוסי קבסה | כלי כסף וכלי זהב</title>
+      <description><![CDATA[<p>כלי כסף וכלי זהב<br>מעביר: הרב יוסי קבסה<br>מסגרת: כולל ליל שישי<br>תאריך: ד׳ שבט תשפ״ו (22.01.2026)</p><p>#הרב_יוסי_קבסה #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כלי כסף וכלי זהב<br>מעביר: הרב יוסי קבסה<br>מסגרת: כולל ליל שישי<br>תאריך: ד׳ שבט תשפ״ו (22.01.2026)</p><p>#הרב_יוסי_קבסה #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כלי כסף וכלי זהב
 מעביר: הרב יוסי קבסה
 מסגרת: כולל ליל שישי
 תאריך: ד׳ שבט תשפ״ו (22.01.2026)
@@ -1981,10 +2003,10 @@
       <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
     </item>
     <item>
-      <title>הרב יוני מילוא | כולל ליל שישי · כ״ו טבת תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ו טבת תשפ״ו (15.01.2026)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ו טבת תשפ״ו (15.01.2026)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב יוני מילוא | וארא</title>
+      <description><![CDATA[<p>וארא<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ו טבת תשפ״ו (15.01.2026)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>וארא<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ו טבת תשפ״ו (15.01.2026)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>וארא
 מעביר: הרב יוני מילוא
 מסגרת: כולל ליל שישי
 תאריך: כ״ו טבת תשפ״ו (15.01.2026)
@@ -2022,10 +2044,10 @@
       <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
     </item>
     <item>
-      <title>הרב יואב אוריאל | כולל ליל שישי · י״ט טבת תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: י״ט טבת תשפ״ו (08.01.2026)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: י״ט טבת תשפ״ו (08.01.2026)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב יואב אוריאל | ואלה שמות</title>
+      <description><![CDATA[<p>ואלה שמות<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: י״ט טבת תשפ״ו (08.01.2026)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>ואלה שמות<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: י״ט טבת תשפ״ו (08.01.2026)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>ואלה שמות
 מעביר: הרב יואב אוריאל
 מסגרת: כולל ליל שישי
 תאריך: י״ט טבת תשפ״ו (08.01.2026)
@@ -2062,10 +2084,10 @@
       <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
     </item>
     <item>
-      <title>הרב צחי משען | כולל ליל שישי</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב צחי משען<br>מסגרת: כולל ליל שישי<br>תאריך: י״ב טבת תשפ״ו (01.01.2026)</p><p>#הרב_צחי_משען #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב צחי משען<br>מסגרת: כולל ליל שישי<br>תאריך: י״ב טבת תשפ״ו (01.01.2026)</p><p>#הרב_צחי_משען #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב צחי משען | קבורת יעקב ויוסף</title>
+      <description><![CDATA[<p>קבורת יעקב ויוסף<br>מעביר: הרב צחי משען<br>מסגרת: כולל ליל שישי<br>תאריך: י״ב טבת תשפ״ו (01.01.2026)</p><p>#הרב_צחי_משען #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>קבורת יעקב ויוסף<br>מעביר: הרב צחי משען<br>מסגרת: כולל ליל שישי<br>תאריך: י״ב טבת תשפ״ו (01.01.2026)</p><p>#הרב_צחי_משען #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>קבורת יעקב ויוסף
 מעביר: הרב צחי משען
 מסגרת: כולל ליל שישי
 תאריך: י״ב טבת תשפ״ו (01.01.2026)
@@ -2082,10 +2104,10 @@
       <podcast:person role="host">הרב צחי משען</podcast:person>
     </item>
     <item>
-      <title>ד"ר חגי בן ארצי | לקראת עשרה בטבת</title>
-      <description><![CDATA[<p>לקראת עשרה בטבת<br>מעביר: ד&quot;ר חגי בן ארצי<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#דר_חגי_בן_ארצי #עשרה_בטבת</p>]]></description>
-      <content:encoded><![CDATA[<p>לקראת עשרה בטבת<br>מעביר: ד&quot;ר חגי בן ארצי<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#דר_חגי_בן_ארצי #עשרה_בטבת</p>]]></content:encoded>
-      <itunes:summary>לקראת עשרה בטבת
+      <title>ד"ר חגי בן ארצי | עשרה בטבת</title>
+      <description><![CDATA[<p>עשרה בטבת<br>מעביר: ד&quot;ר חגי בן ארצי<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#דר_חגי_בן_ארצי #עשרה_בטבת</p>]]></description>
+      <content:encoded><![CDATA[<p>עשרה בטבת<br>מעביר: ד&quot;ר חגי בן ארצי<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#דר_חגי_בן_ארצי #עשרה_בטבת</p>]]></content:encoded>
+      <itunes:summary>עשרה בטבת
 מעביר: ד"ר חגי בן ארצי
 מועד: עשרה בטבת
 תאריך: ח׳ טבת תשפ״ו (28.12.2025)
@@ -2103,10 +2125,10 @@
       <podcast:person role="host">ד"ר חגי בן ארצי</podcast:person>
     </item>
     <item>
-      <title>הרב יצחק נריה | לקראת עשרה בטבת</title>
-      <description><![CDATA[<p>לקראת עשרה בטבת<br>מעביר: הרב יצחק נריה<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#הרב_יצחק_נריה #עשרה_בטבת</p>]]></description>
-      <content:encoded><![CDATA[<p>לקראת עשרה בטבת<br>מעביר: הרב יצחק נריה<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#הרב_יצחק_נריה #עשרה_בטבת</p>]]></content:encoded>
-      <itunes:summary>לקראת עשרה בטבת
+      <title>הרב יצחק נריה | ח בטבת</title>
+      <description><![CDATA[<p>ח בטבת<br>מעביר: הרב יצחק נריה<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#הרב_יצחק_נריה #עשרה_בטבת</p>]]></description>
+      <content:encoded><![CDATA[<p>ח בטבת<br>מעביר: הרב יצחק נריה<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#הרב_יצחק_נריה #עשרה_בטבת</p>]]></content:encoded>
+      <itunes:summary>ח בטבת
 מעביר: הרב יצחק נריה
 מועד: עשרה בטבת
 תאריך: ח׳ טבת תשפ״ו (28.12.2025)
@@ -2187,10 +2209,10 @@
       <podcast:person role="host">הרב ניסים דעי</podcast:person>
     </item>
     <item>
-      <title>הרב ברוך רוזנבלום | הכנה לחנוכה</title>
-      <description><![CDATA[<p>הכנה לחנוכה<br>מעביר: הרב ברוך רוזנבלום<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_ברוך_רוזנבלום #חנוכה</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לחנוכה<br>מעביר: הרב ברוך רוזנבלום<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_ברוך_רוזנבלום #חנוכה</p>]]></content:encoded>
-      <itunes:summary>הכנה לחנוכה
+      <title>הרב ברוך רוזנבלום | חנוכה</title>
+      <description><![CDATA[<p>חנוכה<br>מעביר: הרב ברוך רוזנבלום<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_ברוך_רוזנבלום #חנוכה</p>]]></description>
+      <content:encoded><![CDATA[<p>חנוכה<br>מעביר: הרב ברוך רוזנבלום<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_ברוך_רוזנבלום #חנוכה</p>]]></content:encoded>
+      <itunes:summary>חנוכה
 מעביר: הרב ברוך רוזנבלום
 מועד: חנוכה
 תאריך: כ״ד כסלו תשפ״ו (14.12.2025)
@@ -2207,10 +2229,10 @@
       <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
     </item>
     <item>
-      <title>הרב יואב אוריאל | הכנה לחנוכה</title>
-      <description><![CDATA[<p>הכנה לחנוכה<br>מעביר: הרב יואב אוריאל<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_יואב_אוריאל #חנוכה</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לחנוכה<br>מעביר: הרב יואב אוריאל<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_יואב_אוריאל #חנוכה</p>]]></content:encoded>
-      <itunes:summary>הכנה לחנוכה
+      <title>הרב יואב אוריאל | נס חנוכה בתנך</title>
+      <description><![CDATA[<p>נס חנוכה בתנך<br>מעביר: הרב יואב אוריאל<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_יואב_אוריאל #חנוכה</p>]]></description>
+      <content:encoded><![CDATA[<p>נס חנוכה בתנך<br>מעביר: הרב יואב אוריאל<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_יואב_אוריאל #חנוכה</p>]]></content:encoded>
+      <itunes:summary>נס חנוכה בתנך
 מעביר: הרב יואב אוריאל
 מועד: חנוכה
 תאריך: כ״ד כסלו תשפ״ו (14.12.2025)
@@ -2227,17 +2249,18 @@
       <podcast:person role="host">הרב יואב אוריאל</podcast:person>
     </item>
     <item>
-      <title>הרב אהוד אחיטוב | כולל ליל שישי · כ״א כסלו תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״א כסלו תשפ״ו (11.12.2025)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״א כסלו תשפ״ו (11.12.2025)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב אהוד אחיטוב | מעמד הסעודות בחנוכה</title>
+      <description><![CDATA[<p>מעמד הסעודות בחנוכה<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>מועד: חנוכה<br>תאריך: כ״א כסלו תשפ״ו (11.12.2025)</p><p>#הרב_אהוד_אחיטוב #חנוכה #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>מעמד הסעודות בחנוכה<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>מועד: חנוכה<br>תאריך: כ״א כסלו תשפ״ו (11.12.2025)</p><p>#הרב_אהוד_אחיטוב #חנוכה #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>מעמד הסעודות בחנוכה
 מעביר: הרב אהוד אחיטוב
 מסגרת: כולל ליל שישי
+מועד: חנוכה
 תאריך: כ״א כסלו תשפ״ו (11.12.2025)
 
-#הרב_אהוד_אחיטוב #כולל_ליל_שישי</itunes:summary>
+#הרב_אהוד_אחיטוב #חנוכה #כולל_ליל_שישי</itunes:summary>
       <itunes:author>הרב אהוד אחיטוב</itunes:author>
-      <itunes:keywords>הרב אהוד אחיטוב,כולל ליל שישי</itunes:keywords>
+      <itunes:keywords>הרב אהוד אחיטוב,חנוכה,כולל ליל שישי</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/14_J1tdvYByKLH6g4gOeo4IHg8giJYf4d.mp3" length="25005096" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-c1bd2e95-5c2f-4eb8-b8cf-ddbfee79393e</guid>
       <pubDate>Thu, 11 Dec 2025 20:00:00 +0200</pubDate>
@@ -2309,10 +2332,10 @@
       <podcast:person role="host">הרב יחיאל יעיש</podcast:person>
     </item>
     <item>
-      <title>הרב עוזי ביננפלד | כולל ליל שישי · י״ד כסלו תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד כסלו תשפ״ו (04.12.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד כסלו תשפ״ו (04.12.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב עוזי ביננפלד | נר ה' נשמת אדם</title>
+      <description><![CDATA[<p>נר ה&#x27; נשמת אדם<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד כסלו תשפ״ו (04.12.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>נר ה&#x27; נשמת אדם<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד כסלו תשפ״ו (04.12.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>נר ה' נשמת אדם
 מעביר: הרב עוזי ביננפלד
 מסגרת: כולל ליל שישי
 תאריך: י״ד כסלו תשפ״ו (04.12.2025)
@@ -2411,10 +2434,10 @@
       <podcast:person role="host">הרב יחיאל יעיש</podcast:person>
     </item>
     <item>
-      <title>הרב חגי לונדין | כולל ליל שישי · כ״ט חשון תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט חשון תשפ״ו (20.11.2025)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט חשון תשפ״ו (20.11.2025)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב חגי לונדין | תחרותיות</title>
+      <description><![CDATA[<p>תחרותיות<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט חשון תשפ״ו (20.11.2025)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>תחרותיות<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט חשון תשפ״ו (20.11.2025)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>תחרותיות
 מעביר: הרב חגי לונדין
 מסגרת: כולל ליל שישי
 תאריך: כ״ט חשון תשפ״ו (20.11.2025)
@@ -2451,10 +2474,10 @@
       <podcast:person role="host">הרב תומר זאבי</podcast:person>
     </item>
     <item>
-      <title>הרב עוזי ביננפלד | כולל ליל שישי · ט״ו חשון תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ט״ו חשון תשפ״ו (06.11.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ט״ו חשון תשפ״ו (06.11.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב עוזי ביננפלד | וירא. דיבור</title>
+      <description><![CDATA[<p>וירא. דיבור<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ט״ו חשון תשפ״ו (06.11.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>וירא. דיבור<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ט״ו חשון תשפ״ו (06.11.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>וירא. דיבור
 מעביר: הרב עוזי ביננפלד
 מסגרת: כולל ליל שישי
 תאריך: ט״ו חשון תשפ״ו (06.11.2025)
@@ -2531,10 +2554,10 @@
       <podcast:person role="host">הרב תומר זאבי</podcast:person>
     </item>
     <item>
-      <title>הרב לביא אנגלמן | כולל ליל שישי · ח׳ חשון תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: ח׳ חשון תשפ״ו (30.10.2025)<br>מקום: המרפסת</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: ח׳ חשון תשפ״ו (30.10.2025)<br>מקום: המרפסת</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב לביא אנגלמן | מסמך מאת יצחק חגבי</title>
+      <description><![CDATA[<p>מסמך מאת יצחק חגבי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: ח׳ חשון תשפ״ו (30.10.2025)<br>מקום: המרפסת</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>מסמך מאת יצחק חגבי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: ח׳ חשון תשפ״ו (30.10.2025)<br>מקום: המרפסת</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>מסמך מאת יצחק חגבי
 מעביר: הרב לביא אנגלמן
 מסגרת: כולל ליל שישי
 תאריך: ח׳ חשון תשפ״ו (30.10.2025)
@@ -2552,10 +2575,10 @@
       <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
     </item>
     <item>
-      <title>הרב אהרן כהן | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב אהרן כהן<br>תאריך: ו׳ חשון תשפ״ו (28.10.2025)</p><p>#הרב_אהרן_כהן</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב אהרן כהן<br>תאריך: ו׳ חשון תשפ״ו (28.10.2025)</p><p>#הרב_אהרן_כהן</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב אהרן כהן | לך לך -כל משפחות האדמה</title>
+      <description><![CDATA[<p>לך לך -כל משפחות האדמה<br>מעביר: הרב אהרן כהן<br>תאריך: ו׳ חשון תשפ״ו (28.10.2025)</p><p>#הרב_אהרן_כהן</p>]]></description>
+      <content:encoded><![CDATA[<p>לך לך -כל משפחות האדמה<br>מעביר: הרב אהרן כהן<br>תאריך: ו׳ חשון תשפ״ו (28.10.2025)</p><p>#הרב_אהרן_כהן</p>]]></content:encoded>
+      <itunes:summary>לך לך -כל משפחות האדמה
 מעביר: הרב אהרן כהן
 תאריך: ו׳ חשון תשפ״ו (28.10.2025)
 
@@ -2612,10 +2635,10 @@
       <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
     </item>
     <item>
-      <title>הרב אלישע אבינר | שיעור</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב אלישע אבינר<br>תאריך: ל׳ תשרי תשפ״ו (22.10.2025)</p><p>#הרב_אלישע_אבינר</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב אלישע אבינר<br>תאריך: ל׳ תשרי תשפ״ו (22.10.2025)</p><p>#הרב_אלישע_אבינר</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב אלישע אבינר | תורה ותורת הנפש</title>
+      <description><![CDATA[<p>תורה ותורת הנפש<br>מעביר: הרב אלישע אבינר<br>תאריך: ל׳ תשרי תשפ״ו (22.10.2025)</p><p>#הרב_אלישע_אבינר</p>]]></description>
+      <content:encoded><![CDATA[<p>תורה ותורת הנפש<br>מעביר: הרב אלישע אבינר<br>תאריך: ל׳ תשרי תשפ״ו (22.10.2025)</p><p>#הרב_אלישע_אבינר</p>]]></content:encoded>
+      <itunes:summary>תורה ותורת הנפש
 מעביר: הרב אלישע אבינר
 תאריך: ל׳ תשרי תשפ״ו (22.10.2025)
 
@@ -2631,10 +2654,10 @@
       <podcast:person role="host">הרב אלישע אבינר</podcast:person>
     </item>
     <item>
-      <title>הרב יואב אוריאל | כולל ליל שישי · כ״ד תשרי תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תשרי תשפ״ו (16.10.2025)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תשרי תשפ״ו (16.10.2025)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב יואב אוריאל | מבט חדש על חומש בראשית</title>
+      <description><![CDATA[<p>מבט חדש על חומש בראשית<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תשרי תשפ״ו (16.10.2025)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>מבט חדש על חומש בראשית<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תשרי תשפ״ו (16.10.2025)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>מבט חדש על חומש בראשית
 מעביר: הרב יואב אוריאל
 מסגרת: כולל ליל שישי
 תאריך: כ״ד תשרי תשפ״ו (16.10.2025)
@@ -2693,16 +2716,17 @@
       <podcast:person role="host">הרב יוני מילוא</podcast:person>
     </item>
     <item>
-      <title>הרב ברוך רוזנבלום | שיעור · כ״ג תשרי תשפ״ו</title>
-      <description><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: כ״ג תשרי תשפ״ו (15.10.2025)</p><p>#הרב_ברוך_רוזנבלום</p>]]></description>
-      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: כ״ג תשרי תשפ״ו (15.10.2025)</p><p>#הרב_ברוך_רוזנבלום</p>]]></content:encoded>
-      <itunes:summary>שיעור
+      <title>הרב ברוך רוזנבלום | סוכות · כ״ג תשרי תשפ״ו</title>
+      <description><![CDATA[<p>סוכות<br>מעביר: הרב ברוך רוזנבלום<br>מועד: סוכות<br>תאריך: כ״ג תשרי תשפ״ו (15.10.2025)</p><p>#הרב_ברוך_רוזנבלום #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>סוכות<br>מעביר: הרב ברוך רוזנבלום<br>מועד: סוכות<br>תאריך: כ״ג תשרי תשפ״ו (15.10.2025)</p><p>#הרב_ברוך_רוזנבלום #סוכות</p>]]></content:encoded>
+      <itunes:summary>סוכות
 מעביר: הרב ברוך רוזנבלום
+מועד: סוכות
 תאריך: כ״ג תשרי תשפ״ו (15.10.2025)
 
-#הרב_ברוך_רוזנבלום</itunes:summary>
+#הרב_ברוך_רוזנבלום #סוכות</itunes:summary>
       <itunes:author>הרב ברוך רוזנבלום</itunes:author>
-      <itunes:keywords>הרב ברוך רוזנבלום</itunes:keywords>
+      <itunes:keywords>הרב ברוך רוזנבלום,סוכות</itunes:keywords>
       <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1U6AA2lqt93XybuVD7gW9Xrjj4ogPDone.mp3" length="29500239" type="audio/mpeg"/>
       <guid isPermaLink="false">mirpeset-rec-fa71b438-b38f-4529-a955-8ff2d14d0fb4</guid>
       <pubDate>Wed, 15 Oct 2025 20:00:00 +0300</pubDate>
@@ -2852,10 +2876,10 @@
       <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
     </item>
     <item>
-      <title>הרב שי סבג | כולל ליל שישי</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב שי סבג<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תשרי תשפ״ו (09.10.2025)</p><p>#הרב_שי_סבג #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב שי סבג<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תשרי תשפ״ו (09.10.2025)</p><p>#הרב_שי_סבג #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב שי סבג | הסוכה האחת</title>
+      <description><![CDATA[<p>הסוכה האחת<br>מעביר: הרב שי סבג<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תשרי תשפ״ו (09.10.2025)</p><p>#הרב_שי_סבג #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>הסוכה האחת<br>מעביר: הרב שי סבג<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תשרי תשפ״ו (09.10.2025)</p><p>#הרב_שי_סבג #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>הסוכה האחת
 מעביר: הרב שי סבג
 מסגרת: כולל ליל שישי
 תאריך: י״ז תשרי תשפ״ו (09.10.2025)
@@ -2912,10 +2936,10 @@
       <podcast:person role="host">הרב חגי לונדין</podcast:person>
     </item>
     <item>
-      <title>הרב ברוך רוזנבלום | הכנה ליום הכיפורים</title>
-      <description><![CDATA[<p>הכנה ליום הכיפורים<br>מעביר: הרב ברוך רוזנבלום<br>מועד: יום הכיפורים<br>תאריך: ו׳ תשרי תשפ״ו (28.09.2025)</p><p>#הרב_ברוך_רוזנבלום #יום_הכיפורים</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה ליום הכיפורים<br>מעביר: הרב ברוך רוזנבלום<br>מועד: יום הכיפורים<br>תאריך: ו׳ תשרי תשפ״ו (28.09.2025)</p><p>#הרב_ברוך_רוזנבלום #יום_הכיפורים</p>]]></content:encoded>
-      <itunes:summary>הכנה ליום הכיפורים
+      <title>הרב ברוך רוזנבלום | מתנת התשובה</title>
+      <description><![CDATA[<p>מתנת התשובה<br>מעביר: הרב ברוך רוזנבלום<br>מועד: יום הכיפורים<br>תאריך: ו׳ תשרי תשפ״ו (28.09.2025)</p><p>#הרב_ברוך_רוזנבלום #יום_הכיפורים</p>]]></description>
+      <content:encoded><![CDATA[<p>מתנת התשובה<br>מעביר: הרב ברוך רוזנבלום<br>מועד: יום הכיפורים<br>תאריך: ו׳ תשרי תשפ״ו (28.09.2025)</p><p>#הרב_ברוך_רוזנבלום #יום_הכיפורים</p>]]></content:encoded>
+      <itunes:summary>מתנת התשובה
 מעביר: הרב ברוך רוזנבלום
 מועד: יום הכיפורים
 תאריך: ו׳ תשרי תשפ״ו (28.09.2025)
@@ -2972,10 +2996,10 @@
       <podcast:person role="host">הרב יעקב שמעון</podcast:person>
     </item>
     <item>
-      <title>הרב מרדכי מאיר | כולל ליל שישי · ג׳ תשרי תשפ״ו</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ג׳ תשרי תשפ״ו (25.09.2025)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ג׳ תשרי תשפ״ו (25.09.2025)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב מרדכי מאיר | יונה בן אמיתי</title>
+      <description><![CDATA[<p>יונה בן אמיתי<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ג׳ תשרי תשפ״ו (25.09.2025)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>יונה בן אמיתי<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ג׳ תשרי תשפ״ו (25.09.2025)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>יונה בן אמיתי
 מעביר: הרב מרדכי מאיר
 מסגרת: כולל ליל שישי
 תאריך: ג׳ תשרי תשפ״ו (25.09.2025)
@@ -2992,10 +3016,10 @@
       <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
     </item>
     <item>
-      <title>הרב אהוד אחיטוב | כולל ליל שישי · כ״ה אלול תשפ״ה</title>
-      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ה אלול תשפ״ה (18.09.2025)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></description>
-      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ה אלול תשפ״ה (18.09.2025)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></content:encoded>
-      <itunes:summary>כולל ליל שישי
+      <title>הרב אהוד אחיטוב | בכסא ליום חגנו</title>
+      <description><![CDATA[<p>בכסא ליום חגנו<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ה אלול תשפ״ה (18.09.2025)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>בכסא ליום חגנו<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ה אלול תשפ״ה (18.09.2025)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>בכסא ליום חגנו
 מעביר: הרב אהוד אחיטוב
 מסגרת: כולל ליל שישי
 תאריך: כ״ה אלול תשפ״ה (18.09.2025)
@@ -3012,10 +3036,10 @@
       <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
     </item>
     <item>
-      <title>הרב אהרן כהן | הכנה לראש השנה · כ״א אלול תשפ״ה</title>
-      <description><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></content:encoded>
-      <itunes:summary>הכנה לראש השנה
+      <title>הרב אהרן כהן | תשובה מהתשובה</title>
+      <description><![CDATA[<p>תשובה מהתשובה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>תשובה מהתשובה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></content:encoded>
+      <itunes:summary>תשובה מהתשובה
 מעביר: הרב אהרן כהן
 מועד: ראש השנה
 תאריך: כ״א אלול תשפ״ה (14.09.2025)
@@ -3032,10 +3056,10 @@
       <podcast:person role="host">הרב אהרן כהן</podcast:person>
     </item>
     <item>
-      <title>הרב ערן דאום | הכנה לראש השנה</title>
-      <description><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></description>
-      <content:encoded><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></content:encoded>
-      <itunes:summary>הכנה לראש השנה
+      <title>הרב ערן דאום | בין יונה ואיוב</title>
+      <description><![CDATA[<p>בין יונה ואיוב<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>בין יונה ואיוב<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></content:encoded>
+      <itunes:summary>בין יונה ואיוב
 מעביר: הרב ערן דאום
 מועד: ראש השנה
 תאריך: כ״א אלול תשפ״ה (14.09.2025)
