@@ -5,27 +5,27 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>המרפסת – שיעורי תורה</title>
+    <title>שיעורי תורה במרפסת - בני דקלים</title>
     <link>https://mirpeset-new.netlify.app/archive</link>
     <atom:link href="https://elikbelik100.github.io/mirpeset-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <description><![CDATA[שיעורי התורה של המרפסת: הכנה לחגים ולמועדים, כולל ליל שישי, סדרות לימוד ושיעורים מיוחדים, מפי מגוון רבנים ומרצים. שיעורים חדשים מתווספים מדי שבוע.]]></description>
-    <itunes:summary>שיעורי התורה של המרפסת: הכנה לחגים ולמועדים, כולל ליל שישי, סדרות לימוד ושיעורים מיוחדים, מפי מגוון רבנים ומרצים. שיעורים חדשים מתווספים מדי שבוע.</itunes:summary>
+    <description><![CDATA[כאן תוכלו להאזין לכל השיעורים שהועברו ב'מרפסת' בבני דקלים: הכנה לחגים ולמועדים, כולל ליל שישי, סדרות לימוד ושיעורים מיוחדים. שיעורים חדשים מתווספים מדי שבוע.]]></description>
+    <itunes:summary>כאן תוכלו להאזין לכל השיעורים שהועברו ב'מרפסת' בבני דקלים: הכנה לחגים ולמועדים, כולל ליל שישי, סדרות לימוד ושיעורים מיוחדים. שיעורים חדשים מתווספים מדי שבוע.</itunes:summary>
     <language>he</language>
-    <copyright>המרפסת</copyright>
-    <itunes:author>המרפסת</itunes:author>
+    <copyright>יצחק חגבי</copyright>
+    <itunes:author>יצחק חגבי</itunes:author>
     <itunes:owner>
-      <itunes:name>המרפסת</itunes:name>
+      <itunes:name>המרפסת - בני דקלים</itunes:name>
       <itunes:email>torabmirpeset@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://elikbelik100.github.io/mirpeset-podcast/cover.jpg"/>
-    <image><url>https://elikbelik100.github.io/mirpeset-podcast/cover.jpg</url><title>המרפסת – שיעורי תורה</title><link>https://mirpeset-new.netlify.app/archive</link></image>
+    <image><url>https://elikbelik100.github.io/mirpeset-podcast/cover.jpg</url><title>שיעורי תורה במרפסת - בני דקלים</title><link>https://mirpeset-new.netlify.app/archive</link></image>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
-    <lastBuildDate>Mon, 23 Nov 2026 16:48:14 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:36:08 +0200</lastBuildDate>
     <item>
       <title>הרב רועי אהרוני | ותצא דינה</title>
       <description><![CDATA[<p>ותצא דינה<br>מעביר: הרב רועי אהרוני<br>תאריך: י״ב כסלו תשפ״ז (22.11.2026)</p><p>#הרב_רועי_אהרוני</p>]]></description>
