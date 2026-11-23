@@ -1,0 +1,3055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>המרפסת – שיעורי תורה</title>
+    <link>https://mirpeset-new.netlify.app/archive</link>
+    <atom:link href="https://elikbelik100.github.io/mirpeset-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description><![CDATA[שיעורי התורה של המרפסת: הכנה לחגים ולמועדים, כולל ליל שישי, סדרות לימוד ושיעורים מיוחדים, מפי מגוון רבנים ומרצים. שיעורים חדשים מתווספים מדי שבוע.]]></description>
+    <itunes:summary>שיעורי התורה של המרפסת: הכנה לחגים ולמועדים, כולל ליל שישי, סדרות לימוד ושיעורים מיוחדים, מפי מגוון רבנים ומרצים. שיעורים חדשים מתווספים מדי שבוע.</itunes:summary>
+    <language>he</language>
+    <copyright>המרפסת</copyright>
+    <itunes:author>המרפסת</itunes:author>
+    <itunes:owner>
+      <itunes:name>המרפסת</itunes:name>
+      <itunes:email>torabmirpeset@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://elikbelik100.github.io/mirpeset-podcast/cover.jpg"/>
+    <image><url>https://elikbelik100.github.io/mirpeset-podcast/cover.jpg</url><title>המרפסת – שיעורי תורה</title><link>https://mirpeset-new.netlify.app/archive</link></image>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked>no</podcast:locked>
+    <lastBuildDate>Mon, 23 Nov 2026 15:36:02 +0200</lastBuildDate>
+    <item>
+      <title>הרב רועי אהרוני | שיעור · י״ב כסלו תשפ״ז</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: י״ב כסלו תשפ״ז (22.11.2026)</p><p>#הרב_רועי_אהרוני</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: י״ב כסלו תשפ״ז (22.11.2026)</p><p>#הרב_רועי_אהרוני</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב רועי אהרוני
+תאריך: י״ב כסלו תשפ״ז (22.11.2026)
+
+#הרב_רועי_אהרוני</itunes:summary>
+      <itunes:author>הרב רועי אהרוני</itunes:author>
+      <itunes:keywords>הרב רועי אהרוני</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1L_tIfgRZXXg45kgXg-bQ_e-XJa4xQ1Pa.mp3" length="28324303" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-8cfa9a2a-19e1-4097-8006-cbb869e0602c</guid>
+      <pubDate>Sun, 22 Nov 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3540</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב רועי אהרוני</podcast:person>
+    </item>
+    <item>
+      <title>הרב נח ויזונסקי | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב נח ויזונסקי<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)</p><p>#הרב_נח_ויזונסקי</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב נח ויזונסקי<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)</p><p>#הרב_נח_ויזונסקי</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב נח ויזונסקי
+תאריך: ט׳ כסלו תשפ״ז (19.11.2026)
+
+#הרב_נח_ויזונסקי</itunes:summary>
+      <itunes:author>הרב נח ויזונסקי</itunes:author>
+      <itunes:keywords>הרב נח ויזונסקי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1y4hlojrNrF3d0PQdwhApsfkuCSmVVHBs.mp3" length="15124282" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-59e8610d-dc89-4280-a5be-5e4cafe024e4</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>1890</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב נח ויזונסקי</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | מוזיקה · ט׳ כסלו תשפ״ז</title>
+      <description><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
+      <content:encoded><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: ט׳ כסלו תשפ״ז (19.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
+      <itunes:summary>מוזיקה
+מעביר: הרב חגי לונדין
+סדרה: מוזיקה
+תאריך: ט׳ כסלו תשפ״ז (19.11.2026)
+
+#הרב_חגי_לונדין #מוזיקה</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,מוזיקה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1WWSVjpOkjTKeSkwLuaO-h2xD2tOdQcSl.mp3" length="31266313" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-4c1d06d9-840e-45b7-bf38-b30371f364e3</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3908</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלי פיינסילבר | שמונה פרקים לרמב"ם</title>
+      <description><![CDATA[<p>שמונה פרקים לרמב&quot;ם<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה פרקים לרמב&quot;ם<br>תאריך: ז׳ כסלו תשפ״ז (17.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_פרקים_לרמבם</p>]]></description>
+      <content:encoded><![CDATA[<p>שמונה פרקים לרמב&quot;ם<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה פרקים לרמב&quot;ם<br>תאריך: ז׳ כסלו תשפ״ז (17.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_פרקים_לרמבם</p>]]></content:encoded>
+      <itunes:summary>שמונה פרקים לרמב"ם
+מעביר: הרב אלי פיינסילבר
+סדרה: שמונה פרקים לרמב"ם
+תאריך: ז׳ כסלו תשפ״ז (17.11.2026)
+
+#הרב_אלי_פיינסילבר #שמונה_פרקים_לרמבם</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר,שמונה פרקים לרמב"ם</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1nj2MEFitTlOJwtj3IVcE_FBWq88QCdmH.mp3" length="22174033" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-520ad867-b9f1-4be9-a89a-1ce33e7951d9</guid>
+      <pubDate>Tue, 17 Nov 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>2771</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
+    </item>
+    <item>
+      <title>הרב הרצל רוזנברג | סיפורים על ליכטנשטיין</title>
+      <description><![CDATA[<p>סיפורים על ליכטנשטיין<br>מעביר: הרב הרצל רוזנברג<br>מועד: פורים<br>תאריך: ה׳ כסלו תשפ״ז (15.11.2026)</p><p>#הרב_הרצל_רוזנברג #פורים</p>]]></description>
+      <content:encoded><![CDATA[<p>סיפורים על ליכטנשטיין<br>מעביר: הרב הרצל רוזנברג<br>מועד: פורים<br>תאריך: ה׳ כסלו תשפ״ז (15.11.2026)</p><p>#הרב_הרצל_רוזנברג #פורים</p>]]></content:encoded>
+      <itunes:summary>סיפורים על ליכטנשטיין
+מעביר: הרב הרצל רוזנברג
+מועד: פורים
+תאריך: ה׳ כסלו תשפ״ז (15.11.2026)
+
+#הרב_הרצל_רוזנברג #פורים</itunes:summary>
+      <itunes:author>הרב הרצל רוזנברג</itunes:author>
+      <itunes:keywords>הרב הרצל רוזנברג,פורים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1HU0xkigzXVx-ZV7J6nywZKKURxNpxNl-.mp3" length="26157395" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-c3808bb3-a24d-4153-ab3e-8f599dd6c6ab</guid>
+      <pubDate>Sun, 15 Nov 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3269</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב הרצל רוזנברג</podcast:person>
+    </item>
+    <item>
+      <title>הרב לביא אנגלמן | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב לביא אנגלמן<br>תאריך: ב׳ כסלו תשפ״ז (12.11.2026)</p><p>#הרב_לביא_אנגלמן</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב לביא אנגלמן<br>תאריך: ב׳ כסלו תשפ״ז (12.11.2026)</p><p>#הרב_לביא_אנגלמן</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב לביא אנגלמן
+תאריך: ב׳ כסלו תשפ״ז (12.11.2026)
+
+#הרב_לביא_אנגלמן</itunes:summary>
+      <itunes:author>הרב לביא אנגלמן</itunes:author>
+      <itunes:keywords>הרב לביא אנגלמן</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1rZEZ_7lEIo-l_nM84S4kRL7v45RZQvWz.mp3" length="25588308" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-9813a769-0d5d-4277-b800-890117c11668</guid>
+      <pubDate>Thu, 12 Nov 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3198</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלי פיינסילבר | שמונה קבצים · ל׳ חשון תשפ״ז</title>
+      <description><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: ל׳ חשון תשפ״ז (10.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></description>
+      <content:encoded><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: ל׳ חשון תשפ״ז (10.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></content:encoded>
+      <itunes:summary>שמונה קבצים
+מעביר: הרב אלי פיינסילבר
+סדרה: שמונה קבצים
+תאריך: ל׳ חשון תשפ״ז (10.11.2026)
+
+#הרב_אלי_פיינסילבר #שמונה_קבצים</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר,שמונה קבצים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1PWbf3eqNSAWECwb8sXwLbErU32x6z-v8.mp3" length="19900353" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-822d7ef7-7b54-4c4a-a847-9735174bd665</guid>
+      <pubDate>Tue, 10 Nov 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>2487</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | מוזיקה · כ״ח חשון תשפ״ז</title>
+      <description><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״ח חשון תשפ״ז (08.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
+      <content:encoded><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״ח חשון תשפ״ז (08.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
+      <itunes:summary>מוזיקה
+מעביר: הרב חגי לונדין
+סדרה: מוזיקה
+תאריך: כ״ח חשון תשפ״ז (08.11.2026)
+
+#הרב_חגי_לונדין #מוזיקה</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,מוזיקה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1-hGoNR6jioOrfKQzwN3vMXW69mKvNrsn.mp3" length="35889989" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-d0f835de-cbb2-449e-a010-1a0bbfc3307e</guid>
+      <pubDate>Sun, 08 Nov 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>4486</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלי פיינסילבר | שמונה קבצים · כ״ג חשון תשפ״ז</title>
+      <description><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ג חשון תשפ״ז (03.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></description>
+      <content:encoded><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ג חשון תשפ״ז (03.11.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></content:encoded>
+      <itunes:summary>שמונה קבצים
+מעביר: הרב אלי פיינסילבר
+סדרה: שמונה קבצים
+תאריך: כ״ג חשון תשפ״ז (03.11.2026)
+
+#הרב_אלי_פיינסילבר #שמונה_קבצים</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר,שמונה קבצים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1lbyEuCpvomXTG6QAwbHKT3S02Op__uHt.mp3" length="18639999" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-3b5e60bf-ec8b-4522-a5ab-5ebcd7e1f388</guid>
+      <pubDate>Tue, 03 Nov 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>2329</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | מוזיקה · כ״א חשון תשפ״ז</title>
+      <description><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״א חשון תשפ״ז (01.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
+      <content:encoded><![CDATA[<p>מוזיקה<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה<br>תאריך: כ״א חשון תשפ״ז (01.11.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
+      <itunes:summary>מוזיקה
+מעביר: הרב חגי לונדין
+סדרה: מוזיקה
+תאריך: כ״א חשון תשפ״ז (01.11.2026)
+
+#הרב_חגי_לונדין #מוזיקה</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,מוזיקה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/11h5cwXKFmca8z_Z_Ivq0-0RWwN0KWFPu.mp3" length="36268869" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-0c372eb4-2367-4097-89d2-098ac0f3ff47</guid>
+      <pubDate>Sun, 01 Nov 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>4533</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | כי נביא הוא</title>
+      <description><![CDATA[<p>כי נביא הוא<br>מעביר: הרב יוני מילוא<br>תאריך: י״ח חשון תשפ״ז (29.10.2026)</p><p>#הרב_יוני_מילוא</p>]]></description>
+      <content:encoded><![CDATA[<p>כי נביא הוא<br>מעביר: הרב יוני מילוא<br>תאריך: י״ח חשון תשפ״ז (29.10.2026)</p><p>#הרב_יוני_מילוא</p>]]></content:encoded>
+      <itunes:summary>כי נביא הוא
+מעביר: הרב יוני מילוא
+תאריך: י״ח חשון תשפ״ז (29.10.2026)
+
+#הרב_יוני_מילוא</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1Lwowbhtaq3qFPt-pyUS6tA5jvLDOyrjt.mp3" length="30122546" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-3a19fce9-19e3-4ee8-8412-0b34c5f2b4ce</guid>
+      <pubDate>Thu, 29 Oct 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3765</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן טמיר | בין חנוך נח ואברהם</title>
+      <description><![CDATA[<p>בין חנוך נח ואברהם<br>מעביר: הרב ערן טמיר<br>תאריך: ט״ז חשון תשפ״ז (27.10.2026)</p><p>#הרב_ערן_טמיר</p>]]></description>
+      <content:encoded><![CDATA[<p>בין חנוך נח ואברהם<br>מעביר: הרב ערן טמיר<br>תאריך: ט״ז חשון תשפ״ז (27.10.2026)</p><p>#הרב_ערן_טמיר</p>]]></content:encoded>
+      <itunes:summary>בין חנוך נח ואברהם
+מעביר: הרב ערן טמיר
+תאריך: ט״ז חשון תשפ״ז (27.10.2026)
+
+#הרב_ערן_טמיר</itunes:summary>
+      <itunes:author>הרב ערן טמיר</itunes:author>
+      <itunes:keywords>הרב ערן טמיר</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/122e1-rRb2nBZ0B2CHodKCutbpQ9jyDHe.mp3" length="37930865" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-9b6b57c0-62e6-4c68-b999-99aae7134d60</guid>
+      <pubDate>Tue, 27 Oct 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>4741</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן טמיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | מוזיקה – מוסיקה מפגש ראשון</title>
+      <description><![CDATA[<p>מוזיקה – מוסיקה מפגש ראשון<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה · מפגש 1<br>תאריך: י״ד חשון תשפ״ז (25.10.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></description>
+      <content:encoded><![CDATA[<p>מוזיקה – מוסיקה מפגש ראשון<br>מעביר: הרב חגי לונדין<br>סדרה: מוזיקה · מפגש 1<br>תאריך: י״ד חשון תשפ״ז (25.10.2026)</p><p>#הרב_חגי_לונדין #מוזיקה</p>]]></content:encoded>
+      <itunes:summary>מוזיקה – מוסיקה מפגש ראשון
+מעביר: הרב חגי לונדין
+סדרה: מוזיקה · מפגש 1
+תאריך: י״ד חשון תשפ״ז (25.10.2026)
+
+#הרב_חגי_לונדין #מוזיקה</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,מוזיקה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1z9OYTfgBwX0XI7_smUZA8CbldgloWPVm.mp3" length="36661129" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-6d97ccaa-957a-4836-aec2-3005b932b400</guid>
+      <pubDate>Sun, 25 Oct 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>4582</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב יואב אוריאל | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב יואב אוריאל<br>תאריך: י״א חשון תשפ״ז (22.10.2026)</p><p>#הרב_יואב_אוריאל</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב יואב אוריאל<br>תאריך: י״א חשון תשפ״ז (22.10.2026)</p><p>#הרב_יואב_אוריאל</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב יואב אוריאל
+תאריך: י״א חשון תשפ״ז (22.10.2026)
+
+#הרב_יואב_אוריאל</itunes:summary>
+      <itunes:author>הרב יואב אוריאל</itunes:author>
+      <itunes:keywords>הרב יואב אוריאל</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1p4D1qbCtWGmZKUKH91pmpn5WYK9ea0ny.mp3" length="26264566" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-7f158b14-91ed-438e-bba4-a9ef92028abc</guid>
+      <pubDate>Thu, 22 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3282</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יואב אוריאל</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהרן כהן | רחל אימנו</title>
+      <description><![CDATA[<p>רחל אימנו<br>מעביר: הרב אהרן כהן<br>תאריך: ט׳ חשון תשפ״ז (20.10.2026)</p><p>#הרב_אהרן_כהן</p>]]></description>
+      <content:encoded><![CDATA[<p>רחל אימנו<br>מעביר: הרב אהרן כהן<br>תאריך: ט׳ חשון תשפ״ז (20.10.2026)</p><p>#הרב_אהרן_כהן</p>]]></content:encoded>
+      <itunes:summary>רחל אימנו
+מעביר: הרב אהרן כהן
+תאריך: ט׳ חשון תשפ״ז (20.10.2026)
+
+#הרב_אהרן_כהן</itunes:summary>
+      <itunes:author>הרב אהרן כהן</itunes:author>
+      <itunes:keywords>הרב אהרן כהן</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1nG1M6Q6KiXDHmrnWKtalJ_4c5bjwVCtX.mp3" length="24930645" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-b1c3c5df-b75c-4f06-9d6b-6e296910fb19</guid>
+      <pubDate>Tue, 20 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3116</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהרן כהן</podcast:person>
+    </item>
+    <item>
+      <title>הרב נח ודקה | תוקף איסורי דרבנן · ז׳ חשון תשפ״ז</title>
+      <description><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ז׳ חשון תשפ״ז (18.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></description>
+      <content:encoded><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ז׳ חשון תשפ״ז (18.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></content:encoded>
+      <itunes:summary>תוקף איסורי דרבנן
+מעביר: הרב נח ודקה
+סדרה: תוקף איסורי דרבנן
+תאריך: ז׳ חשון תשפ״ז (18.10.2026)
+
+#הרב_נח_ודקה #תוקף_איסורי_דרבנן</itunes:summary>
+      <itunes:author>הרב נח ודקה</itunes:author>
+      <itunes:keywords>הרב נח ודקה,תוקף איסורי דרבנן</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1RBKFFLOBvWDpg7J9vfMOn1urD3WmvLMl.mp3" length="28090878" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-ec95976a-e531-4ef1-acb5-702418ac0251</guid>
+      <pubDate>Sun, 18 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3511</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב נח ודקה</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלי פיינסילבר | דור הפלגה</title>
+      <description><![CDATA[<p>דור הפלגה<br>מעביר: הרב אלי פיינסילבר<br>תאריך: ד׳ חשון תשפ״ז (15.10.2026)</p><p>#הרב_אלי_פיינסילבר</p>]]></description>
+      <content:encoded><![CDATA[<p>דור הפלגה<br>מעביר: הרב אלי פיינסילבר<br>תאריך: ד׳ חשון תשפ״ז (15.10.2026)</p><p>#הרב_אלי_פיינסילבר</p>]]></content:encoded>
+      <itunes:summary>דור הפלגה
+מעביר: הרב אלי פיינסילבר
+תאריך: ד׳ חשון תשפ״ז (15.10.2026)
+
+#הרב_אלי_פיינסילבר</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1fhyNxp7kwp3Q5K0N8v5oCBSLIexHPIdH.mp3" length="24042711" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-464a81ab-199a-481e-a1b3-1d1e19888f25</guid>
+      <pubDate>Thu, 15 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3005</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | שיעור · א׳ חשון תשפ״ז</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: א׳ חשון תשפ״ז (12.10.2026)</p><p>#הרב_ברוך_רוזנבלום</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: א׳ חשון תשפ״ז (12.10.2026)</p><p>#הרב_ברוך_רוזנבלום</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב ברוך רוזנבלום
+תאריך: א׳ חשון תשפ״ז (12.10.2026)
+
+#הרב_ברוך_רוזנבלום</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1f_5IuKXAWdHGoroRr1Q1Mfxhp-lv8DHV.mp3" length="28840906" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-2407768b-6f5e-4dd5-9d5f-54ea083eb3b9</guid>
+      <pubDate>Mon, 12 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3605</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב נח ודקה | תוקף איסורי דרבנן · ל׳ תשרי תשפ״ז</title>
+      <description><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ל׳ תשרי תשפ״ז (11.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></description>
+      <content:encoded><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: ל׳ תשרי תשפ״ז (11.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></content:encoded>
+      <itunes:summary>תוקף איסורי דרבנן
+מעביר: הרב נח ודקה
+סדרה: תוקף איסורי דרבנן
+תאריך: ל׳ תשרי תשפ״ז (11.10.2026)
+
+#הרב_נח_ודקה #תוקף_איסורי_דרבנן</itunes:summary>
+      <itunes:author>הרב נח ודקה</itunes:author>
+      <itunes:keywords>הרב נח ודקה,תוקף איסורי דרבנן</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1aqqqo6OsP5ea0FgNm53q3Jjb2neNGYZR.mp3" length="25602558" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-21e16ed9-a5f4-4753-b1e9-3c807f143aa7</guid>
+      <pubDate>Sun, 11 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3200</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב נח ודקה</podcast:person>
+    </item>
+    <item>
+      <title>הרב משאל רובין | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב משאל רובין<br>תאריך: כ״ז תשרי תשפ״ז (08.10.2026)</p><p>#הרב_משאל_רובין</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב משאל רובין<br>תאריך: כ״ז תשרי תשפ״ז (08.10.2026)</p><p>#הרב_משאל_רובין</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב משאל רובין
+תאריך: כ״ז תשרי תשפ״ז (08.10.2026)
+
+#הרב_משאל_רובין</itunes:summary>
+      <itunes:author>הרב משאל רובין</itunes:author>
+      <itunes:keywords>הרב משאל רובין</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1D-8-Bcr95ewEGgyYFp2c4kVRSq9IQf8j.mp3" length="24268598" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-5d1b19df-af23-43b9-ad7f-ff86029a4b63</guid>
+      <pubDate>Thu, 08 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3033</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב משאל רובין</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלי פיינסילבר | שמונה קבצים · כ״ה תשרי תשפ״ז</title>
+      <description><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ה תשרי תשפ״ז (06.10.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></description>
+      <content:encoded><![CDATA[<p>שמונה קבצים<br>מעביר: הרב אלי פיינסילבר<br>סדרה: שמונה קבצים<br>תאריך: כ״ה תשרי תשפ״ז (06.10.2026)</p><p>#הרב_אלי_פיינסילבר #שמונה_קבצים</p>]]></content:encoded>
+      <itunes:summary>שמונה קבצים
+מעביר: הרב אלי פיינסילבר
+סדרה: שמונה קבצים
+תאריך: כ״ה תשרי תשפ״ז (06.10.2026)
+
+#הרב_אלי_פיינסילבר #שמונה_קבצים</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר,שמונה קבצים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1VDRZrbCdJun_sn3DIyejID7S5iZuCZif.mp3" length="26698252" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-49803e5b-798e-456f-9ad4-05408fd0c40c</guid>
+      <pubDate>Tue, 06 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3337</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
+    </item>
+    <item>
+      <title>הרב נח ודקה | תוקף איסורי דרבנן · כ״ד תשרי תשפ״ז</title>
+      <description><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: כ״ד תשרי תשפ״ז (05.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></description>
+      <content:encoded><![CDATA[<p>תוקף איסורי דרבנן<br>מעביר: הרב נח ודקה<br>סדרה: תוקף איסורי דרבנן<br>תאריך: כ״ד תשרי תשפ״ז (05.10.2026)</p><p>#הרב_נח_ודקה #תוקף_איסורי_דרבנן</p>]]></content:encoded>
+      <itunes:summary>תוקף איסורי דרבנן
+מעביר: הרב נח ודקה
+סדרה: תוקף איסורי דרבנן
+תאריך: כ״ד תשרי תשפ״ז (05.10.2026)
+
+#הרב_נח_ודקה #תוקף_איסורי_דרבנן</itunes:summary>
+      <itunes:author>הרב נח ודקה</itunes:author>
+      <itunes:keywords>הרב נח ודקה,תוקף איסורי דרבנן</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1X8pIWdrhcP6ebtig9MGjNeTOylR1hzfe.mp3" length="26713287" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-2d6207da-0dfc-4c52-bc91-efbc5f7c3564</guid>
+      <pubDate>Mon, 05 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3339</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב נח ודקה</podcast:person>
+    </item>
+    <item>
+      <title>הרב עוזי ביננפלד | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב עוזי ביננפלד<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_עוזי_ביננפלד</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב עוזי ביננפלד<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_עוזי_ביננפלד</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב עוזי ביננפלד
+תאריך: כ׳ תשרי תשפ״ז (01.10.2026)
+
+#הרב_עוזי_ביננפלד</itunes:summary>
+      <itunes:author>הרב עוזי ביננפלד</itunes:author>
+      <itunes:keywords>הרב עוזי ביננפלד</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1GVdGk2WGLyG24GHaWBCcyRkn1i48Sdxp.mp3" length="23857125" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-c78cd9be-5020-4d9c-a39b-1deefb6ed9a3</guid>
+      <pubDate>Thu, 01 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2982</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב עוזי ביננפלד</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב יוני מילוא<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_יוני_מילוא</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב יוני מילוא<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_יוני_מילוא</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב יוני מילוא
+תאריך: כ׳ תשרי תשפ״ז (01.10.2026)
+
+#הרב_יוני_מילוא</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1IDGGft6VORnJ9t-lDUWqkPnOUmrNHolJ.mp3" length="28945143" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-c1802184-acae-4e2e-ba0d-db71c29877b6</guid>
+      <pubDate>Thu, 01 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3618</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב יואב אוריאל | ליל הושענה רבה</title>
+      <description><![CDATA[<p>ליל הושענה רבה<br>מעביר: הרב יואב אוריאל<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_יואב_אוריאל #הושענא_רבה</p>]]></description>
+      <content:encoded><![CDATA[<p>ליל הושענה רבה<br>מעביר: הרב יואב אוריאל<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_יואב_אוריאל #הושענא_רבה</p>]]></content:encoded>
+      <itunes:summary>ליל הושענה רבה
+מעביר: הרב יואב אוריאל
+מועד: הושענא רבה
+תאריך: כ׳ תשרי תשפ״ז (01.10.2026)
+
+#הרב_יואב_אוריאל #הושענא_רבה</itunes:summary>
+      <itunes:author>הרב יואב אוריאל</itunes:author>
+      <itunes:keywords>הרב יואב אוריאל,הושענא רבה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1R1slaHcoGfVOWwxwpwiIzF4jbZc_b-uo.mp3" length="24659620" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-864ac4f4-05bf-47bf-8a28-0e30eb5ab2e8</guid>
+      <pubDate>Thu, 01 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3082</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יואב אוריאל</podcast:person>
+    </item>
+    <item>
+      <title>הרב הרצל רוזנברג | למהותו של הושענא רבא</title>
+      <description><![CDATA[<p>למהותו של הושענא רבא<br>מעביר: הרב הרצל רוזנברג<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_הרצל_רוזנברג #הושענא_רבה</p>]]></description>
+      <content:encoded><![CDATA[<p>למהותו של הושענא רבא<br>מעביר: הרב הרצל רוזנברג<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ז (01.10.2026)</p><p>#הרב_הרצל_רוזנברג #הושענא_רבה</p>]]></content:encoded>
+      <itunes:summary>למהותו של הושענא רבא
+מעביר: הרב הרצל רוזנברג
+מועד: הושענא רבה
+תאריך: כ׳ תשרי תשפ״ז (01.10.2026)
+
+#הרב_הרצל_רוזנברג #הושענא_רבה</itunes:summary>
+      <itunes:author>הרב הרצל רוזנברג</itunes:author>
+      <itunes:keywords>הרב הרצל רוזנברג,הושענא רבה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1B4DdOmPsfedcplAKmHQ4MZwij8ZjkCbB.mp3" length="30342418" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-28e87cac-7844-4df7-8b4c-d33e5ccea744</guid>
+      <pubDate>Thu, 01 Oct 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3792</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב הרצל רוזנברג</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב חגי לונדין<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)</p><p>#הרב_חגי_לונדין</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב חגי לונדין<br>תאריך: י״ט תשרי תשפ״ז (30.09.2026)</p><p>#הרב_חגי_לונדין</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב חגי לונדין
+תאריך: י״ט תשרי תשפ״ז (30.09.2026)
+
+#הרב_חגי_לונדין</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/14st9D_nMLMmQAx0VWjsg5f9hydta1Fy8.mp3" length="25812539" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-b1bc8b9e-6a86-4028-a93f-bd6ef6116f8a</guid>
+      <pubDate>Wed, 30 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3226</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | שיעור · י״ח תשרי תשפ״ז</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_ברוך_רוזנבלום</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_ברוך_רוזנבלום</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב ברוך רוזנבלום
+תאריך: י״ח תשרי תשפ״ז (29.09.2026)
+
+#הרב_ברוך_רוזנבלום</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1mQ0EDk2r0xj5ZMU_C-r8_eitP2lDB1nQ.mp3" length="26947344" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-e6b5c62c-eb3f-4ead-9dae-0a2541c27c43</guid>
+      <pubDate>Tue, 29 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3368</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב שי סבג | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב שי סבג<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_שי_סבג</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב שי סבג<br>תאריך: י״ח תשרי תשפ״ז (29.09.2026)</p><p>#הרב_שי_סבג</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב שי סבג
+תאריך: י״ח תשרי תשפ״ז (29.09.2026)
+
+#הרב_שי_סבג</itunes:summary>
+      <itunes:author>הרב שי סבג</itunes:author>
+      <itunes:keywords>הרב שי סבג</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1SwNKQ6ELCThqhsmnU9fRwOp345tqNtl9.mp3" length="17732745" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-acc0193b-c87d-4636-ab74-d7bf0031b11a</guid>
+      <pubDate>Tue, 29 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2216</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב שי סבג</podcast:person>
+    </item>
+    <item>
+      <title>הרב רועי אהרוני | שיעור · ט״ז תשרי תשפ״ז</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: ט״ז תשרי תשפ״ז (27.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: ט״ז תשרי תשפ״ז (27.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב רועי אהרוני
+תאריך: ט״ז תשרי תשפ״ז (27.09.2026)
+
+#הרב_רועי_אהרוני</itunes:summary>
+      <itunes:author>הרב רועי אהרוני</itunes:author>
+      <itunes:keywords>הרב רועי אהרוני</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1w55zkYbrIx-lkoRbJpokPg-xWY_fkG8h.mp3" length="30563937" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-3176140d-f26d-4db9-ac38-2607d4f1dd6c</guid>
+      <pubDate>Sun, 27 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3820</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב רועי אהרוני</podcast:person>
+    </item>
+    <item>
+      <title>הרב יצחק זאגא | ובגויים לא יתחשב</title>
+      <description><![CDATA[<p>ובגויים לא יתחשב<br>מעביר: הרב יצחק זאגא<br>תאריך: י״ג תשרי תשפ״ז (24.09.2026)</p><p>#הרב_יצחק_זאגא</p>]]></description>
+      <content:encoded><![CDATA[<p>ובגויים לא יתחשב<br>מעביר: הרב יצחק זאגא<br>תאריך: י״ג תשרי תשפ״ז (24.09.2026)</p><p>#הרב_יצחק_זאגא</p>]]></content:encoded>
+      <itunes:summary>ובגויים לא יתחשב
+מעביר: הרב יצחק זאגא
+תאריך: י״ג תשרי תשפ״ז (24.09.2026)
+
+#הרב_יצחק_זאגא</itunes:summary>
+      <itunes:author>הרב יצחק זאגא</itunes:author>
+      <itunes:keywords>הרב יצחק זאגא</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1GhBx5jaHQYMIP2hdL_9Qm02jMrRMDojF.mp3" length="29025200" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-fef2b168-ab63-43a2-9bb3-4e281036e5b4</guid>
+      <pubDate>Thu, 24 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3628</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יצחק זאגא</podcast:person>
+    </item>
+    <item>
+      <title>הרב לביא אנגלמן | המהות המיוחדת של סוכות</title>
+      <description><![CDATA[<p>המהות המיוחדת של סוכות<br>מעביר: הרב לביא אנגלמן<br>מועד: סוכות<br>תאריך: י״ג תשרי תשפ״ז (24.09.2026)</p><p>#הרב_לביא_אנגלמן #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>המהות המיוחדת של סוכות<br>מעביר: הרב לביא אנגלמן<br>מועד: סוכות<br>תאריך: י״ג תשרי תשפ״ז (24.09.2026)</p><p>#הרב_לביא_אנגלמן #סוכות</p>]]></content:encoded>
+      <itunes:summary>המהות המיוחדת של סוכות
+מעביר: הרב לביא אנגלמן
+מועד: סוכות
+תאריך: י״ג תשרי תשפ״ז (24.09.2026)
+
+#הרב_לביא_אנגלמן #סוכות</itunes:summary>
+      <itunes:author>הרב לביא אנגלמן</itunes:author>
+      <itunes:keywords>הרב לביא אנגלמן,סוכות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/188Z6EeXaz1QJ0va_Rvk6l5CFgkfMD9V9.mp3" length="25396707" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-bb5d05a8-0d64-45c7-985c-a348ff6622a2</guid>
+      <pubDate>Thu, 24 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3174</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
+    </item>
+    <item>
+      <title>הרב מרדכי מאיר | הכנה לסוכות</title>
+      <description><![CDATA[<p>הכנה לסוכות<br>מעביר: הרב מרדכי מאיר<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_מרדכי_מאיר #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לסוכות<br>מעביר: הרב מרדכי מאיר<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_מרדכי_מאיר #סוכות</p>]]></content:encoded>
+      <itunes:summary>הכנה לסוכות
+מעביר: הרב מרדכי מאיר
+מועד: סוכות
+תאריך: י״ב תשרי תשפ״ז (23.09.2026)
+
+#הרב_מרדכי_מאיר #סוכות</itunes:summary>
+      <itunes:author>הרב מרדכי מאיר</itunes:author>
+      <itunes:keywords>הרב מרדכי מאיר,סוכות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1qaonfQril2Uwvsy2EWxmVYG8kP8WRkdd.mp3" length="23659643" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-fe1450fb-4937-40d1-af98-2fa7a8770281</guid>
+      <pubDate>Wed, 23 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2957</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב יואב אוריאל | הכנה לסוכות</title>
+      <description><![CDATA[<p>הכנה לסוכות<br>מעביר: הרב יואב אוריאל<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_יואב_אוריאל #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לסוכות<br>מעביר: הרב יואב אוריאל<br>מועד: סוכות<br>תאריך: י״ב תשרי תשפ״ז (23.09.2026)</p><p>#הרב_יואב_אוריאל #סוכות</p>]]></content:encoded>
+      <itunes:summary>הכנה לסוכות
+מעביר: הרב יואב אוריאל
+מועד: סוכות
+תאריך: י״ב תשרי תשפ״ז (23.09.2026)
+
+#הרב_יואב_אוריאל #סוכות</itunes:summary>
+      <itunes:author>הרב יואב אוריאל</itunes:author>
+      <itunes:keywords>הרב יואב אוריאל,סוכות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1_fNZ7LcQC3_anRR_vwRTmKEv5j9fH4Vq.mp3" length="24400689" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-9d98b3b1-2e32-4e05-b8a2-9cb87f6f9038</guid>
+      <pubDate>Wed, 23 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3049</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יואב אוריאל</podcast:person>
+    </item>
+    <item>
+      <title>הרב יואב אקריש | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב יואב אקריש<br>תאריך: י״א תשרי תשפ״ז (22.09.2026)</p><p>#הרב_יואב_אקריש</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב יואב אקריש<br>תאריך: י״א תשרי תשפ״ז (22.09.2026)</p><p>#הרב_יואב_אקריש</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב יואב אקריש
+תאריך: י״א תשרי תשפ״ז (22.09.2026)
+
+#הרב_יואב_אקריש</itunes:summary>
+      <itunes:author>הרב יואב אקריש</itunes:author>
+      <itunes:keywords>הרב יואב אקריש</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1eepCQcL9SNPHVKXp1tVj4Gst0VeWuHaL.mp3" length="21153757" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-e377ee2c-0ae2-4f7a-9fe8-1e5f98a2074b</guid>
+      <pubDate>Tue, 22 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2644</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יואב אקריש</podcast:person>
+    </item>
+    <item>
+      <title>הרב רועי אהרוני | שיעור · ו׳ תשרי תשפ״ז</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: ו׳ תשרי תשפ״ז (17.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב רועי אהרוני<br>תאריך: ו׳ תשרי תשפ״ז (17.09.2026)</p><p>#הרב_רועי_אהרוני</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב רועי אהרוני
+תאריך: ו׳ תשרי תשפ״ז (17.09.2026)
+
+#הרב_רועי_אהרוני</itunes:summary>
+      <itunes:author>הרב רועי אהרוני</itunes:author>
+      <itunes:keywords>הרב רועי אהרוני</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1YPUvgG4gxYDNEdBRkkGWIoGkgcLvfAg0.mp3" length="26306812" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-ff9b2576-6dff-40c2-8d74-394fb8cc22c3</guid>
+      <pubDate>Thu, 17 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3288</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב רועי אהרוני</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן דאום | סליחה מחילה וכפרה</title>
+      <description><![CDATA[<p>סליחה מחילה וכפרה<br>מעביר: הרב ערן דאום<br>מועד: יום הכיפורים<br>תאריך: ו׳ תשרי תשפ״ז (17.09.2026)</p><p>#הרב_ערן_דאום #יום_הכיפורים</p>]]></description>
+      <content:encoded><![CDATA[<p>סליחה מחילה וכפרה<br>מעביר: הרב ערן דאום<br>מועד: יום הכיפורים<br>תאריך: ו׳ תשרי תשפ״ז (17.09.2026)</p><p>#הרב_ערן_דאום #יום_הכיפורים</p>]]></content:encoded>
+      <itunes:summary>סליחה מחילה וכפרה
+מעביר: הרב ערן דאום
+מועד: יום הכיפורים
+תאריך: ו׳ תשרי תשפ״ז (17.09.2026)
+
+#הרב_ערן_דאום #יום_הכיפורים</itunes:summary>
+      <itunes:author>הרב ערן דאום</itunes:author>
+      <itunes:keywords>הרב ערן דאום,יום הכיפורים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1dulbGRp7Xppe11lLlTE1houKso0DhGRK.mp3" length="22037965" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-9ca35f69-7c50-4de9-bf71-2b36e360a368</guid>
+      <pubDate>Thu, 17 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2754</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן דאום</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהוד אחיטוב | כולל ליל שישי · כ״ח אלול תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ח אלול תשפ״ו (10.09.2026)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ח אלול תשפ״ו (10.09.2026)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב אהוד אחיטוב
+מסגרת: כולל ליל שישי
+תאריך: כ״ח אלול תשפ״ו (10.09.2026)
+
+#הרב_אהוד_אחיטוב #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב אהוד אחיטוב</itunes:author>
+      <itunes:keywords>הרב אהוד אחיטוב,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/18uPd3-pQCfIWKaNPrzJMRpTW0CMtGDdI.mp3" length="26427202" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-dda37539-00f6-46ac-b61b-aa9cc4d05f52</guid>
+      <pubDate>Thu, 10 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3303</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | כולל ליל שישי · כ״א אלול תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״א אלול תשפ״ו (03.09.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״א אלול תשפ״ו (03.09.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב חגי לונדין
+מסגרת: כולל ליל שישי
+תאריך: כ״א אלול תשפ״ו (03.09.2026)
+
+#הרב_חגי_לונדין #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1DBQeATxZP1ZTQzMhbCMDpaNNv_WS3VQX.mp3" length="24521304" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-bff15f42-e29b-4c57-bd85-3f238071994c</guid>
+      <pubDate>Thu, 03 Sep 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3065</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהרן כהן | הכנה לראש השנה · י״ח אלול תשפ״ו</title>
+      <description><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: י״ח אלול תשפ״ו (31.08.2026)</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: י״ח אלול תשפ״ו (31.08.2026)</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></content:encoded>
+      <itunes:summary>הכנה לראש השנה
+מעביר: הרב אהרן כהן
+מועד: ראש השנה
+תאריך: י״ח אלול תשפ״ו (31.08.2026)
+
+#הרב_אהרן_כהן #ראש_השנה</itunes:summary>
+      <itunes:author>הרב אהרן כהן</itunes:author>
+      <itunes:keywords>הרב אהרן כהן,ראש השנה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1HqiAANhEfK4c131oFarQYeb_7cR_9JdN.mp3" length="21269157" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-96b9ddf5-1e31-42b1-87f8-da3c63edd680</guid>
+      <pubDate>Mon, 31 Aug 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2658</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהרן כהן</podcast:person>
+    </item>
+    <item>
+      <title>הרב אברהם בלס | חגי תשרי</title>
+      <description><![CDATA[<p>חגי תשרי<br>מעביר: הרב אברהם בלס<br>סדרה: חגי תשרי<br>מועד: סוכות<br>תאריך: י״ז אלול תשפ״ו (30.08.2026)</p><p>#הרב_אברהם_בלס #סוכות #חגי_תשרי</p>]]></description>
+      <content:encoded><![CDATA[<p>חגי תשרי<br>מעביר: הרב אברהם בלס<br>סדרה: חגי תשרי<br>מועד: סוכות<br>תאריך: י״ז אלול תשפ״ו (30.08.2026)</p><p>#הרב_אברהם_בלס #סוכות #חגי_תשרי</p>]]></content:encoded>
+      <itunes:summary>חגי תשרי
+מעביר: הרב אברהם בלס
+סדרה: חגי תשרי
+מועד: סוכות
+תאריך: י״ז אלול תשפ״ו (30.08.2026)
+
+#הרב_אברהם_בלס #סוכות #חגי_תשרי</itunes:summary>
+      <itunes:author>הרב אברהם בלס</itunes:author>
+      <itunes:keywords>הרב אברהם בלס,סוכות,חגי תשרי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1dKNUZPvOnkOlxKFv3DzXOmADHTYPxitO.mp3" length="30956573" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-9f7360f0-4b38-42cd-9abc-a9be5b09199f</guid>
+      <pubDate>Sun, 30 Aug 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3869</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אברהם בלס</podcast:person>
+    </item>
+    <item>
+      <title>הרב לביא אנגלמן | כולל ליל שישי · י״ד אלול תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד אלול תשפ״ו (27.08.2026)</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד אלול תשפ״ו (27.08.2026)</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב לביא אנגלמן
+מסגרת: כולל ליל שישי
+תאריך: י״ד אלול תשפ״ו (27.08.2026)
+
+#הרב_לביא_אנגלמן #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב לביא אנגלמן</itunes:author>
+      <itunes:keywords>הרב לביא אנגלמן,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1LN-PVmP7aY25sCyzouTZfaSDrIJJgLN7.mp3" length="24658816" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-95689027-6044-42b2-b3e7-1ff885502c61</guid>
+      <pubDate>Thu, 27 Aug 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3082</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן דאום | לקראת ראש השנה</title>
+      <description><![CDATA[<p>לקראת ראש השנה<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>לקראת ראש השנה<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></content:encoded>
+      <itunes:summary>לקראת ראש השנה
+מעביר: הרב ערן דאום
+מועד: ראש השנה
+תאריך: י״ב אלול תשפ״ו (25.08.2026)
+
+#הרב_ערן_דאום #ראש_השנה</itunes:summary>
+      <itunes:author>הרב ערן דאום</itunes:author>
+      <itunes:keywords>הרב ערן דאום,ראש השנה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1sR7cqlmBue730JMZ8-rp8gEnyHs88kyN.mp3" length="27263912" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-8cb7824f-8ed5-4bba-bb16-fa17dad42c6d</guid>
+      <pubDate>Tue, 25 Aug 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3407</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן דאום</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהרן כהן | שמונה קבצים – לקראת ראש השנה</title>
+      <description><![CDATA[<p>שמונה קבצים – לקראת ראש השנה<br>מעביר: הרב אהרן כהן<br>סדרה: שמונה קבצים<br>מועד: ראש השנה<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)</p><p>#הרב_אהרן_כהן #ראש_השנה #שמונה_קבצים</p>]]></description>
+      <content:encoded><![CDATA[<p>שמונה קבצים – לקראת ראש השנה<br>מעביר: הרב אהרן כהן<br>סדרה: שמונה קבצים<br>מועד: ראש השנה<br>תאריך: י״ב אלול תשפ״ו (25.08.2026)</p><p>#הרב_אהרן_כהן #ראש_השנה #שמונה_קבצים</p>]]></content:encoded>
+      <itunes:summary>שמונה קבצים – לקראת ראש השנה
+מעביר: הרב אהרן כהן
+סדרה: שמונה קבצים
+מועד: ראש השנה
+תאריך: י״ב אלול תשפ״ו (25.08.2026)
+
+#הרב_אהרן_כהן #ראש_השנה #שמונה_קבצים</itunes:summary>
+      <itunes:author>הרב אהרן כהן</itunes:author>
+      <itunes:keywords>הרב אהרן כהן,ראש השנה,שמונה קבצים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/19UCGrVI57n7nYmLzew50LCNskdHqfXHh.mp3" length="24140740" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-68595f7e-aaa1-4dbb-979f-504c59287461</guid>
+      <pubDate>Tue, 25 Aug 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3017</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהרן כהן</podcast:person>
+    </item>
+    <item>
+      <title>הרב אברהם בלס | חגי תשרי – הכנה לראש השנה</title>
+      <description><![CDATA[<p>חגי תשרי – הכנה לראש השנה<br>מעביר: הרב אברהם בלס<br>סדרה: חגי תשרי<br>מועד: ראש השנה<br>תאריך: י׳ אלול תשפ״ו (23.08.2026)</p><p>#הרב_אברהם_בלס #ראש_השנה #חגי_תשרי</p>]]></description>
+      <content:encoded><![CDATA[<p>חגי תשרי – הכנה לראש השנה<br>מעביר: הרב אברהם בלס<br>סדרה: חגי תשרי<br>מועד: ראש השנה<br>תאריך: י׳ אלול תשפ״ו (23.08.2026)</p><p>#הרב_אברהם_בלס #ראש_השנה #חגי_תשרי</p>]]></content:encoded>
+      <itunes:summary>חגי תשרי – הכנה לראש השנה
+מעביר: הרב אברהם בלס
+סדרה: חגי תשרי
+מועד: ראש השנה
+תאריך: י׳ אלול תשפ״ו (23.08.2026)
+
+#הרב_אברהם_בלס #ראש_השנה #חגי_תשרי</itunes:summary>
+      <itunes:author>הרב אברהם בלס</itunes:author>
+      <itunes:keywords>הרב אברהם בלס,ראש השנה,חגי תשרי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1W4n0fxY_ebygK5fN64dKzHFyNLZO7Oqa.mp3" length="26545466" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-4e9ffeb8-f9f2-4e7a-aa5e-cbb44fc009d3</guid>
+      <pubDate>Sun, 23 Aug 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3318</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אברהם בלס</podcast:person>
+    </item>
+    <item>
+      <title>הרב מרדכי מאיר | כולל ליל שישי · ז׳ אלול תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ז׳ אלול תשפ״ו (20.08.2026)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ז׳ אלול תשפ״ו (20.08.2026)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב מרדכי מאיר
+מסגרת: כולל ליל שישי
+תאריך: ז׳ אלול תשפ״ו (20.08.2026)
+
+#הרב_מרדכי_מאיר #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב מרדכי מאיר</itunes:author>
+      <itunes:keywords>הרב מרדכי מאיר,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1Zpmz6BJRxVBmbTz_Ea7ob5B_1yUEDmOe.mp3" length="23410157" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-565f2e10-68b8-4a21-8e30-29f110680cb4</guid>
+      <pubDate>Thu, 20 Aug 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2926</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן טמיר | עבודת ה בחודש אלול</title>
+      <description><![CDATA[<p>עבודת ה בחודש אלול<br>מעביר: הרב ערן טמיר<br>מסגרת: כולל ליל שישי<br>מועד: חודש אלול<br>תאריך: ל׳ אב תשפ״ו (13.08.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר #חודש_אלול #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>עבודת ה בחודש אלול<br>מעביר: הרב ערן טמיר<br>מסגרת: כולל ליל שישי<br>מועד: חודש אלול<br>תאריך: ל׳ אב תשפ״ו (13.08.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר #חודש_אלול #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>עבודת ה בחודש אלול
+מעביר: הרב ערן טמיר
+מסגרת: כולל ליל שישי
+מועד: חודש אלול
+תאריך: ל׳ אב תשפ״ו (13.08.2026)
+מקום: המרפסת
+
+#הרב_ערן_טמיר #חודש_אלול #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב ערן טמיר</itunes:author>
+      <itunes:keywords>הרב ערן טמיר,חודש אלול,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1zVJ_j3a0bWhabp6Rme0SQP2IvG9DYuBM.mp3" length="26561749" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-5758e697-b16e-45d7-8876-efc27f41c3ec</guid>
+      <pubDate>Thu, 13 Aug 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3320</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן טמיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | כולל ליל שישי · כ״ג אב תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אב תשפ״ו (06.08.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אב תשפ״ו (06.08.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב יוני מילוא
+מסגרת: כולל ליל שישי
+תאריך: כ״ג אב תשפ״ו (06.08.2026)
+
+#הרב_יוני_מילוא #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1HAF4iNltpnRd0ek3pxEZT_gBenHZ7gf4.mp3" length="29598668" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-f7c0831c-11f3-44c8-888c-b50899a91599</guid>
+      <pubDate>Thu, 06 Aug 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3699</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב מרדכי מאיר | מבית מדרשו של החתם סופר</title>
+      <description><![CDATA[<p>מבית מדרשו של החתם סופר<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ט״ז אב תשפ״ו (30.07.2026)<br>מקום: המרפסת</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>מבית מדרשו של החתם סופר<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ט״ז אב תשפ״ו (30.07.2026)<br>מקום: המרפסת</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>מבית מדרשו של החתם סופר
+מעביר: הרב מרדכי מאיר
+מסגרת: כולל ליל שישי
+תאריך: ט״ז אב תשפ״ו (30.07.2026)
+מקום: המרפסת
+
+#הרב_מרדכי_מאיר #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב מרדכי מאיר</itunes:author>
+      <itunes:keywords>הרב מרדכי מאיר,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1zudlQRzVhiJhW6WzndXKposiAAnV7kOB.mp3" length="10591755" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-83cfea3a-9ea8-4bea-843a-58df77a8f3d3</guid>
+      <pubDate>Thu, 30 Jul 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>1323</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | צום ט' באב</title>
+      <description><![CDATA[<p>צום ט&#x27; באב<br>מעביר: הרב חגי לונדין<br>מועד: תשעה באב<br>תאריך: ט׳ אב תשפ״ו (23.07.2026)</p><p>#הרב_חגי_לונדין #תשעה_באב</p>]]></description>
+      <content:encoded><![CDATA[<p>צום ט&#x27; באב<br>מעביר: הרב חגי לונדין<br>מועד: תשעה באב<br>תאריך: ט׳ אב תשפ״ו (23.07.2026)</p><p>#הרב_חגי_לונדין #תשעה_באב</p>]]></content:encoded>
+      <itunes:summary>צום ט' באב
+מעביר: הרב חגי לונדין
+מועד: תשעה באב
+תאריך: ט׳ אב תשפ״ו (23.07.2026)
+
+#הרב_חגי_לונדין #תשעה_באב</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,תשעה באב</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/16M6Nb1pLTIRd4vb9tct5n_9Upl5NPyLf.mp3" length="18544657" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-5b5240fa-0fb2-47a6-b0ae-849bc83e4c5e</guid>
+      <pubDate>Thu, 23 Jul 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2318</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | כולל ליל שישי · כ״ד תמוז תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תמוז תשפ״ו (09.07.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תמוז תשפ״ו (09.07.2026)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב חגי לונדין
+מסגרת: כולל ליל שישי
+תאריך: כ״ד תמוז תשפ״ו (09.07.2026)
+
+#הרב_חגי_לונדין #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1WeqdFIglxHb5ej2nY4OtZjQm6Vbbimuw.mp3" length="35511959" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-2b3732a1-0d97-4210-b28b-c21f32c6d571</guid>
+      <pubDate>Thu, 09 Jul 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>4438</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב לביא אנגלמן | כולל ליל שישי · י״ז תמוז תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תמוז תשפ״ו (02.07.2026)</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תמוז תשפ״ו (02.07.2026)</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב לביא אנגלמן
+מסגרת: כולל ליל שישי
+תאריך: י״ז תמוז תשפ״ו (02.07.2026)
+
+#הרב_לביא_אנגלמן #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב לביא אנגלמן</itunes:author>
+      <itunes:keywords>הרב לביא אנגלמן,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1MaduxZHoJnbsY01loBP2isH7-bMOQVkw.mp3" length="22912374" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-22fb6ccf-65c6-4748-b638-dbbc0a8970c3</guid>
+      <pubDate>Thu, 02 Jul 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2863</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן דאום | מסעות המדבר - פרשנות, מדרש ומחשבה</title>
+      <description><![CDATA[<p>מסעות המדבר - פרשנות, מדרש ומחשבה<br>מעביר: הרב ערן דאום<br>סדרה: מסעות המדבר - פרשנות, מדרש ומחשבה<br>תאריך: ח׳ סיון תשפ״ו (24.05.2026)</p><p>#הרב_ערן_דאום #מסעות_המדבר_פרשנות_מדרש_ומחשבה</p>]]></description>
+      <content:encoded><![CDATA[<p>מסעות המדבר - פרשנות, מדרש ומחשבה<br>מעביר: הרב ערן דאום<br>סדרה: מסעות המדבר - פרשנות, מדרש ומחשבה<br>תאריך: ח׳ סיון תשפ״ו (24.05.2026)</p><p>#הרב_ערן_דאום #מסעות_המדבר_פרשנות_מדרש_ומחשבה</p>]]></content:encoded>
+      <itunes:summary>מסעות המדבר - פרשנות, מדרש ומחשבה
+מעביר: הרב ערן דאום
+סדרה: מסעות המדבר - פרשנות, מדרש ומחשבה
+תאריך: ח׳ סיון תשפ״ו (24.05.2026)
+
+#הרב_ערן_דאום #מסעות_המדבר_פרשנות_מדרש_ומחשבה</itunes:summary>
+      <itunes:author>הרב ערן דאום</itunes:author>
+      <itunes:keywords>הרב ערן דאום,מסעות המדבר - פרשנות, מדרש ומחשבה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1zZ48ALnYzEMbfSmBTI1SSyz3z8HLgu23.mp3" length="18804038" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-f09df910-9c33-421a-8a4c-d92349b3747e</guid>
+      <pubDate>Sun, 24 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2350</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן דאום</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | לקראת שבועות</title>
+      <description><![CDATA[<p>לקראת שבועות<br>מעביר: הרב יוני מילוא<br>מועד: שבועות<br>תאריך: ד׳ סיון תשפ״ו (20.05.2026)</p><p>#הרב_יוני_מילוא #שבועות</p>]]></description>
+      <content:encoded><![CDATA[<p>לקראת שבועות<br>מעביר: הרב יוני מילוא<br>מועד: שבועות<br>תאריך: ד׳ סיון תשפ״ו (20.05.2026)</p><p>#הרב_יוני_מילוא #שבועות</p>]]></content:encoded>
+      <itunes:summary>לקראת שבועות
+מעביר: הרב יוני מילוא
+מועד: שבועות
+תאריך: ד׳ סיון תשפ״ו (20.05.2026)
+
+#הרב_יוני_מילוא #שבועות</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא,שבועות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1dhSlf0tx3PpyFny2Z7yFbkyHyqfqWld5.mp3" length="32527276" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-f93593c7-01c0-433a-a7f4-1d23d255c5a7</guid>
+      <pubDate>Wed, 20 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>4065</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהרן כהן | לקראת שבועות</title>
+      <description><![CDATA[<p>לקראת שבועות<br>מעביר: הרב אהרן כהן<br>מועד: שבועות<br>תאריך: ג׳ סיון תשפ״ו (19.05.2026)</p><p>#הרב_אהרן_כהן #שבועות</p>]]></description>
+      <content:encoded><![CDATA[<p>לקראת שבועות<br>מעביר: הרב אהרן כהן<br>מועד: שבועות<br>תאריך: ג׳ סיון תשפ״ו (19.05.2026)</p><p>#הרב_אהרן_כהן #שבועות</p>]]></content:encoded>
+      <itunes:summary>לקראת שבועות
+מעביר: הרב אהרן כהן
+מועד: שבועות
+תאריך: ג׳ סיון תשפ״ו (19.05.2026)
+
+#הרב_אהרן_כהן #שבועות</itunes:summary>
+      <itunes:author>הרב אהרן כהן</itunes:author>
+      <itunes:keywords>הרב אהרן כהן,שבועות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1yMRjx6Dqw3BSG-QjgAbc2zEe_KQJUY28.mp3" length="27510504" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-f1629886-c3fe-48f4-b6b6-3d50e6fcc262</guid>
+      <pubDate>Tue, 19 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3438</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהרן כהן</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | לקראת שבועות</title>
+      <description><![CDATA[<p>לקראת שבועות<br>מעביר: הרב ברוך רוזנבלום<br>מועד: שבועות<br>תאריך: ב׳ סיון תשפ״ו (18.05.2026)</p><p>#הרב_ברוך_רוזנבלום #שבועות</p>]]></description>
+      <content:encoded><![CDATA[<p>לקראת שבועות<br>מעביר: הרב ברוך רוזנבלום<br>מועד: שבועות<br>תאריך: ב׳ סיון תשפ״ו (18.05.2026)</p><p>#הרב_ברוך_רוזנבלום #שבועות</p>]]></content:encoded>
+      <itunes:summary>לקראת שבועות
+מעביר: הרב ברוך רוזנבלום
+מועד: שבועות
+תאריך: ב׳ סיון תשפ״ו (18.05.2026)
+
+#הרב_ברוך_רוזנבלום #שבועות</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום,שבועות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1xR0gxEK-eaGhp5vPuTf25I6lpRqTt9VF.mp3" length="27673737" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-03663e00-4ea8-4700-a4c0-1598805756e5</guid>
+      <pubDate>Mon, 18 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3459</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן טמיר | חג שבועות · א׳ סיון תשפ״ו</title>
+      <description><![CDATA[<p>חג שבועות<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: א׳ סיון תשפ״ו (17.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></description>
+      <content:encoded><![CDATA[<p>חג שבועות<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: א׳ סיון תשפ״ו (17.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></content:encoded>
+      <itunes:summary>חג שבועות
+מעביר: הרב ערן טמיר
+סדרה: חג שבועות
+מועד: שבועות
+תאריך: א׳ סיון תשפ״ו (17.05.2026)
+
+#הרב_ערן_טמיר #שבועות #חג_שבועות</itunes:summary>
+      <itunes:author>הרב ערן טמיר</itunes:author>
+      <itunes:keywords>הרב ערן טמיר,שבועות,חג שבועות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1uueOG3P3AYMCEFbDnnt_d2K6m9_W2FGi.mp3" length="31487203" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-00e7f0b0-288f-47f1-81f1-bdd83bfb0f22</guid>
+      <pubDate>Sun, 17 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3935</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן טמיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהוד אחיטוב | כולל ליל שישי · כ״ז אייר תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ז אייר תשפ״ו (14.05.2026)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ז אייר תשפ״ו (14.05.2026)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב אהוד אחיטוב
+מסגרת: כולל ליל שישי
+תאריך: כ״ז אייר תשפ״ו (14.05.2026)
+
+#הרב_אהוד_אחיטוב #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב אהוד אחיטוב</itunes:author>
+      <itunes:keywords>הרב אהוד אחיטוב,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1ZFN_sEYeWn73BSczp8lcLi7IdgXeOsLc.mp3" length="16596384" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-af79070b-53f8-487c-859e-73c388fa01d8</guid>
+      <pubDate>Thu, 14 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2074</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
+    </item>
+    <item>
+      <title>אלישע בר שאול | לקראת יום ירושלים · כ״ה אייר תשפ״ו (חלק 2)</title>
+      <description><![CDATA[<p>לקראת יום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></description>
+      <content:encoded><![CDATA[<p>לקראת יום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></content:encoded>
+      <itunes:summary>לקראת יום ירושלים
+מעביר: אלישע בר שאול
+מועד: יום ירושלים
+תאריך: כ״ה אייר תשפ״ו (12.05.2026)
+מקום: המרפסת
+
+#אלישע_בר_שאול #יום_ירושלים</itunes:summary>
+      <itunes:author>אלישע בר שאול</itunes:author>
+      <itunes:keywords>אלישע בר שאול,יום ירושלים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1k2V4j5ywlyEHodCCg4SJBIKAZ7y0lWwV.mp3" length="53947740" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-801e5363-0782-46e5-bcba-0e2818d04571</guid>
+      <pubDate>Tue, 12 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>6743</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">אלישע בר שאול</podcast:person>
+    </item>
+    <item>
+      <title>אלישע בר שאול | לקראת יום ירושלים · כ״ה אייר תשפ״ו (חלק 1)</title>
+      <description><![CDATA[<p>לקראת יום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></description>
+      <content:encoded><![CDATA[<p>לקראת יום ירושלים<br>מעביר: אלישע בר שאול<br>מועד: יום ירושלים<br>תאריך: כ״ה אייר תשפ״ו (12.05.2026)<br>מקום: המרפסת</p><p>#אלישע_בר_שאול #יום_ירושלים</p>]]></content:encoded>
+      <itunes:summary>לקראת יום ירושלים
+מעביר: אלישע בר שאול
+מועד: יום ירושלים
+תאריך: כ״ה אייר תשפ״ו (12.05.2026)
+מקום: המרפסת
+
+#אלישע_בר_שאול #יום_ירושלים</itunes:summary>
+      <itunes:author>אלישע בר שאול</itunes:author>
+      <itunes:keywords>אלישע בר שאול,יום ירושלים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1k2V4j5ywlyEHodCCg4SJBIKAZ7y0lWwV.mp3" length="53947740" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-063d5575-b82b-48c8-83c0-2e0ca4259cd7</guid>
+      <pubDate>Tue, 12 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>6743</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">אלישע בר שאול</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן טמיר | יום ירושלים</title>
+      <description><![CDATA[<p>יום ירושלים<br>מעביר: הרב ערן טמיר<br>מועד: יום ירושלים<br>תאריך: י״ח אייר תשפ״ו (05.05.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר #יום_ירושלים</p>]]></description>
+      <content:encoded><![CDATA[<p>יום ירושלים<br>מעביר: הרב ערן טמיר<br>מועד: יום ירושלים<br>תאריך: י״ח אייר תשפ״ו (05.05.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר #יום_ירושלים</p>]]></content:encoded>
+      <itunes:summary>יום ירושלים
+מעביר: הרב ערן טמיר
+מועד: יום ירושלים
+תאריך: י״ח אייר תשפ״ו (05.05.2026)
+מקום: המרפסת
+
+#הרב_ערן_טמיר #יום_ירושלים</itunes:summary>
+      <itunes:author>הרב ערן טמיר</itunes:author>
+      <itunes:keywords>הרב ערן טמיר,יום ירושלים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1ws5rHhRjeMCS8j34E0mEY__T-PQIlE9A.mp3" length="28945356" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-d22e9c30-0d17-435f-8ef3-d4b84a0e39c1</guid>
+      <pubDate>Tue, 05 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3618</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן טמיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | לקראת ל"ג בעומר</title>
+      <description><![CDATA[<p>לקראת ל&quot;ג בעומר<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ל&quot;ג בעומר<br>תאריך: י״ז אייר תשפ״ו (04.05.2026)</p><p>#הרב_ברוך_רוזנבלום #לג_בעומר</p>]]></description>
+      <content:encoded><![CDATA[<p>לקראת ל&quot;ג בעומר<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ל&quot;ג בעומר<br>תאריך: י״ז אייר תשפ״ו (04.05.2026)</p><p>#הרב_ברוך_רוזנבלום #לג_בעומר</p>]]></content:encoded>
+      <itunes:summary>לקראת ל"ג בעומר
+מעביר: הרב ברוך רוזנבלום
+מועד: ל"ג בעומר
+תאריך: י״ז אייר תשפ״ו (04.05.2026)
+
+#הרב_ברוך_רוזנבלום #לג_בעומר</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום,ל"ג בעומר</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1ntRdNRgCOvQxDUU1z7ouBiNLSSgoeO_7.mp3" length="31492009" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-42597dac-dfaf-4fc8-aacc-0cf869830be7</guid>
+      <pubDate>Mon, 04 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3936</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן טמיר | חג שבועות · ט״ז אייר תשפ״ו</title>
+      <description><![CDATA[<p>חג שבועות<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: ט״ז אייר תשפ״ו (03.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></description>
+      <content:encoded><![CDATA[<p>חג שבועות<br>מעביר: הרב ערן טמיר<br>סדרה: חג שבועות<br>מועד: שבועות<br>תאריך: ט״ז אייר תשפ״ו (03.05.2026)</p><p>#הרב_ערן_טמיר #שבועות #חג_שבועות</p>]]></content:encoded>
+      <itunes:summary>חג שבועות
+מעביר: הרב ערן טמיר
+סדרה: חג שבועות
+מועד: שבועות
+תאריך: ט״ז אייר תשפ״ו (03.05.2026)
+
+#הרב_ערן_טמיר #שבועות #חג_שבועות</itunes:summary>
+      <itunes:author>הרב ערן טמיר</itunes:author>
+      <itunes:keywords>הרב ערן טמיר,שבועות,חג שבועות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1gmBZfrXonYSwYYzos8riqr7_ty75iici.mp3" length="31212814" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-3d40d3fa-920f-45a3-8c85-cb05926ebdba</guid>
+      <pubDate>Sun, 03 May 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3901</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן טמיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב יעקב שמעון | פסח שני</title>
+      <description><![CDATA[<p>פסח שני<br>מעביר: הרב יעקב שמעון<br>מסגרת: כולל ליל שישי<br>מועד: פסח שני<br>תאריך: י״ג אייר תשפ״ו (30.04.2026)<br>מקום: המרפסת</p><p>#הרב_יעקב_שמעון #פסח_שני #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>פסח שני<br>מעביר: הרב יעקב שמעון<br>מסגרת: כולל ליל שישי<br>מועד: פסח שני<br>תאריך: י״ג אייר תשפ״ו (30.04.2026)<br>מקום: המרפסת</p><p>#הרב_יעקב_שמעון #פסח_שני #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>פסח שני
+מעביר: הרב יעקב שמעון
+מסגרת: כולל ליל שישי
+מועד: פסח שני
+תאריך: י״ג אייר תשפ״ו (30.04.2026)
+מקום: המרפסת
+
+#הרב_יעקב_שמעון #פסח_שני #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יעקב שמעון</itunes:author>
+      <itunes:keywords>הרב יעקב שמעון,פסח שני,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1xOsMpZEiSBPJQ6cPtmiIAtu1hjgBWR7H.mp3" length="28356033" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-d9aae898-6189-4433-9bca-7e2846960529</guid>
+      <pubDate>Thu, 30 Apr 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3544</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יעקב שמעון</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן טמיר | לקראת לג בעומר הנסתר ינצח את העולם</title>
+      <description><![CDATA[<p>לקראת לג בעומר הנסתר ינצח את העולם<br>מעביר: הרב ערן טמיר<br>מועד: ל&quot;ג בעומר<br>תאריך: י״א אייר תשפ״ו (28.04.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר #לג_בעומר</p>]]></description>
+      <content:encoded><![CDATA[<p>לקראת לג בעומר הנסתר ינצח את העולם<br>מעביר: הרב ערן טמיר<br>מועד: ל&quot;ג בעומר<br>תאריך: י״א אייר תשפ״ו (28.04.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר #לג_בעומר</p>]]></content:encoded>
+      <itunes:summary>לקראת לג בעומר הנסתר ינצח את העולם
+מעביר: הרב ערן טמיר
+מועד: ל"ג בעומר
+תאריך: י״א אייר תשפ״ו (28.04.2026)
+מקום: המרפסת
+
+#הרב_ערן_טמיר #לג_בעומר</itunes:summary>
+      <itunes:author>הרב ערן טמיר</itunes:author>
+      <itunes:keywords>הרב ערן טמיר,ל"ג בעומר</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1bkEdBNaAPw7SLjPdVfXpgbW6ad2ppUPw.mp3" length="28538937" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-8ee7b29d-22a0-4ca9-baa9-531c4b1253ed</guid>
+      <pubDate>Tue, 28 Apr 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3567</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן טמיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוסי קבסה | כך היא גאולתן של ישראל · ט׳ אייר תשפ״ו</title>
+      <description><![CDATA[<p>כך היא גאולתן של ישראל<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ט׳ אייר תשפ״ו (26.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></description>
+      <content:encoded><![CDATA[<p>כך היא גאולתן של ישראל<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ט׳ אייר תשפ״ו (26.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></content:encoded>
+      <itunes:summary>כך היא גאולתן של ישראל
+מעביר: הרב יוסי קבסה
+סדרה: כך היא גאולתן של ישראל
+תאריך: ט׳ אייר תשפ״ו (26.04.2026)
+
+#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</itunes:summary>
+      <itunes:author>הרב יוסי קבסה</itunes:author>
+      <itunes:keywords>הרב יוסי קבסה,כך היא גאולתן של ישראל</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1sCM6kQz3ciHhAphodSFhSMyYVCAvrQ3b.mp3" length="27145473" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-4a2b3b48-8f89-47bd-8926-6dc72bf0cf00</guid>
+      <pubDate>Sun, 26 Apr 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3393</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוסי קבסה</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלי פיינסילבר | ואהבת לרעך כמוך</title>
+      <description><![CDATA[<p>ואהבת לרעך כמוך<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>תאריך: ו׳ אייר תשפ״ו (23.04.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>ואהבת לרעך כמוך<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>תאריך: ו׳ אייר תשפ״ו (23.04.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>ואהבת לרעך כמוך
+מעביר: הרב אלי פיינסילבר
+מסגרת: כולל ליל שישי
+תאריך: ו׳ אייר תשפ״ו (23.04.2026)
+מקום: המרפסת
+
+#הרב_אלי_פיינסילבר #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1HVnNnvBjh3nwKLVC5GTGLn5JXa0rZu1N.mp3" length="21598706" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-1fd6ffa7-95af-4eb6-bcb1-8bd8e4b4907f</guid>
+      <pubDate>Thu, 23 Apr 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2699</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוסי קבסה | כך היא גאולתן של ישראל · ב׳ אייר תשפ״ו</title>
+      <description><![CDATA[<p>כך היא גאולתן של ישראל<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ב׳ אייר תשפ״ו (19.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></description>
+      <content:encoded><![CDATA[<p>כך היא גאולתן של ישראל<br>מעביר: הרב יוסי קבסה<br>סדרה: כך היא גאולתן של ישראל<br>תאריך: ב׳ אייר תשפ״ו (19.04.2026)</p><p>#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</p>]]></content:encoded>
+      <itunes:summary>כך היא גאולתן של ישראל
+מעביר: הרב יוסי קבסה
+סדרה: כך היא גאולתן של ישראל
+תאריך: ב׳ אייר תשפ״ו (19.04.2026)
+
+#הרב_יוסי_קבסה #כך_היא_גאולתן_של_ישראל</itunes:summary>
+      <itunes:author>הרב יוסי קבסה</itunes:author>
+      <itunes:keywords>הרב יוסי קבסה,כך היא גאולתן של ישראל</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1wqfn9Am0oPhtrif9CPh7Mbw4cb32IlBz.mp3" length="20510986" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-e683f985-7dc6-4050-a130-3ad62b39992e</guid>
+      <pubDate>Sun, 19 Apr 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2563</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוסי קבסה</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | כולל ליל שישי · כ״ט ניסן תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט ניסן תשפ״ו (16.04.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט ניסן תשפ״ו (16.04.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב חגי לונדין
+מסגרת: כולל ליל שישי
+תאריך: כ״ט ניסן תשפ״ו (16.04.2026)
+מקום: המרפסת
+
+#הרב_חגי_לונדין #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1wqfn9Am0oPhtrif9CPh7Mbw4cb32IlBz.mp3" length="20510986" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-7e7b9558-7b43-407d-90ac-fbd2f52d61e5</guid>
+      <pubDate>Thu, 16 Apr 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2563</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | תזריע מצורע</title>
+      <description><![CDATA[<p>תזריע מצורע<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט ניסן תשפ״ו (16.04.2026)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>תזריע מצורע<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט ניסן תשפ״ו (16.04.2026)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>תזריע מצורע
+מעביר: הרב יוני מילוא
+מסגרת: כולל ליל שישי
+תאריך: כ״ט ניסן תשפ״ו (16.04.2026)
+מקום: המרפסת
+
+#הרב_יוני_מילוא #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1d0NIZJ-DrNkyz7g7ixlwHYIlgdduXt6r.mp3" length="21609344" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-4bbd1344-c440-48d3-bb54-c1830bd19874</guid>
+      <pubDate>Thu, 16 Apr 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2701</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב אברהם בלס | חגי ניסן אייר · כ״ה ניסן תשפ״ו</title>
+      <description><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: כ״ה ניסן תשפ״ו (12.04.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></description>
+      <content:encoded><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: כ״ה ניסן תשפ״ו (12.04.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></content:encoded>
+      <itunes:summary>חגי ניסן אייר
+מעביר: הרב אברהם בלס
+סדרה: חגי ניסן אייר
+מועד: פסח
+תאריך: כ״ה ניסן תשפ״ו (12.04.2026)
+
+#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</itunes:summary>
+      <itunes:author>הרב אברהם בלס</itunes:author>
+      <itunes:keywords>הרב אברהם בלס,פסח,חגי ניסן אייר</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1IHmGtCi_5dDYfcu2jKrU_25NmPCkyoGd.mp3" length="26670237" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-9abff5c1-303f-4c9b-8a1e-b66269bd639a</guid>
+      <pubDate>Sun, 12 Apr 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3333</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אברהם בלס</podcast:person>
+    </item>
+    <item>
+      <title>הרב עוזי ביננפלד | כולל ליל שישי · כ״ב ניסן תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ב ניסן תשפ״ו (09.04.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ב ניסן תשפ״ו (09.04.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב עוזי ביננפלד
+מסגרת: כולל ליל שישי
+תאריך: כ״ב ניסן תשפ״ו (09.04.2026)
+
+#הרב_עוזי_ביננפלד #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב עוזי ביננפלד</itunes:author>
+      <itunes:keywords>הרב עוזי ביננפלד,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1Dfr2PnIMcXLB4-oseRsQSOVZrkWCVX8q.mp3" length="34242834" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-1c2683e8-88bb-4df9-9ee4-eea9ad5f8650</guid>
+      <pubDate>Thu, 09 Apr 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>4280</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב עוזי ביננפלד</podcast:person>
+    </item>
+    <item>
+      <title>הרב שי סבג | ג' חול המועד</title>
+      <description><![CDATA[<p>ג&#x27; חול המועד<br>מעביר: הרב שי סבג<br>מועד: פסח<br>תאריך: י״ח ניסן תשפ״ו (05.04.2026)</p><p>#הרב_שי_סבג #פסח</p>]]></description>
+      <content:encoded><![CDATA[<p>ג&#x27; חול המועד<br>מעביר: הרב שי סבג<br>מועד: פסח<br>תאריך: י״ח ניסן תשפ״ו (05.04.2026)</p><p>#הרב_שי_סבג #פסח</p>]]></content:encoded>
+      <itunes:summary>ג' חול המועד
+מעביר: הרב שי סבג
+מועד: פסח
+תאריך: י״ח ניסן תשפ״ו (05.04.2026)
+
+#הרב_שי_סבג #פסח</itunes:summary>
+      <itunes:author>הרב שי סבג</itunes:author>
+      <itunes:keywords>הרב שי סבג,פסח</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1JXHgdBHsX37jWzmErJtIaNvBrK-GuV6N.mp3" length="22179845" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-91d82b35-df7a-491a-9caa-ce541f37c4fb</guid>
+      <pubDate>Sun, 05 Apr 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>2772</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב שי סבג</podcast:person>
+    </item>
+    <item>
+      <title>הרב אברהם בלס | חגי ניסן אייר · י״א ניסן תשפ״ו (חלק 2)</title>
+      <description><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></description>
+      <content:encoded><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></content:encoded>
+      <itunes:summary>חגי ניסן אייר
+מעביר: הרב אברהם בלס
+סדרה: חגי ניסן אייר
+מועד: פסח
+תאריך: י״א ניסן תשפ״ו (29.03.2026)
+
+#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</itunes:summary>
+      <itunes:author>הרב אברהם בלס</itunes:author>
+      <itunes:keywords>הרב אברהם בלס,פסח,חגי ניסן אייר</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1X1oQNdG_jMLkK_vpl3JdN1kLyqbbjDSf.mp3" length="31717946" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-ece525dd-9c5d-4683-aee6-ea087d975904</guid>
+      <pubDate>Sun, 29 Mar 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3964</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אברהם בלס</podcast:person>
+    </item>
+    <item>
+      <title>הרב אברהם בלס | חגי ניסן אייר · י״א ניסן תשפ״ו (חלק 1)</title>
+      <description><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></description>
+      <content:encoded><![CDATA[<p>חגי ניסן אייר<br>מעביר: הרב אברהם בלס<br>סדרה: חגי ניסן אייר<br>מועד: פסח<br>תאריך: י״א ניסן תשפ״ו (29.03.2026)</p><p>#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</p>]]></content:encoded>
+      <itunes:summary>חגי ניסן אייר
+מעביר: הרב אברהם בלס
+סדרה: חגי ניסן אייר
+מועד: פסח
+תאריך: י״א ניסן תשפ״ו (29.03.2026)
+
+#הרב_אברהם_בלס #פסח #חגי_ניסן_אייר</itunes:summary>
+      <itunes:author>הרב אברהם בלס</itunes:author>
+      <itunes:keywords>הרב אברהם בלס,פסח,חגי ניסן אייר</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1X1oQNdG_jMLkK_vpl3JdN1kLyqbbjDSf.mp3" length="31717946" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-c753b694-a0a8-449d-bcde-edcba8f5278a</guid>
+      <pubDate>Sun, 29 Mar 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3964</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אברהם בלס</podcast:person>
+    </item>
+    <item>
+      <title>הרב לביא אנגלמן | ליל הסדר התרחשות חיה</title>
+      <description><![CDATA[<p>ליל הסדר התרחשות חיה<br>מעביר: הרב לביא אנגלמן<br>מועד: פסח<br>תאריך: ט׳ ניסן תשפ״ו (27.03.2026)<br>מקום: המרפסת</p><p>#הרב_לביא_אנגלמן #פסח</p>]]></description>
+      <content:encoded><![CDATA[<p>ליל הסדר התרחשות חיה<br>מעביר: הרב לביא אנגלמן<br>מועד: פסח<br>תאריך: ט׳ ניסן תשפ״ו (27.03.2026)<br>מקום: המרפסת</p><p>#הרב_לביא_אנגלמן #פסח</p>]]></content:encoded>
+      <itunes:summary>ליל הסדר התרחשות חיה
+מעביר: הרב לביא אנגלמן
+מועד: פסח
+תאריך: ט׳ ניסן תשפ״ו (27.03.2026)
+מקום: המרפסת
+
+#הרב_לביא_אנגלמן #פסח</itunes:summary>
+      <itunes:author>הרב לביא אנגלמן</itunes:author>
+      <itunes:keywords>הרב לביא אנגלמן,פסח</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1K7hIStl3mOgJHTqPj-tvNvFXxQi181wX.mp3" length="26207962" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-dae17abb-94d7-4053-98d8-9a2a158bc673</guid>
+      <pubDate>Fri, 27 Mar 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3275</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהוד אחיטוב | יציאת מצרים עבר הווה עתיד</title>
+      <description><![CDATA[<p>יציאת מצרים עבר הווה עתיד<br>מעביר: הרב אהוד אחיטוב<br>מועד: פסח<br>תאריך: ט׳ ניסן תשפ״ו (27.03.2026)<br>מקום: המרפסת</p><p>#הרב_אהוד_אחיטוב #פסח</p>]]></description>
+      <content:encoded><![CDATA[<p>יציאת מצרים עבר הווה עתיד<br>מעביר: הרב אהוד אחיטוב<br>מועד: פסח<br>תאריך: ט׳ ניסן תשפ״ו (27.03.2026)<br>מקום: המרפסת</p><p>#הרב_אהוד_אחיטוב #פסח</p>]]></content:encoded>
+      <itunes:summary>יציאת מצרים עבר הווה עתיד
+מעביר: הרב אהוד אחיטוב
+מועד: פסח
+תאריך: ט׳ ניסן תשפ״ו (27.03.2026)
+מקום: המרפסת
+
+#הרב_אהוד_אחיטוב #פסח</itunes:summary>
+      <itunes:author>הרב אהוד אחיטוב</itunes:author>
+      <itunes:keywords>הרב אהוד אחיטוב,פסח</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1yAJX40L5kR0tUdeKI1BrO08Ei3duIgWw.mp3" length="31257128" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-61c56a62-e062-4dff-82bd-a6c84a54c3f0</guid>
+      <pubDate>Fri, 27 Mar 2026 20:00:00 +0300</pubDate>
+      <itunes:duration>3907</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | כולל ליל שישי · כ״ג אדר תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אדר תשפ״ו (12.03.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ג אדר תשפ״ו (12.03.2026)</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב יוני מילוא
+מסגרת: כולל ליל שישי
+תאריך: כ״ג אדר תשפ״ו (12.03.2026)
+
+#הרב_יוני_מילוא #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1xapj8szNF0jm50Z1ssQua8OQs3K3gxm_.mp3" length="29972744" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-f865383e-7154-422e-8103-dcbb5a240461</guid>
+      <pubDate>Thu, 12 Mar 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3746</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהוד אחיטוב | חוקת הפסח</title>
+      <description><![CDATA[<p>חוקת הפסח<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>מועד: פסח<br>תאריך: ט״ז אדר תשפ״ו (05.03.2026)<br>מקום: המרפסת</p><p>#הרב_אהוד_אחיטוב #פסח #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>חוקת הפסח<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>מועד: פסח<br>תאריך: ט״ז אדר תשפ״ו (05.03.2026)<br>מקום: המרפסת</p><p>#הרב_אהוד_אחיטוב #פסח #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>חוקת הפסח
+מעביר: הרב אהוד אחיטוב
+מסגרת: כולל ליל שישי
+מועד: פסח
+תאריך: ט״ז אדר תשפ״ו (05.03.2026)
+מקום: המרפסת
+
+#הרב_אהוד_אחיטוב #פסח #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב אהוד אחיטוב</itunes:author>
+      <itunes:keywords>הרב אהוד אחיטוב,פסח,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1AqWzlVMOdjxYYVwFEwURz7BHz_L9BnqT.mp3" length="27790543" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-231b8502-fe9f-487b-9247-f36e434eeee1</guid>
+      <pubDate>Thu, 05 Mar 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3473</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | הכנה לפורים</title>
+      <description><![CDATA[<p>הכנה לפורים<br>מעביר: הרב ברוך רוזנבלום<br>מועד: פורים<br>תאריך: י״ב אדר תשפ״ו (01.03.2026)</p><p>#הרב_ברוך_רוזנבלום #פורים</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לפורים<br>מעביר: הרב ברוך רוזנבלום<br>מועד: פורים<br>תאריך: י״ב אדר תשפ״ו (01.03.2026)</p><p>#הרב_ברוך_רוזנבלום #פורים</p>]]></content:encoded>
+      <itunes:summary>הכנה לפורים
+מעביר: הרב ברוך רוזנבלום
+מועד: פורים
+תאריך: י״ב אדר תשפ״ו (01.03.2026)
+
+#הרב_ברוך_רוזנבלום #פורים</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום,פורים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1f44rEblPLzwsr1J25eQGUO4ETl3SNgkQ.mp3" length="29863214" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-ce88dcf1-0049-4bd2-914a-f2dc3a967a8c</guid>
+      <pubDate>Sun, 01 Mar 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3732</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב יואב אקריש | ותלבש אסתר מלכות</title>
+      <description><![CDATA[<p>ותלבש אסתר מלכות<br>מעביר: הרב יואב אקריש<br>מועד: פורים<br>תאריך: ט׳ אדר תשפ״ו (26.02.2026)<br>מקום: המרפסת</p><p>#הרב_יואב_אקריש #פורים</p>]]></description>
+      <content:encoded><![CDATA[<p>ותלבש אסתר מלכות<br>מעביר: הרב יואב אקריש<br>מועד: פורים<br>תאריך: ט׳ אדר תשפ״ו (26.02.2026)<br>מקום: המרפסת</p><p>#הרב_יואב_אקריש #פורים</p>]]></content:encoded>
+      <itunes:summary>ותלבש אסתר מלכות
+מעביר: הרב יואב אקריש
+מועד: פורים
+תאריך: ט׳ אדר תשפ״ו (26.02.2026)
+מקום: המרפסת
+
+#הרב_יואב_אקריש #פורים</itunes:summary>
+      <itunes:author>הרב יואב אקריש</itunes:author>
+      <itunes:keywords>הרב יואב אקריש,פורים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/13equM44V9e18u6mzrjc9jEVnUrg3cu8H.mp3" length="36421201" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-f4153595-eba1-49be-85f1-d777765c633a</guid>
+      <pubDate>Thu, 26 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>4552</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יואב אקריש</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן טמיר | דור הניצחון</title>
+      <description><![CDATA[<p>דור הניצחון<br>מעביר: הרב ערן טמיר<br>תאריך: ו׳ אדר תשפ״ו (23.02.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר</p>]]></description>
+      <content:encoded><![CDATA[<p>דור הניצחון<br>מעביר: הרב ערן טמיר<br>תאריך: ו׳ אדר תשפ״ו (23.02.2026)<br>מקום: המרפסת</p><p>#הרב_ערן_טמיר</p>]]></content:encoded>
+      <itunes:summary>דור הניצחון
+מעביר: הרב ערן טמיר
+תאריך: ו׳ אדר תשפ״ו (23.02.2026)
+מקום: המרפסת
+
+#הרב_ערן_טמיר</itunes:summary>
+      <itunes:author>הרב ערן טמיר</itunes:author>
+      <itunes:keywords>הרב ערן טמיר</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1hgQBJ47cCT4RwIX0PrVSaOub3J4kUBIf.mp3" length="27409356" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-4a1422f2-0bab-43d4-b7cf-8aea25b5d477</guid>
+      <pubDate>Mon, 23 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3426</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן טמיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלי פיינסילבר | הכנה לפורים · ה׳ אדר תשפ״ו</title>
+      <description><![CDATA[<p>הכנה לפורים<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לפורים<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>הכנה לפורים
+מעביר: הרב אלי פיינסילבר
+מסגרת: כולל ליל שישי
+מועד: פורים
+תאריך: ה׳ אדר תשפ״ו (22.02.2026)
+מקום: המרפסת
+
+#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר,פורים,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1BpYFxPUtSOqgwf11vHB0faPITYmt_-7l.mp3" length="26226999" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-40fe97ad-4656-4665-a71c-390fe8473088</guid>
+      <pubDate>Sun, 22 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3278</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
+    </item>
+    <item>
+      <title>הרב נתנאל אוירבך | סדרה, מפגש שלישי · ה׳ אדר תשפ״ו (חלק 2)</title>
+      <description><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך</p>]]></description>
+      <content:encoded><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך</p>]]></content:encoded>
+      <itunes:summary>סדרה, מפגש שלישי
+מעביר: הרב נתנאל אוירבך
+תאריך: ה׳ אדר תשפ״ו (22.02.2026)
+
+#הרב_נתנאל_אוירבך</itunes:summary>
+      <itunes:author>הרב נתנאל אוירבך</itunes:author>
+      <itunes:keywords>הרב נתנאל אוירבך</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1aa-JEsB9l9g9DTPiEDp0rnj3f3lH8Inm.mp3" length="32159534" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-168e3cfa-f7ca-492d-8176-7eaeae533947</guid>
+      <pubDate>Sun, 22 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>4019</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב נתנאל אוירבך</podcast:person>
+    </item>
+    <item>
+      <title>הרב נתנאל אוירבך | סדרה, מפגש שלישי · ה׳ אדר תשפ״ו (חלק 1)</title>
+      <description><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך</p>]]></description>
+      <content:encoded><![CDATA[<p>סדרה, מפגש שלישי<br>מעביר: הרב נתנאל אוירבך<br>תאריך: ה׳ אדר תשפ״ו (22.02.2026)</p><p>#הרב_נתנאל_אוירבך</p>]]></content:encoded>
+      <itunes:summary>סדרה, מפגש שלישי
+מעביר: הרב נתנאל אוירבך
+תאריך: ה׳ אדר תשפ״ו (22.02.2026)
+
+#הרב_נתנאל_אוירבך</itunes:summary>
+      <itunes:author>הרב נתנאל אוירבך</itunes:author>
+      <itunes:keywords>הרב נתנאל אוירבך</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1aa-JEsB9l9g9DTPiEDp0rnj3f3lH8Inm.mp3" length="32159534" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-0cc7b3ec-4074-4be5-9cbe-819aa742e07d</guid>
+      <pubDate>Sun, 22 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>4019</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב נתנאל אוירבך</podcast:person>
+    </item>
+    <item>
+      <title>הרב עוזי ביננפלד | כולל ליל שישי · ב׳ אדר תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב עוזי ביננפלד
+מסגרת: כולל ליל שישי
+תאריך: ב׳ אדר תשפ״ו (19.02.2026)
+
+#הרב_עוזי_ביננפלד #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב עוזי ביננפלד</itunes:author>
+      <itunes:keywords>הרב עוזי ביננפלד,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1vQqt5dFs34P-bycnk-iDKKOHtJUDhvjF.mp3" length="34570092" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-959be3b2-864c-441c-b86d-fad5cf833413</guid>
+      <pubDate>Thu, 19 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>4321</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב עוזי ביננפלד</podcast:person>
+    </item>
+    <item>
+      <title>הרב נח ויזונסקי | הכנה לפורים</title>
+      <description><![CDATA[<p>הכנה לפורים<br>מעביר: הרב נח ויזונסקי<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)<br>מקום: המרפסת</p><p>#הרב_נח_ויזונסקי #פורים #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לפורים<br>מעביר: הרב נח ויזונסקי<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: ב׳ אדר תשפ״ו (19.02.2026)<br>מקום: המרפסת</p><p>#הרב_נח_ויזונסקי #פורים #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>הכנה לפורים
+מעביר: הרב נח ויזונסקי
+מסגרת: כולל ליל שישי
+מועד: פורים
+תאריך: ב׳ אדר תשפ״ו (19.02.2026)
+מקום: המרפסת
+
+#הרב_נח_ויזונסקי #פורים #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב נח ויזונסקי</itunes:author>
+      <itunes:keywords>הרב נח ויזונסקי,פורים,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1QjqgHNpyxZX0DTO8eMh1JmwreozUQj-e.mp3" length="15963347" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-29b669a6-08a7-48f7-8e1b-7ad421e96b8d</guid>
+      <pubDate>Thu, 19 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>1995</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב נח ויזונסקי</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלי פיינסילבר | הכנה לפורים מפגש שני</title>
+      <description><![CDATA[<p>הכנה לפורים מפגש שני<br>מעביר: הרב אלי פיינסילבר<br>סדרה: הכנה לפורים · מפגש 2<br>מועד: פורים<br>תאריך: כ״ח שבט תשפ״ו (15.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #הכנה_לפורים</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לפורים מפגש שני<br>מעביר: הרב אלי פיינסילבר<br>סדרה: הכנה לפורים · מפגש 2<br>מועד: פורים<br>תאריך: כ״ח שבט תשפ״ו (15.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #הכנה_לפורים</p>]]></content:encoded>
+      <itunes:summary>הכנה לפורים מפגש שני
+מעביר: הרב אלי פיינסילבר
+סדרה: הכנה לפורים · מפגש 2
+מועד: פורים
+תאריך: כ״ח שבט תשפ״ו (15.02.2026)
+מקום: המרפסת
+
+#הרב_אלי_פיינסילבר #פורים #הכנה_לפורים</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר,פורים,הכנה לפורים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1gPc6f9Zsx0KP_UR344x_642BK-nlT1JO.mp3" length="24484515" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-a26a9d8b-a6c0-4f1a-a305-15480c774683</guid>
+      <pubDate>Sun, 15 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3060</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | מגילת אסתר</title>
+      <description><![CDATA[<p>מגילת אסתר<br>מעביר: הרב חגי לונדין<br>מועד: פורים<br>תאריך: כ״ח שבט תשפ״ו (15.02.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #פורים</p>]]></description>
+      <content:encoded><![CDATA[<p>מגילת אסתר<br>מעביר: הרב חגי לונדין<br>מועד: פורים<br>תאריך: כ״ח שבט תשפ״ו (15.02.2026)<br>מקום: המרפסת</p><p>#הרב_חגי_לונדין #פורים</p>]]></content:encoded>
+      <itunes:summary>מגילת אסתר
+מעביר: הרב חגי לונדין
+מועד: פורים
+תאריך: כ״ח שבט תשפ״ו (15.02.2026)
+מקום: המרפסת
+
+#הרב_חגי_לונדין #פורים</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,פורים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1gGm1__DxEsO7N8US_lB11KTXF47bvh1a.mp3" length="33927435" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-703d1260-d25b-49e6-ae7c-dbe201cce57d</guid>
+      <pubDate>Sun, 15 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>4240</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלי פיינסילבר | הכנה לפורים · כ״א שבט תשפ״ו</title>
+      <description><![CDATA[<p>הכנה לפורים<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: כ״א שבט תשפ״ו (08.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לפורים<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>מועד: פורים<br>תאריך: כ״א שבט תשפ״ו (08.02.2026)<br>מקום: המרפסת</p><p>#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>הכנה לפורים
+מעביר: הרב אלי פיינסילבר
+מסגרת: כולל ליל שישי
+מועד: פורים
+תאריך: כ״א שבט תשפ״ו (08.02.2026)
+מקום: המרפסת
+
+#הרב_אלי_פיינסילבר #פורים #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר,פורים,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1PoXKuNUCXy2_GswIjZj2CDUYNkLnylK3.mp3" length="30624977" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-0251da12-3f87-4665-a96b-0ccc92af0709</guid>
+      <pubDate>Sun, 08 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3828</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
+    </item>
+    <item>
+      <title>הרב מרדכי מאיר | הערות על טעמי המצוות כתב סופר</title>
+      <description><![CDATA[<p>הערות על טעמי המצוות כתב סופר<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: י״ח שבט תשפ״ו (05.02.2026)<br>מקום: המרפסת</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>הערות על טעמי המצוות כתב סופר<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: י״ח שבט תשפ״ו (05.02.2026)<br>מקום: המרפסת</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>הערות על טעמי המצוות כתב סופר
+מעביר: הרב מרדכי מאיר
+מסגרת: כולל ליל שישי
+תאריך: י״ח שבט תשפ״ו (05.02.2026)
+מקום: המרפסת
+
+#הרב_מרדכי_מאיר #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב מרדכי מאיר</itunes:author>
+      <itunes:keywords>הרב מרדכי מאיר,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1eQjVmzFhcVJS8dhVDHoLnGYKtub56j1c.mp3" length="19969308" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-baed7ae3-c38b-453c-976e-37a08d60dd2a</guid>
+      <pubDate>Thu, 05 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>2496</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב לביא אנגלמן | הכנה לט"ו בשבט</title>
+      <description><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב לביא אנגלמן<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_לביא_אנגלמן #טו_בשבט</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב לביא אנגלמן<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_לביא_אנגלמן #טו_בשבט</p>]]></content:encoded>
+      <itunes:summary>הכנה לט"ו בשבט
+מעביר: הרב לביא אנגלמן
+מועד: ט"ו בשבט
+תאריך: י״ד שבט תשפ״ו (01.02.2026)
+
+#הרב_לביא_אנגלמן #טו_בשבט</itunes:summary>
+      <itunes:author>הרב לביא אנגלמן</itunes:author>
+      <itunes:keywords>הרב לביא אנגלמן,ט"ו בשבט</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1wo_0-y8wl9eslgjf066sBcYP671ATahy.mp3" length="26886089" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-d62888fa-24bf-4773-93f2-5cf55bd45329</guid>
+      <pubDate>Sun, 01 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3360</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | הכנה לט"ו בשבט · י״ד שבט תשפ״ו (חלק 2)</title>
+      <description><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></content:encoded>
+      <itunes:summary>הכנה לט"ו בשבט
+מעביר: הרב ברוך רוזנבלום
+מועד: ט"ו בשבט
+תאריך: י״ד שבט תשפ״ו (01.02.2026)
+
+#הרב_ברוך_רוזנבלום #טו_בשבט</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום,ט"ו בשבט</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1Dm3lujlptPM6_CLU67TYEnEFcv4cNPXw.mp3" length="27879425" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-ab904548-39fb-45ec-823e-dd8b6bab62fe</guid>
+      <pubDate>Sun, 01 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3484</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | הכנה לט"ו בשבט · י״ד שבט תשפ״ו (חלק 1)</title>
+      <description><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לט&quot;ו בשבט<br>מעביר: הרב ברוך רוזנבלום<br>מועד: ט&quot;ו בשבט<br>תאריך: י״ד שבט תשפ״ו (01.02.2026)</p><p>#הרב_ברוך_רוזנבלום #טו_בשבט</p>]]></content:encoded>
+      <itunes:summary>הכנה לט"ו בשבט
+מעביר: הרב ברוך רוזנבלום
+מועד: ט"ו בשבט
+תאריך: י״ד שבט תשפ״ו (01.02.2026)
+
+#הרב_ברוך_רוזנבלום #טו_בשבט</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום,ט"ו בשבט</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1Dm3lujlptPM6_CLU67TYEnEFcv4cNPXw.mp3" length="27879425" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-4bf974dc-bba0-42c4-bd72-96530a6ad41e</guid>
+      <pubDate>Sun, 01 Feb 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3484</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלי פיינסילבר | כולל ליל שישי</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>תאריך: י״א שבט תשפ״ו (29.01.2026)</p><p>#הרב_אלי_פיינסילבר #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אלי פיינסילבר<br>מסגרת: כולל ליל שישי<br>תאריך: י״א שבט תשפ״ו (29.01.2026)</p><p>#הרב_אלי_פיינסילבר #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב אלי פיינסילבר
+מסגרת: כולל ליל שישי
+תאריך: י״א שבט תשפ״ו (29.01.2026)
+
+#הרב_אלי_פיינסילבר #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב אלי פיינסילבר</itunes:author>
+      <itunes:keywords>הרב אלי פיינסילבר,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1VnP3DkBdvHguNvAcOOCAjD_HrwAIhmfS.mp3" length="28537243" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-1e795dfb-077e-4db5-a03c-723adab8ec90</guid>
+      <pubDate>Thu, 29 Jan 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3567</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלי פיינסילבר</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוסי קבסה | כולל ליל שישי</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוסי קבסה<br>מסגרת: כולל ליל שישי<br>תאריך: ד׳ שבט תשפ״ו (22.01.2026)</p><p>#הרב_יוסי_קבסה #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוסי קבסה<br>מסגרת: כולל ליל שישי<br>תאריך: ד׳ שבט תשפ״ו (22.01.2026)</p><p>#הרב_יוסי_קבסה #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב יוסי קבסה
+מסגרת: כולל ליל שישי
+תאריך: ד׳ שבט תשפ״ו (22.01.2026)
+
+#הרב_יוסי_קבסה #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יוסי קבסה</itunes:author>
+      <itunes:keywords>הרב יוסי קבסה,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1iqPJTlIyHOW7D6TVVle6fp7WeGZeqeR-.mp3" length="27355656" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-8131703e-4065-4af1-aee1-139da5af5d65</guid>
+      <pubDate>Thu, 22 Jan 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3419</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוסי קבסה</podcast:person>
+    </item>
+    <item>
+      <title>הרב מרדכי מאיר | עבודת התפילה, מפגש שלישי</title>
+      <description><![CDATA[<p>עבודת התפילה, מפגש שלישי<br>מעביר: הרב מרדכי מאיר<br>סדרה: עבודת התפילה · מפגש 3<br>תאריך: כ״ט טבת תשפ״ו (18.01.2026)</p><p>#הרב_מרדכי_מאיר #עבודת_התפילה</p>]]></description>
+      <content:encoded><![CDATA[<p>עבודת התפילה, מפגש שלישי<br>מעביר: הרב מרדכי מאיר<br>סדרה: עבודת התפילה · מפגש 3<br>תאריך: כ״ט טבת תשפ״ו (18.01.2026)</p><p>#הרב_מרדכי_מאיר #עבודת_התפילה</p>]]></content:encoded>
+      <itunes:summary>עבודת התפילה, מפגש שלישי
+מעביר: הרב מרדכי מאיר
+סדרה: עבודת התפילה · מפגש 3
+תאריך: כ״ט טבת תשפ״ו (18.01.2026)
+
+#הרב_מרדכי_מאיר #עבודת_התפילה</itunes:summary>
+      <itunes:author>הרב מרדכי מאיר</itunes:author>
+      <itunes:keywords>הרב מרדכי מאיר,עבודת התפילה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/16OJ-Qm3nufv-z774GYHa55buIIG23Y-5.mp3" length="19862092" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-b27ca83b-990e-4422-b632-9f8216d482a5</guid>
+      <pubDate>Sun, 18 Jan 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>2482</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | כולל ליל שישי · כ״ו טבת תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ו טבת תשפ״ו (15.01.2026)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ו טבת תשפ״ו (15.01.2026)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב יוני מילוא
+מסגרת: כולל ליל שישי
+תאריך: כ״ו טבת תשפ״ו (15.01.2026)
+מקום: המרפסת
+
+#הרב_יוני_מילוא #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1FGAsMQuG16fETMV4FzEny1EX-IKCcUGk.mp3" length="30129269" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-8f045b5e-26fb-450d-88a8-392452068e63</guid>
+      <pubDate>Thu, 15 Jan 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3766</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב מרדכי מאיר | עבודת התפילה, מפגש שני</title>
+      <description><![CDATA[<p>עבודת התפילה, מפגש שני<br>מעביר: הרב מרדכי מאיר<br>סדרה: עבודת התפילה · מפגש 2<br>תאריך: כ״ב טבת תשפ״ו (11.01.2026)</p><p>#הרב_מרדכי_מאיר #עבודת_התפילה</p>]]></description>
+      <content:encoded><![CDATA[<p>עבודת התפילה, מפגש שני<br>מעביר: הרב מרדכי מאיר<br>סדרה: עבודת התפילה · מפגש 2<br>תאריך: כ״ב טבת תשפ״ו (11.01.2026)</p><p>#הרב_מרדכי_מאיר #עבודת_התפילה</p>]]></content:encoded>
+      <itunes:summary>עבודת התפילה, מפגש שני
+מעביר: הרב מרדכי מאיר
+סדרה: עבודת התפילה · מפגש 2
+תאריך: כ״ב טבת תשפ״ו (11.01.2026)
+
+#הרב_מרדכי_מאיר #עבודת_התפילה</itunes:summary>
+      <itunes:author>הרב מרדכי מאיר</itunes:author>
+      <itunes:keywords>הרב מרדכי מאיר,עבודת התפילה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1zjo6w5LVVCi_uIyAnMBv1cOHfi2b95QK.mp3" length="23795084" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-d0be5f66-b26e-47f2-913b-58a6404ed08e</guid>
+      <pubDate>Sun, 11 Jan 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>2974</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב יואב אוריאל | כולל ליל שישי · י״ט טבת תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: י״ט טבת תשפ״ו (08.01.2026)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: י״ט טבת תשפ״ו (08.01.2026)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב יואב אוריאל
+מסגרת: כולל ליל שישי
+תאריך: י״ט טבת תשפ״ו (08.01.2026)
+
+#הרב_יואב_אוריאל #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יואב אוריאל</itunes:author>
+      <itunes:keywords>הרב יואב אוריאל,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/15ZBlKQWRDOO3UAa7QfuDqLlg4EuEzsGd.mp3" length="27806047" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-39df7e00-6608-46e0-839a-2e1bec88e91a</guid>
+      <pubDate>Thu, 08 Jan 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3475</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יואב אוריאל</podcast:person>
+    </item>
+    <item>
+      <title>הרב מרדכי מאיר | עבודת התפילה, מפגש ראשון</title>
+      <description><![CDATA[<p>עבודת התפילה, מפגש ראשון<br>מעביר: הרב מרדכי מאיר<br>סדרה: עבודת התפילה · מפגש 1<br>תאריך: ט״ו טבת תשפ״ו (04.01.2026)</p><p>#הרב_מרדכי_מאיר #עבודת_התפילה</p>]]></description>
+      <content:encoded><![CDATA[<p>עבודת התפילה, מפגש ראשון<br>מעביר: הרב מרדכי מאיר<br>סדרה: עבודת התפילה · מפגש 1<br>תאריך: ט״ו טבת תשפ״ו (04.01.2026)</p><p>#הרב_מרדכי_מאיר #עבודת_התפילה</p>]]></content:encoded>
+      <itunes:summary>עבודת התפילה, מפגש ראשון
+מעביר: הרב מרדכי מאיר
+סדרה: עבודת התפילה · מפגש 1
+תאריך: ט״ו טבת תשפ״ו (04.01.2026)
+
+#הרב_מרדכי_מאיר #עבודת_התפילה</itunes:summary>
+      <itunes:author>הרב מרדכי מאיר</itunes:author>
+      <itunes:keywords>הרב מרדכי מאיר,עבודת התפילה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1-ISQt9W5NRC80l2zezNOG1vHgWBUF5lr.mp3" length="26333145" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-b83379e3-ec8a-4555-8e25-6663272b470f</guid>
+      <pubDate>Sun, 04 Jan 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>3291</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב צחי משען | כולל ליל שישי</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב צחי משען<br>מסגרת: כולל ליל שישי<br>תאריך: י״ב טבת תשפ״ו (01.01.2026)</p><p>#הרב_צחי_משען #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב צחי משען<br>מסגרת: כולל ליל שישי<br>תאריך: י״ב טבת תשפ״ו (01.01.2026)</p><p>#הרב_צחי_משען #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב צחי משען
+מסגרת: כולל ליל שישי
+תאריך: י״ב טבת תשפ״ו (01.01.2026)
+
+#הרב_צחי_משען #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב צחי משען</itunes:author>
+      <itunes:keywords>הרב צחי משען,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2026/1CkE06b3p37R7GUz1-qK3yoWUez-DZ2A9.mp3" length="19565729" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-53df71b7-5d9f-496d-a15c-dc811e5f0efc</guid>
+      <pubDate>Thu, 01 Jan 2026 20:00:00 +0200</pubDate>
+      <itunes:duration>2445</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב צחי משען</podcast:person>
+    </item>
+    <item>
+      <title>ד"ר חגי בן ארצי | לקראת עשרה בטבת</title>
+      <description><![CDATA[<p>לקראת עשרה בטבת<br>מעביר: ד&quot;ר חגי בן ארצי<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#דר_חגי_בן_ארצי #עשרה_בטבת</p>]]></description>
+      <content:encoded><![CDATA[<p>לקראת עשרה בטבת<br>מעביר: ד&quot;ר חגי בן ארצי<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#דר_חגי_בן_ארצי #עשרה_בטבת</p>]]></content:encoded>
+      <itunes:summary>לקראת עשרה בטבת
+מעביר: ד"ר חגי בן ארצי
+מועד: עשרה בטבת
+תאריך: ח׳ טבת תשפ״ו (28.12.2025)
+מקום: המרפסת
+
+#דר_חגי_בן_ארצי #עשרה_בטבת</itunes:summary>
+      <itunes:author>ד"ר חגי בן ארצי</itunes:author>
+      <itunes:keywords>ד"ר חגי בן ארצי,עשרה בטבת</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1jUpfRwsoqzIbFeuNeTg_zu97UhMq_Sqd.mp3" length="34762950" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-e4540e85-2c0e-491b-a682-c7a898b8ea8f</guid>
+      <pubDate>Sun, 28 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>4345</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">ד"ר חגי בן ארצי</podcast:person>
+    </item>
+    <item>
+      <title>הרב יצחק נריה | לקראת עשרה בטבת</title>
+      <description><![CDATA[<p>לקראת עשרה בטבת<br>מעביר: הרב יצחק נריה<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#הרב_יצחק_נריה #עשרה_בטבת</p>]]></description>
+      <content:encoded><![CDATA[<p>לקראת עשרה בטבת<br>מעביר: הרב יצחק נריה<br>מועד: עשרה בטבת<br>תאריך: ח׳ טבת תשפ״ו (28.12.2025)<br>מקום: המרפסת</p><p>#הרב_יצחק_נריה #עשרה_בטבת</p>]]></content:encoded>
+      <itunes:summary>לקראת עשרה בטבת
+מעביר: הרב יצחק נריה
+מועד: עשרה בטבת
+תאריך: ח׳ טבת תשפ״ו (28.12.2025)
+מקום: המרפסת
+
+#הרב_יצחק_נריה #עשרה_בטבת</itunes:summary>
+      <itunes:author>הרב יצחק נריה</itunes:author>
+      <itunes:keywords>הרב יצחק נריה,עשרה בטבת</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1ZHEszn7WSWE5tU9Q95_nT5XMltdMaWSd.mp3" length="16970837" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-001219cb-4824-46bf-b7cb-dc12b7125aac</guid>
+      <pubDate>Sun, 28 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>2121</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יצחק נריה</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | ואת ערבותם תיקח</title>
+      <description><![CDATA[<p>ואת ערבותם תיקח<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: ה׳ טבת תשפ״ו (25.12.2025)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>ואת ערבותם תיקח<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: ה׳ טבת תשפ״ו (25.12.2025)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>ואת ערבותם תיקח
+מעביר: הרב יוני מילוא
+מסגרת: כולל ליל שישי
+תאריך: ה׳ טבת תשפ״ו (25.12.2025)
+מקום: המרפסת
+
+#הרב_יוני_מילוא #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1MQ8r2gIMdu8WvvK1Cew00aV_B_L0Xypg.mp3" length="38583302" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-e6e9431d-c639-4dab-936b-71b0d3192925</guid>
+      <pubDate>Thu, 25 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>4822</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן דאום | פרשת שבוע</title>
+      <description><![CDATA[<p>פרשת שבוע<br>מעביר: הרב ערן דאום<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ח כסלו תשפ״ו (18.12.2025)<br>מקום: המרפסת</p><p>#הרב_ערן_דאום #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>פרשת שבוע<br>מעביר: הרב ערן דאום<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ח כסלו תשפ״ו (18.12.2025)<br>מקום: המרפסת</p><p>#הרב_ערן_דאום #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>פרשת שבוע
+מעביר: הרב ערן דאום
+מסגרת: כולל ליל שישי
+תאריך: כ״ח כסלו תשפ״ו (18.12.2025)
+מקום: המרפסת
+
+#הרב_ערן_דאום #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב ערן דאום</itunes:author>
+      <itunes:keywords>הרב ערן דאום,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1FI778RNXFx3mOuUU4S6M-uzXlRSRPS6i.mp3" length="21622707" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-a72a0f10-45f5-44d3-83cb-0be9e2913d3f</guid>
+      <pubDate>Thu, 18 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>2702</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן דאום</podcast:person>
+    </item>
+    <item>
+      <title>הרב ניסים דעי | נס חנוכה</title>
+      <description><![CDATA[<p>נס חנוכה<br>מעביר: הרב ניסים דעי<br>מועד: חנוכה<br>תאריך: כ״ח כסלו תשפ״ו (18.12.2025)<br>מקום: המרפסת</p><p>#הרב_ניסים_דעי #חנוכה</p>]]></description>
+      <content:encoded><![CDATA[<p>נס חנוכה<br>מעביר: הרב ניסים דעי<br>מועד: חנוכה<br>תאריך: כ״ח כסלו תשפ״ו (18.12.2025)<br>מקום: המרפסת</p><p>#הרב_ניסים_דעי #חנוכה</p>]]></content:encoded>
+      <itunes:summary>נס חנוכה
+מעביר: הרב ניסים דעי
+מועד: חנוכה
+תאריך: כ״ח כסלו תשפ״ו (18.12.2025)
+מקום: המרפסת
+
+#הרב_ניסים_דעי #חנוכה</itunes:summary>
+      <itunes:author>הרב ניסים דעי</itunes:author>
+      <itunes:keywords>הרב ניסים דעי,חנוכה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/16v8ZV3_rU47XfRof0TneJ7wXQpmqv8mt.mp3" length="23382735" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-08d158e4-ab1b-4991-b7c8-e91e1a09d379</guid>
+      <pubDate>Thu, 18 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>2922</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ניסים דעי</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | הכנה לחנוכה</title>
+      <description><![CDATA[<p>הכנה לחנוכה<br>מעביר: הרב ברוך רוזנבלום<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_ברוך_רוזנבלום #חנוכה</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לחנוכה<br>מעביר: הרב ברוך רוזנבלום<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_ברוך_רוזנבלום #חנוכה</p>]]></content:encoded>
+      <itunes:summary>הכנה לחנוכה
+מעביר: הרב ברוך רוזנבלום
+מועד: חנוכה
+תאריך: כ״ד כסלו תשפ״ו (14.12.2025)
+
+#הרב_ברוך_רוזנבלום #חנוכה</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום,חנוכה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1Rbfk3QsiopyPJOtouRwREUYxSbPh9yBe.mp3" length="28064736" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-f2cf1dfc-9258-4ed8-b158-23446b195041</guid>
+      <pubDate>Sun, 14 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3507</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב יואב אוריאל | הכנה לחנוכה</title>
+      <description><![CDATA[<p>הכנה לחנוכה<br>מעביר: הרב יואב אוריאל<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_יואב_אוריאל #חנוכה</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לחנוכה<br>מעביר: הרב יואב אוריאל<br>מועד: חנוכה<br>תאריך: כ״ד כסלו תשפ״ו (14.12.2025)</p><p>#הרב_יואב_אוריאל #חנוכה</p>]]></content:encoded>
+      <itunes:summary>הכנה לחנוכה
+מעביר: הרב יואב אוריאל
+מועד: חנוכה
+תאריך: כ״ד כסלו תשפ״ו (14.12.2025)
+
+#הרב_יואב_אוריאל #חנוכה</itunes:summary>
+      <itunes:author>הרב יואב אוריאל</itunes:author>
+      <itunes:keywords>הרב יואב אוריאל,חנוכה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1DHm1SjRFUQJaFlbB6clWSsBc3ir5poQd.mp3" length="24553244" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-080df18b-6125-432c-9ce6-504049c0bf91</guid>
+      <pubDate>Sun, 14 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3069</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יואב אוריאל</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהוד אחיטוב | כולל ליל שישי · כ״א כסלו תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״א כסלו תשפ״ו (11.12.2025)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״א כסלו תשפ״ו (11.12.2025)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב אהוד אחיטוב
+מסגרת: כולל ליל שישי
+תאריך: כ״א כסלו תשפ״ו (11.12.2025)
+
+#הרב_אהוד_אחיטוב #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב אהוד אחיטוב</itunes:author>
+      <itunes:keywords>הרב אהוד אחיטוב,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/14_J1tdvYByKLH6g4gOeo4IHg8giJYf4d.mp3" length="25005096" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-c1bd2e95-5c2f-4eb8-b8cf-ddbfee79393e</guid>
+      <pubDate>Thu, 11 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3125</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהרן כהן | חנוכה להאיר את העולם · י״ח כסלו תשפ״ו (חלק 2)</title>
+      <description><![CDATA[<p>חנוכה להאיר את העולם<br>מעביר: הרב אהרן כהן<br>מועד: חנוכה<br>תאריך: י״ח כסלו תשפ״ו (08.12.2025)<br>מקום: המרפסת</p><p>#הרב_אהרן_כהן #חנוכה</p>]]></description>
+      <content:encoded><![CDATA[<p>חנוכה להאיר את העולם<br>מעביר: הרב אהרן כהן<br>מועד: חנוכה<br>תאריך: י״ח כסלו תשפ״ו (08.12.2025)<br>מקום: המרפסת</p><p>#הרב_אהרן_כהן #חנוכה</p>]]></content:encoded>
+      <itunes:summary>חנוכה להאיר את העולם
+מעביר: הרב אהרן כהן
+מועד: חנוכה
+תאריך: י״ח כסלו תשפ״ו (08.12.2025)
+מקום: המרפסת
+
+#הרב_אהרן_כהן #חנוכה</itunes:summary>
+      <itunes:author>הרב אהרן כהן</itunes:author>
+      <itunes:keywords>הרב אהרן כהן,חנוכה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1e8Oz4wnV5bdW4mAv0kllVLzwaOS5Hqel.mp3" length="23774433" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-d7bfa864-e4df-4a62-a01e-65c4e6f2385c</guid>
+      <pubDate>Mon, 08 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>2971</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהרן כהן</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהרן כהן | חנוכה להאיר את העולם · י״ח כסלו תשפ״ו (חלק 1)</title>
+      <description><![CDATA[<p>חנוכה להאיר את העולם<br>מעביר: הרב אהרן כהן<br>מועד: חנוכה<br>תאריך: י״ח כסלו תשפ״ו (08.12.2025)<br>מקום: המרפסת</p><p>#הרב_אהרן_כהן #חנוכה</p>]]></description>
+      <content:encoded><![CDATA[<p>חנוכה להאיר את העולם<br>מעביר: הרב אהרן כהן<br>מועד: חנוכה<br>תאריך: י״ח כסלו תשפ״ו (08.12.2025)<br>מקום: המרפסת</p><p>#הרב_אהרן_כהן #חנוכה</p>]]></content:encoded>
+      <itunes:summary>חנוכה להאיר את העולם
+מעביר: הרב אהרן כהן
+מועד: חנוכה
+תאריך: י״ח כסלו תשפ״ו (08.12.2025)
+מקום: המרפסת
+
+#הרב_אהרן_כהן #חנוכה</itunes:summary>
+      <itunes:author>הרב אהרן כהן</itunes:author>
+      <itunes:keywords>הרב אהרן כהן,חנוכה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1e8Oz4wnV5bdW4mAv0kllVLzwaOS5Hqel.mp3" length="23774433" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-7801d6c0-2d36-409a-a162-ef2caaaa5315</guid>
+      <pubDate>Mon, 08 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>2971</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהרן כהן</podcast:person>
+    </item>
+    <item>
+      <title>הרב יחיאל יעיש | חובת האדם בעולמו, מפגש שלישי</title>
+      <description><![CDATA[<p>חובת האדם בעולמו, מפגש שלישי<br>מעביר: הרב יחיאל יעיש<br>סדרה: חובת האדם בעולמו · מפגש 3<br>תאריך: י״ז כסלו תשפ״ו (07.12.2025)</p><p>#הרב_יחיאל_יעיש #חובת_האדם_בעולמו</p>]]></description>
+      <content:encoded><![CDATA[<p>חובת האדם בעולמו, מפגש שלישי<br>מעביר: הרב יחיאל יעיש<br>סדרה: חובת האדם בעולמו · מפגש 3<br>תאריך: י״ז כסלו תשפ״ו (07.12.2025)</p><p>#הרב_יחיאל_יעיש #חובת_האדם_בעולמו</p>]]></content:encoded>
+      <itunes:summary>חובת האדם בעולמו, מפגש שלישי
+מעביר: הרב יחיאל יעיש
+סדרה: חובת האדם בעולמו · מפגש 3
+תאריך: י״ז כסלו תשפ״ו (07.12.2025)
+
+#הרב_יחיאל_יעיש #חובת_האדם_בעולמו</itunes:summary>
+      <itunes:author>הרב יחיאל יעיש</itunes:author>
+      <itunes:keywords>הרב יחיאל יעיש,חובת האדם בעולמו</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1giDlSYt3rgCqHWIwkmwNt9SwfzwUN2WW.mp3" length="28437159" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-0c40eb25-fd40-4554-94b1-1f41e34e7649</guid>
+      <pubDate>Sun, 07 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3554</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יחיאל יעיש</podcast:person>
+    </item>
+    <item>
+      <title>הרב עוזי ביננפלד | כולל ליל שישי · י״ד כסלו תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד כסלו תשפ״ו (04.12.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד כסלו תשפ״ו (04.12.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב עוזי ביננפלד
+מסגרת: כולל ליל שישי
+תאריך: י״ד כסלו תשפ״ו (04.12.2025)
+
+#הרב_עוזי_ביננפלד #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב עוזי ביננפלד</itunes:author>
+      <itunes:keywords>הרב עוזי ביננפלד,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1dvHmH6Tse2RhygSyPMIu9TsSjg2LCd5m.mp3" length="28524525" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-f74c8b75-52e6-48e2-8852-70ce51f98890</guid>
+      <pubDate>Thu, 04 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3565</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב עוזי ביננפלד</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוסף צבי רימון | פרשת שבוע</title>
+      <description><![CDATA[<p>פרשת שבוע<br>מעביר: הרב יוסף צבי רימון<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד כסלו תשפ״ו (04.12.2025)<br>מקום: המרפסת</p><p>#הרב_יוסף_צבי_רימון #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>פרשת שבוע<br>מעביר: הרב יוסף צבי רימון<br>מסגרת: כולל ליל שישי<br>תאריך: י״ד כסלו תשפ״ו (04.12.2025)<br>מקום: המרפסת</p><p>#הרב_יוסף_צבי_רימון #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>פרשת שבוע
+מעביר: הרב יוסף צבי רימון
+מסגרת: כולל ליל שישי
+תאריך: י״ד כסלו תשפ״ו (04.12.2025)
+מקום: המרפסת
+
+#הרב_יוסף_צבי_רימון #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יוסף צבי רימון</itunes:author>
+      <itunes:keywords>הרב יוסף צבי רימון,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/11Q1ChgAATcjF3OghFdD_-HPS6aYvBpvV.mp3" length="28183227" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-1ef9860f-4bb3-4e9a-904f-505d26075a08</guid>
+      <pubDate>Thu, 04 Dec 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3522</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוסף צבי רימון</podcast:person>
+    </item>
+    <item>
+      <title>הרב יחיאל יעיש | חובת האדם בעולמו, מפגש שני</title>
+      <description><![CDATA[<p>חובת האדם בעולמו, מפגש שני<br>מעביר: הרב יחיאל יעיש<br>סדרה: חובת האדם בעולמו · מפגש 2<br>תאריך: י׳ כסלו תשפ״ו (30.11.2025)</p><p>#הרב_יחיאל_יעיש #חובת_האדם_בעולמו</p>]]></description>
+      <content:encoded><![CDATA[<p>חובת האדם בעולמו, מפגש שני<br>מעביר: הרב יחיאל יעיש<br>סדרה: חובת האדם בעולמו · מפגש 2<br>תאריך: י׳ כסלו תשפ״ו (30.11.2025)</p><p>#הרב_יחיאל_יעיש #חובת_האדם_בעולמו</p>]]></content:encoded>
+      <itunes:summary>חובת האדם בעולמו, מפגש שני
+מעביר: הרב יחיאל יעיש
+סדרה: חובת האדם בעולמו · מפגש 2
+תאריך: י׳ כסלו תשפ״ו (30.11.2025)
+
+#הרב_יחיאל_יעיש #חובת_האדם_בעולמו</itunes:summary>
+      <itunes:author>הרב יחיאל יעיש</itunes:author>
+      <itunes:keywords>הרב יחיאל יעיש,חובת האדם בעולמו</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1WCqcwvL9XW1-hDnz2oITLfSNP9o6Bvid.mp3" length="23037541" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-ab46d9c4-e4f2-4c37-aa8b-71b78178fe38</guid>
+      <pubDate>Sun, 30 Nov 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>2879</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יחיאל יעיש</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | סוד עוצמתה של האחווה</title>
+      <description><![CDATA[<p>סוד עוצמתה של האחווה<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: ז׳ כסלו תשפ״ו (27.11.2025)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>סוד עוצמתה של האחווה<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: ז׳ כסלו תשפ״ו (27.11.2025)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>סוד עוצמתה של האחווה
+מעביר: הרב יוני מילוא
+מסגרת: כולל ליל שישי
+תאריך: ז׳ כסלו תשפ״ו (27.11.2025)
+מקום: המרפסת
+
+#הרב_יוני_מילוא #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1Vih5164LeMXgskHVpeLSvKOZr8aIuCxL.mp3" length="36111501" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-48ab72af-3faa-4b7b-9472-3278c20102ee</guid>
+      <pubDate>Thu, 27 Nov 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>4513</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב יחיאל יעיש | חובת האדם בעולמו, מפגש ראשון</title>
+      <description><![CDATA[<p>חובת האדם בעולמו, מפגש ראשון<br>מעביר: הרב יחיאל יעיש<br>סדרה: חובת האדם בעולמו · מפגש 1<br>תאריך: ג׳ כסלו תשפ״ו (23.11.2025)</p><p>#הרב_יחיאל_יעיש #חובת_האדם_בעולמו</p>]]></description>
+      <content:encoded><![CDATA[<p>חובת האדם בעולמו, מפגש ראשון<br>מעביר: הרב יחיאל יעיש<br>סדרה: חובת האדם בעולמו · מפגש 1<br>תאריך: ג׳ כסלו תשפ״ו (23.11.2025)</p><p>#הרב_יחיאל_יעיש #חובת_האדם_בעולמו</p>]]></content:encoded>
+      <itunes:summary>חובת האדם בעולמו, מפגש ראשון
+מעביר: הרב יחיאל יעיש
+סדרה: חובת האדם בעולמו · מפגש 1
+תאריך: ג׳ כסלו תשפ״ו (23.11.2025)
+
+#הרב_יחיאל_יעיש #חובת_האדם_בעולמו</itunes:summary>
+      <itunes:author>הרב יחיאל יעיש</itunes:author>
+      <itunes:keywords>הרב יחיאל יעיש,חובת האדם בעולמו</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1mNSR34MuvOgMuDzQxE_FlapKATHgMe-D.mp3" length="26759262" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-2b018674-a495-4b3e-a2cc-9f89d4c3dace</guid>
+      <pubDate>Sun, 23 Nov 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3344</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יחיאל יעיש</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | כולל ליל שישי · כ״ט חשון תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט חשון תשפ״ו (20.11.2025)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב חגי לונדין<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ט חשון תשפ״ו (20.11.2025)</p><p>#הרב_חגי_לונדין #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב חגי לונדין
+מסגרת: כולל ליל שישי
+תאריך: כ״ט חשון תשפ״ו (20.11.2025)
+
+#הרב_חגי_לונדין #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/18hccsdRobbBT5EPVcD8hbKZSPrOd9x36.mp3" length="30717758" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-6d97e029-ff63-4521-b1de-0b5d5da27a02</guid>
+      <pubDate>Thu, 20 Nov 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3839</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב תומר זאבי | השפעת התרבות על החינוך, מפגש שלישי</title>
+      <description><![CDATA[<p>השפעת התרבות על החינוך, מפגש שלישי<br>מעביר: הרב תומר זאבי<br>סדרה: השפעת התרבות על החינוך · מפגש 3<br>תאריך: י״ח חשון תשפ״ו (09.11.2025)</p><p>#הרב_תומר_זאבי #השפעת_התרבות_על_החינוך</p>]]></description>
+      <content:encoded><![CDATA[<p>השפעת התרבות על החינוך, מפגש שלישי<br>מעביר: הרב תומר זאבי<br>סדרה: השפעת התרבות על החינוך · מפגש 3<br>תאריך: י״ח חשון תשפ״ו (09.11.2025)</p><p>#הרב_תומר_זאבי #השפעת_התרבות_על_החינוך</p>]]></content:encoded>
+      <itunes:summary>השפעת התרבות על החינוך, מפגש שלישי
+מעביר: הרב תומר זאבי
+סדרה: השפעת התרבות על החינוך · מפגש 3
+תאריך: י״ח חשון תשפ״ו (09.11.2025)
+
+#הרב_תומר_זאבי #השפעת_התרבות_על_החינוך</itunes:summary>
+      <itunes:author>הרב תומר זאבי</itunes:author>
+      <itunes:keywords>הרב תומר זאבי,השפעת התרבות על החינוך</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/11Zp5WdUYPfNe36nYPecABo19JTMcwiC7.mp3" length="24208256" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-cd5ee093-86af-496f-90c2-c1ce61e9648f</guid>
+      <pubDate>Sun, 09 Nov 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3025</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב תומר זאבי</podcast:person>
+    </item>
+    <item>
+      <title>הרב עוזי ביננפלד | כולל ליל שישי · ט״ו חשון תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ט״ו חשון תשפ״ו (06.11.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב עוזי ביננפלד<br>מסגרת: כולל ליל שישי<br>תאריך: ט״ו חשון תשפ״ו (06.11.2025)</p><p>#הרב_עוזי_ביננפלד #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב עוזי ביננפלד
+מסגרת: כולל ליל שישי
+תאריך: ט״ו חשון תשפ״ו (06.11.2025)
+
+#הרב_עוזי_ביננפלד #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב עוזי ביננפלד</itunes:author>
+      <itunes:keywords>הרב עוזי ביננפלד,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1LnYAJB4miQRy5EiVmtViY7ltrmpSvha6.mp3" length="34596427" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-509acf5f-bfb3-4b8d-8109-a6c3e62e0049</guid>
+      <pubDate>Thu, 06 Nov 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>4324</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב עוזי ביננפלד</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | רחל אמנו · י״א חשון תשפ״ו (חלק 2)</title>
+      <description><![CDATA[<p>רחל אמנו<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: י״א חשון תשפ״ו (02.11.2025)<br>מקום: המרפסת</p><p>#הרב_ברוך_רוזנבלום</p>]]></description>
+      <content:encoded><![CDATA[<p>רחל אמנו<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: י״א חשון תשפ״ו (02.11.2025)<br>מקום: המרפסת</p><p>#הרב_ברוך_רוזנבלום</p>]]></content:encoded>
+      <itunes:summary>רחל אמנו
+מעביר: הרב ברוך רוזנבלום
+תאריך: י״א חשון תשפ״ו (02.11.2025)
+מקום: המרפסת
+
+#הרב_ברוך_רוזנבלום</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1yMdMMdXeUBB9jzN6mCDqR8QOrM1k3idy.mp3" length="25843954" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-fbbd5354-7598-4e8e-8a3a-74a42747aca7</guid>
+      <pubDate>Sun, 02 Nov 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3230</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | רחל אמנו · י״א חשון תשפ״ו (חלק 1)</title>
+      <description><![CDATA[<p>רחל אמנו<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: י״א חשון תשפ״ו (02.11.2025)<br>מקום: המרפסת</p><p>#הרב_ברוך_רוזנבלום</p>]]></description>
+      <content:encoded><![CDATA[<p>רחל אמנו<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: י״א חשון תשפ״ו (02.11.2025)<br>מקום: המרפסת</p><p>#הרב_ברוך_רוזנבלום</p>]]></content:encoded>
+      <itunes:summary>רחל אמנו
+מעביר: הרב ברוך רוזנבלום
+תאריך: י״א חשון תשפ״ו (02.11.2025)
+מקום: המרפסת
+
+#הרב_ברוך_רוזנבלום</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1yMdMMdXeUBB9jzN6mCDqR8QOrM1k3idy.mp3" length="25843954" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-93de0282-7cb6-437e-b44f-448d5a597f25</guid>
+      <pubDate>Sun, 02 Nov 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3230</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב תומר זאבי | השפעת התרבות על החינוך, מפגש שני</title>
+      <description><![CDATA[<p>השפעת התרבות על החינוך, מפגש שני<br>מעביר: הרב תומר זאבי<br>סדרה: השפעת התרבות על החינוך · מפגש 2<br>תאריך: י״א חשון תשפ״ו (02.11.2025)</p><p>#הרב_תומר_זאבי #השפעת_התרבות_על_החינוך</p>]]></description>
+      <content:encoded><![CDATA[<p>השפעת התרבות על החינוך, מפגש שני<br>מעביר: הרב תומר זאבי<br>סדרה: השפעת התרבות על החינוך · מפגש 2<br>תאריך: י״א חשון תשפ״ו (02.11.2025)</p><p>#הרב_תומר_זאבי #השפעת_התרבות_על_החינוך</p>]]></content:encoded>
+      <itunes:summary>השפעת התרבות על החינוך, מפגש שני
+מעביר: הרב תומר זאבי
+סדרה: השפעת התרבות על החינוך · מפגש 2
+תאריך: י״א חשון תשפ״ו (02.11.2025)
+
+#הרב_תומר_זאבי #השפעת_התרבות_על_החינוך</itunes:summary>
+      <itunes:author>הרב תומר זאבי</itunes:author>
+      <itunes:keywords>הרב תומר זאבי,השפעת התרבות על החינוך</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1wx1aIKPv06oXHV5_yIVmzf8-21-FfDoD.mp3" length="21732471" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-3c699715-077a-49e5-86da-26f99f71a4e0</guid>
+      <pubDate>Sun, 02 Nov 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>2716</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב תומר זאבי</podcast:person>
+    </item>
+    <item>
+      <title>הרב לביא אנגלמן | כולל ליל שישי · ח׳ חשון תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: ח׳ חשון תשפ״ו (30.10.2025)<br>מקום: המרפסת</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: ח׳ חשון תשפ״ו (30.10.2025)<br>מקום: המרפסת</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב לביא אנגלמן
+מסגרת: כולל ליל שישי
+תאריך: ח׳ חשון תשפ״ו (30.10.2025)
+מקום: המרפסת
+
+#הרב_לביא_אנגלמן #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב לביא אנגלמן</itunes:author>
+      <itunes:keywords>הרב לביא אנגלמן,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1lpd0IPd4QEgo_-U6h6D5WXuuRPA6uI1h.mp3" length="23377770" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-d1889586-b917-4aec-9e33-f5708f0a8d53</guid>
+      <pubDate>Thu, 30 Oct 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>2922</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהרן כהן | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב אהרן כהן<br>תאריך: ו׳ חשון תשפ״ו (28.10.2025)</p><p>#הרב_אהרן_כהן</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב אהרן כהן<br>תאריך: ו׳ חשון תשפ״ו (28.10.2025)</p><p>#הרב_אהרן_כהן</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב אהרן כהן
+תאריך: ו׳ חשון תשפ״ו (28.10.2025)
+
+#הרב_אהרן_כהן</itunes:summary>
+      <itunes:author>הרב אהרן כהן</itunes:author>
+      <itunes:keywords>הרב אהרן כהן</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1T4Vp6zCWvhrafp8cp9OAX5fRs5wHf_bc.mp3" length="25717445" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-d34e6d20-1c05-4944-b345-3171c7bfd8ca</guid>
+      <pubDate>Tue, 28 Oct 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>3214</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהרן כהן</podcast:person>
+    </item>
+    <item>
+      <title>הרב תומר זאבי | השפעת התרבות על החינוך, מפגש ראשון</title>
+      <description><![CDATA[<p>השפעת התרבות על החינוך, מפגש ראשון<br>מעביר: הרב תומר זאבי<br>סדרה: השפעת התרבות על החינוך · מפגש 1<br>תאריך: ד׳ חשון תשפ״ו (26.10.2025)</p><p>#הרב_תומר_זאבי #השפעת_התרבות_על_החינוך</p>]]></description>
+      <content:encoded><![CDATA[<p>השפעת התרבות על החינוך, מפגש ראשון<br>מעביר: הרב תומר זאבי<br>סדרה: השפעת התרבות על החינוך · מפגש 1<br>תאריך: ד׳ חשון תשפ״ו (26.10.2025)</p><p>#הרב_תומר_זאבי #השפעת_התרבות_על_החינוך</p>]]></content:encoded>
+      <itunes:summary>השפעת התרבות על החינוך, מפגש ראשון
+מעביר: הרב תומר זאבי
+סדרה: השפעת התרבות על החינוך · מפגש 1
+תאריך: ד׳ חשון תשפ״ו (26.10.2025)
+
+#הרב_תומר_זאבי #השפעת_התרבות_על_החינוך</itunes:summary>
+      <itunes:author>הרב תומר זאבי</itunes:author>
+      <itunes:keywords>הרב תומר זאבי,השפעת התרבות על החינוך</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1ihO7P0H4RKpUzXPIa88_t2jiNkHz80Fb.mp3" length="22518656" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-cb809e99-5b49-48c2-b6dd-3c821e3946c9</guid>
+      <pubDate>Sun, 26 Oct 2025 20:00:00 +0200</pubDate>
+      <itunes:duration>2814</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב תומר זאבי</podcast:person>
+    </item>
+    <item>
+      <title>הרב לביא אנגלמן | כינוס ופיזור פרשת נח</title>
+      <description><![CDATA[<p>כינוס ופיזור פרשת נח<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: א׳ חשון תשפ״ו (23.10.2025)<br>מקום: המרפסת</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כינוס ופיזור פרשת נח<br>מעביר: הרב לביא אנגלמן<br>מסגרת: כולל ליל שישי<br>תאריך: א׳ חשון תשפ״ו (23.10.2025)<br>מקום: המרפסת</p><p>#הרב_לביא_אנגלמן #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כינוס ופיזור פרשת נח
+מעביר: הרב לביא אנגלמן
+מסגרת: כולל ליל שישי
+תאריך: א׳ חשון תשפ״ו (23.10.2025)
+מקום: המרפסת
+
+#הרב_לביא_אנגלמן #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב לביא אנגלמן</itunes:author>
+      <itunes:keywords>הרב לביא אנגלמן,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/11HnwgbigRW8sN0mTAH8QuaEM08WUXDWg.mp3" length="20151943" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-55cd511b-4a78-4d1a-af20-c33576ec28bf</guid>
+      <pubDate>Thu, 23 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>2518</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
+    </item>
+    <item>
+      <title>הרב אלישע אבינר | שיעור</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב אלישע אבינר<br>תאריך: ל׳ תשרי תשפ״ו (22.10.2025)</p><p>#הרב_אלישע_אבינר</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב אלישע אבינר<br>תאריך: ל׳ תשרי תשפ״ו (22.10.2025)</p><p>#הרב_אלישע_אבינר</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב אלישע אבינר
+תאריך: ל׳ תשרי תשפ״ו (22.10.2025)
+
+#הרב_אלישע_אבינר</itunes:summary>
+      <itunes:author>הרב אלישע אבינר</itunes:author>
+      <itunes:keywords>הרב אלישע אבינר</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1RbZEU0_59d7huBTAIIOsFpMJ1y5VvYA5.mp3" length="34728866" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-ea8907d1-054c-4920-b71d-66aee9d90d35</guid>
+      <pubDate>Wed, 22 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>4341</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אלישע אבינר</podcast:person>
+    </item>
+    <item>
+      <title>הרב יואב אוריאל | כולל ליל שישי · כ״ד תשרי תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תשרי תשפ״ו (16.10.2025)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב יואב אוריאל<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תשרי תשפ״ו (16.10.2025)</p><p>#הרב_יואב_אוריאל #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב יואב אוריאל
+מסגרת: כולל ליל שישי
+תאריך: כ״ד תשרי תשפ״ו (16.10.2025)
+
+#הרב_יואב_אוריאל #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יואב אוריאל</itunes:author>
+      <itunes:keywords>הרב יואב אוריאל,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/19mgYE5xDH4PRXWCZowa_iN6z_d7lgfkw.mp3" length="27793301" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-a9f3ee02-fd6e-48ee-8452-8b3fb1faa2ff</guid>
+      <pubDate>Thu, 16 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>3474</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יואב אוריאל</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | תיבת פנדורה ותיקון העולם · כ״ד תשרי תשפ״ו (חלק 2)</title>
+      <description><![CDATA[<p>תיבת פנדורה ותיקון העולם<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תשרי תשפ״ו (16.10.2025)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>תיבת פנדורה ותיקון העולם<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תשרי תשפ״ו (16.10.2025)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>תיבת פנדורה ותיקון העולם
+מעביר: הרב יוני מילוא
+מסגרת: כולל ליל שישי
+תאריך: כ״ד תשרי תשפ״ו (16.10.2025)
+מקום: המרפסת
+
+#הרב_יוני_מילוא #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1gBJQW7qv3amshyIo3xL8wEz3VTin8A9j.mp3" length="35870397" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-578cf654-8f31-4a3f-a05f-3db923b2af16</guid>
+      <pubDate>Thu, 16 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>4483</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | תיבת פנדורה ותיקון העולם · כ״ד תשרי תשפ״ו (חלק 1)</title>
+      <description><![CDATA[<p>תיבת פנדורה ותיקון העולם<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תשרי תשפ״ו (16.10.2025)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>תיבת פנדורה ותיקון העולם<br>מעביר: הרב יוני מילוא<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ד תשרי תשפ״ו (16.10.2025)<br>מקום: המרפסת</p><p>#הרב_יוני_מילוא #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>תיבת פנדורה ותיקון העולם
+מעביר: הרב יוני מילוא
+מסגרת: כולל ליל שישי
+תאריך: כ״ד תשרי תשפ״ו (16.10.2025)
+מקום: המרפסת
+
+#הרב_יוני_מילוא #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1gBJQW7qv3amshyIo3xL8wEz3VTin8A9j.mp3" length="35870397" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-4b5e74d2-94db-46df-9815-f7e725003350</guid>
+      <pubDate>Thu, 16 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>4483</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | שיעור · כ״ג תשרי תשפ״ו</title>
+      <description><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: כ״ג תשרי תשפ״ו (15.10.2025)</p><p>#הרב_ברוך_רוזנבלום</p>]]></description>
+      <content:encoded><![CDATA[<p>שיעור<br>מעביר: הרב ברוך רוזנבלום<br>תאריך: כ״ג תשרי תשפ״ו (15.10.2025)</p><p>#הרב_ברוך_רוזנבלום</p>]]></content:encoded>
+      <itunes:summary>שיעור
+מעביר: הרב ברוך רוזנבלום
+תאריך: כ״ג תשרי תשפ״ו (15.10.2025)
+
+#הרב_ברוך_רוזנבלום</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1U6AA2lqt93XybuVD7gW9Xrjj4ogPDone.mp3" length="29500239" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-fa71b438-b38f-4529-a955-8ff2d14d0fb4</guid>
+      <pubDate>Wed, 15 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>3687</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב שי דדוש | כשרות האתרוג</title>
+      <description><![CDATA[<p>כשרות האתרוג<br>מעביר: הרב שי דדוש<br>מועד: סוכות<br>תאריך: כ״ב תשרי תשפ״ו (14.10.2025)</p><p>#הרב_שי_דדוש #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>כשרות האתרוג<br>מעביר: הרב שי דדוש<br>מועד: סוכות<br>תאריך: כ״ב תשרי תשפ״ו (14.10.2025)</p><p>#הרב_שי_דדוש #סוכות</p>]]></content:encoded>
+      <itunes:summary>כשרות האתרוג
+מעביר: הרב שי דדוש
+מועד: סוכות
+תאריך: כ״ב תשרי תשפ״ו (14.10.2025)
+
+#הרב_שי_דדוש #סוכות</itunes:summary>
+      <itunes:author>הרב שי דדוש</itunes:author>
+      <itunes:keywords>הרב שי דדוש,סוכות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1So8fCdDSOXLDNO7ap3JWcqgY9UY6zC0A.mp3" length="30518343" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-b1ee6986-1171-4a29-8050-17acf0b18e7d</guid>
+      <pubDate>Tue, 14 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>3814</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב שי דדוש</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך הרניק | חג סוכות</title>
+      <description><![CDATA[<p>חג סוכות<br>מעביר: הרב ברוך הרניק<br>מועד: סוכות<br>תאריך: כ״ב תשרי תשפ״ו (14.10.2025)</p><p>#הרב_ברוך_הרניק #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>חג סוכות<br>מעביר: הרב ברוך הרניק<br>מועד: סוכות<br>תאריך: כ״ב תשרי תשפ״ו (14.10.2025)</p><p>#הרב_ברוך_הרניק #סוכות</p>]]></content:encoded>
+      <itunes:summary>חג סוכות
+מעביר: הרב ברוך הרניק
+מועד: סוכות
+תאריך: כ״ב תשרי תשפ״ו (14.10.2025)
+
+#הרב_ברוך_הרניק #סוכות</itunes:summary>
+      <itunes:author>הרב ברוך הרניק</itunes:author>
+      <itunes:keywords>הרב ברוך הרניק,סוכות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1AwlzU2ptR30ibCId4JEgAnTnZB9lPWb9.mp3" length="25346520" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-5316fe67-b9f6-4974-bd84-2e6c76826c41</guid>
+      <pubDate>Tue, 14 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>3168</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך הרניק</podcast:person>
+    </item>
+    <item>
+      <title>הרב שמעון טייכנר | הארת חג סוכות</title>
+      <description><![CDATA[<p>הארת חג סוכות<br>מעביר: הרב שמעון טייכנר<br>מועד: סוכות<br>תאריך: כ״ב תשרי תשפ״ו (14.10.2025)</p><p>#הרב_שמעון_טייכנר #סוכות</p>]]></description>
+      <content:encoded><![CDATA[<p>הארת חג סוכות<br>מעביר: הרב שמעון טייכנר<br>מועד: סוכות<br>תאריך: כ״ב תשרי תשפ״ו (14.10.2025)</p><p>#הרב_שמעון_טייכנר #סוכות</p>]]></content:encoded>
+      <itunes:summary>הארת חג סוכות
+מעביר: הרב שמעון טייכנר
+מועד: סוכות
+תאריך: כ״ב תשרי תשפ״ו (14.10.2025)
+
+#הרב_שמעון_טייכנר #סוכות</itunes:summary>
+      <itunes:author>הרב שמעון טייכנר</itunes:author>
+      <itunes:keywords>הרב שמעון טייכנר,סוכות</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1TepgdzaVqSjs_0_KjiGGwEUobpGBw1kA.mp3" length="31219492" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-3ca7ff3f-4a9e-4961-af28-4d2ec9a4f110</guid>
+      <pubDate>Tue, 14 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>3902</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב שמעון טייכנר</podcast:person>
+    </item>
+    <item>
+      <title>הרב יהונתן גיאת | הושענא רבה</title>
+      <description><![CDATA[<p>הושענא רבה<br>מעביר: הרב יהונתן גיאת<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ו (12.10.2025)</p><p>#הרב_יהונתן_גיאת #הושענא_רבה</p>]]></description>
+      <content:encoded><![CDATA[<p>הושענא רבה<br>מעביר: הרב יהונתן גיאת<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ו (12.10.2025)</p><p>#הרב_יהונתן_גיאת #הושענא_רבה</p>]]></content:encoded>
+      <itunes:summary>הושענא רבה
+מעביר: הרב יהונתן גיאת
+מועד: הושענא רבה
+תאריך: כ׳ תשרי תשפ״ו (12.10.2025)
+
+#הרב_יהונתן_גיאת #הושענא_רבה</itunes:summary>
+      <itunes:author>הרב יהונתן גיאת</itunes:author>
+      <itunes:keywords>הרב יהונתן גיאת,הושענא רבה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1lJmnI9juv-vy1dlZmyL8gzHJCQyQHyen.mp3" length="23727563" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-b58fc506-f1bb-4b25-910c-ad402cf58999</guid>
+      <pubDate>Sun, 12 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>2965</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יהונתן גיאת</podcast:person>
+    </item>
+    <item>
+      <title>הרב יוני מילוא | הושענא רבה</title>
+      <description><![CDATA[<p>הושענא רבה<br>מעביר: הרב יוני מילוא<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ו (12.10.2025)</p><p>#הרב_יוני_מילוא #הושענא_רבה</p>]]></description>
+      <content:encoded><![CDATA[<p>הושענא רבה<br>מעביר: הרב יוני מילוא<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ו (12.10.2025)</p><p>#הרב_יוני_מילוא #הושענא_רבה</p>]]></content:encoded>
+      <itunes:summary>הושענא רבה
+מעביר: הרב יוני מילוא
+מועד: הושענא רבה
+תאריך: כ׳ תשרי תשפ״ו (12.10.2025)
+
+#הרב_יוני_מילוא #הושענא_רבה</itunes:summary>
+      <itunes:author>הרב יוני מילוא</itunes:author>
+      <itunes:keywords>הרב יוני מילוא,הושענא רבה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1o9sNkfvEoQq-QWbaERRDq_SRonI5tAfO.mp3" length="32885254" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-814a1db5-cc40-434f-a359-8c387b8a9cf0</guid>
+      <pubDate>Sun, 12 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>4110</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יוני מילוא</podcast:person>
+    </item>
+    <item>
+      <title>הרב יואב אוריאל | הושענא רבה</title>
+      <description><![CDATA[<p>הושענא רבה<br>מעביר: הרב יואב אוריאל<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ו (12.10.2025)</p><p>#הרב_יואב_אוריאל #הושענא_רבה</p>]]></description>
+      <content:encoded><![CDATA[<p>הושענא רבה<br>מעביר: הרב יואב אוריאל<br>מועד: הושענא רבה<br>תאריך: כ׳ תשרי תשפ״ו (12.10.2025)</p><p>#הרב_יואב_אוריאל #הושענא_רבה</p>]]></content:encoded>
+      <itunes:summary>הושענא רבה
+מעביר: הרב יואב אוריאל
+מועד: הושענא רבה
+תאריך: כ׳ תשרי תשפ״ו (12.10.2025)
+
+#הרב_יואב_אוריאל #הושענא_רבה</itunes:summary>
+      <itunes:author>הרב יואב אוריאל</itunes:author>
+      <itunes:keywords>הרב יואב אוריאל,הושענא רבה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1sfCy7qSvh77j17odSdbhyxZBkp3dxU7V.mp3" length="25427821" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-5d7c9fe8-6d88-40a6-bf10-c8b2b20d331d</guid>
+      <pubDate>Sun, 12 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>3178</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יואב אוריאל</podcast:person>
+    </item>
+    <item>
+      <title>הרב לביא אנגלמן | הושענא רבה</title>
+      <description><![CDATA[<p>הושענא רבה<br>מעביר: הרב לביא אנגלמן<br>מועד: הושענא רבה<br>תאריך: י״ט תשרי תשפ״ו (11.10.2025)</p><p>#הרב_לביא_אנגלמן #הושענא_רבה</p>]]></description>
+      <content:encoded><![CDATA[<p>הושענא רבה<br>מעביר: הרב לביא אנגלמן<br>מועד: הושענא רבה<br>תאריך: י״ט תשרי תשפ״ו (11.10.2025)</p><p>#הרב_לביא_אנגלמן #הושענא_רבה</p>]]></content:encoded>
+      <itunes:summary>הושענא רבה
+מעביר: הרב לביא אנגלמן
+מועד: הושענא רבה
+תאריך: י״ט תשרי תשפ״ו (11.10.2025)
+
+#הרב_לביא_אנגלמן #הושענא_רבה</itunes:summary>
+      <itunes:author>הרב לביא אנגלמן</itunes:author>
+      <itunes:keywords>הרב לביא אנגלמן,הושענא רבה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1qVAxl5qPmN94cf4EzWkofdYW3qc0nAbG.mp3" length="19706378" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-0b60d89f-ee4f-47c6-95ce-303b90894f8e</guid>
+      <pubDate>Sat, 11 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>2463</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב לביא אנגלמן</podcast:person>
+    </item>
+    <item>
+      <title>הרב שי סבג | כולל ליל שישי</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב שי סבג<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תשרי תשפ״ו (09.10.2025)</p><p>#הרב_שי_סבג #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב שי סבג<br>מסגרת: כולל ליל שישי<br>תאריך: י״ז תשרי תשפ״ו (09.10.2025)</p><p>#הרב_שי_סבג #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב שי סבג
+מסגרת: כולל ליל שישי
+תאריך: י״ז תשרי תשפ״ו (09.10.2025)
+
+#הרב_שי_סבג #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב שי סבג</itunes:author>
+      <itunes:keywords>הרב שי סבג,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/18ZFmOW5dskxEE4O5wlqBLvFVi_-LGqNx.mp3" length="20146057" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-cbdc68da-9d65-4c3f-8890-db1f95ce1054</guid>
+      <pubDate>Thu, 09 Oct 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>2518</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב שי סבג</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן טמיר | הכנה ליום הכיפורים</title>
+      <description><![CDATA[<p>הכנה ליום הכיפורים<br>מעביר: הרב ערן טמיר<br>מועד: יום הכיפורים<br>תאריך: ז׳ תשרי תשפ״ו (29.09.2025)</p><p>#הרב_ערן_טמיר #יום_הכיפורים</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה ליום הכיפורים<br>מעביר: הרב ערן טמיר<br>מועד: יום הכיפורים<br>תאריך: ז׳ תשרי תשפ״ו (29.09.2025)</p><p>#הרב_ערן_טמיר #יום_הכיפורים</p>]]></content:encoded>
+      <itunes:summary>הכנה ליום הכיפורים
+מעביר: הרב ערן טמיר
+מועד: יום הכיפורים
+תאריך: ז׳ תשרי תשפ״ו (29.09.2025)
+
+#הרב_ערן_טמיר #יום_הכיפורים</itunes:summary>
+      <itunes:author>הרב ערן טמיר</itunes:author>
+      <itunes:keywords>הרב ערן טמיר,יום הכיפורים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1PvM1kIORO7pIIdHfXjj1IvYwEq8hCW7a.mp3" length="27455972" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-860341be-a5ae-4af9-b7eb-263f71eeb82f</guid>
+      <pubDate>Mon, 29 Sep 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>3431</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן טמיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב חגי לונדין | הכנה ליום הכיפורים</title>
+      <description><![CDATA[<p>הכנה ליום הכיפורים<br>מעביר: הרב חגי לונדין<br>מועד: יום הכיפורים<br>תאריך: ז׳ תשרי תשפ״ו (29.09.2025)</p><p>#הרב_חגי_לונדין #יום_הכיפורים</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה ליום הכיפורים<br>מעביר: הרב חגי לונדין<br>מועד: יום הכיפורים<br>תאריך: ז׳ תשרי תשפ״ו (29.09.2025)</p><p>#הרב_חגי_לונדין #יום_הכיפורים</p>]]></content:encoded>
+      <itunes:summary>הכנה ליום הכיפורים
+מעביר: הרב חגי לונדין
+מועד: יום הכיפורים
+תאריך: ז׳ תשרי תשפ״ו (29.09.2025)
+
+#הרב_חגי_לונדין #יום_הכיפורים</itunes:summary>
+      <itunes:author>הרב חגי לונדין</itunes:author>
+      <itunes:keywords>הרב חגי לונדין,יום הכיפורים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1SI7lB3JjtcLImBO5m_T1KC6_M5WOja5F.mp3" length="23373982" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-5cb7f93c-0359-4f0f-adf4-631805f67abd</guid>
+      <pubDate>Mon, 29 Sep 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>2921</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב חגי לונדין</podcast:person>
+    </item>
+    <item>
+      <title>הרב ברוך רוזנבלום | הכנה ליום הכיפורים</title>
+      <description><![CDATA[<p>הכנה ליום הכיפורים<br>מעביר: הרב ברוך רוזנבלום<br>מועד: יום הכיפורים<br>תאריך: ו׳ תשרי תשפ״ו (28.09.2025)</p><p>#הרב_ברוך_רוזנבלום #יום_הכיפורים</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה ליום הכיפורים<br>מעביר: הרב ברוך רוזנבלום<br>מועד: יום הכיפורים<br>תאריך: ו׳ תשרי תשפ״ו (28.09.2025)</p><p>#הרב_ברוך_רוזנבלום #יום_הכיפורים</p>]]></content:encoded>
+      <itunes:summary>הכנה ליום הכיפורים
+מעביר: הרב ברוך רוזנבלום
+מועד: יום הכיפורים
+תאריך: ו׳ תשרי תשפ״ו (28.09.2025)
+
+#הרב_ברוך_רוזנבלום #יום_הכיפורים</itunes:summary>
+      <itunes:author>הרב ברוך רוזנבלום</itunes:author>
+      <itunes:keywords>הרב ברוך רוזנבלום,יום הכיפורים</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1Ft_sHbiuKRjDPT-ajrYbyp33JenyLFvF.mp3" length="21192874" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-9eed6143-0c3b-4fc3-bc3d-e9b7e546bed9</guid>
+      <pubDate>Sun, 28 Sep 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>2649</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ברוך רוזנבלום</podcast:person>
+    </item>
+    <item>
+      <title>הרב ניסים דעי | הכנה לראש השנה</title>
+      <description><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב ניסים דעי<br>מועד: ראש השנה<br>תאריך: ד׳ תשרי תשפ״ו (26.09.2025)</p><p>#הרב_ניסים_דעי #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב ניסים דעי<br>מועד: ראש השנה<br>תאריך: ד׳ תשרי תשפ״ו (26.09.2025)</p><p>#הרב_ניסים_דעי #ראש_השנה</p>]]></content:encoded>
+      <itunes:summary>הכנה לראש השנה
+מעביר: הרב ניסים דעי
+מועד: ראש השנה
+תאריך: ד׳ תשרי תשפ״ו (26.09.2025)
+
+#הרב_ניסים_דעי #ראש_השנה</itunes:summary>
+      <itunes:author>הרב ניסים דעי</itunes:author>
+      <itunes:keywords>הרב ניסים דעי,ראש השנה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/10ZaBt4AaGHnoVlMgedVTicCyQwAGzAjf.mp3" length="8227338" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-a3aca169-3622-4cf9-809e-a05ec95a472a</guid>
+      <pubDate>Fri, 26 Sep 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>1028</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ניסים דעי</podcast:person>
+    </item>
+    <item>
+      <title>הרב יעקב שמעון | הכנה לראש השנה</title>
+      <description><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב יעקב שמעון<br>מועד: ראש השנה<br>תאריך: ד׳ תשרי תשפ״ו (26.09.2025)</p><p>#הרב_יעקב_שמעון #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב יעקב שמעון<br>מועד: ראש השנה<br>תאריך: ד׳ תשרי תשפ״ו (26.09.2025)</p><p>#הרב_יעקב_שמעון #ראש_השנה</p>]]></content:encoded>
+      <itunes:summary>הכנה לראש השנה
+מעביר: הרב יעקב שמעון
+מועד: ראש השנה
+תאריך: ד׳ תשרי תשפ״ו (26.09.2025)
+
+#הרב_יעקב_שמעון #ראש_השנה</itunes:summary>
+      <itunes:author>הרב יעקב שמעון</itunes:author>
+      <itunes:keywords>הרב יעקב שמעון,ראש השנה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1HdKliuDr8SgqKKkXonhgTheJqZhnQ74K.mp3" length="24692844" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-7d4d83da-8a6c-4625-90b2-9abd67f2456a</guid>
+      <pubDate>Fri, 26 Sep 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>3086</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב יעקב שמעון</podcast:person>
+    </item>
+    <item>
+      <title>הרב מרדכי מאיר | כולל ליל שישי · ג׳ תשרי תשפ״ו</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ג׳ תשרי תשפ״ו (25.09.2025)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב מרדכי מאיר<br>מסגרת: כולל ליל שישי<br>תאריך: ג׳ תשרי תשפ״ו (25.09.2025)</p><p>#הרב_מרדכי_מאיר #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב מרדכי מאיר
+מסגרת: כולל ליל שישי
+תאריך: ג׳ תשרי תשפ״ו (25.09.2025)
+
+#הרב_מרדכי_מאיר #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב מרדכי מאיר</itunes:author>
+      <itunes:keywords>הרב מרדכי מאיר,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1aC5Qb0qT7f6KFNovwx2W-cWKH16QRAr0.mp3" length="32885083" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-7d1e7efa-252d-4175-8568-6e43f1a7b796</guid>
+      <pubDate>Thu, 25 Sep 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>4110</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב מרדכי מאיר</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהוד אחיטוב | כולל ליל שישי · כ״ה אלול תשפ״ה</title>
+      <description><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ה אלול תשפ״ה (18.09.2025)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></description>
+      <content:encoded><![CDATA[<p>כולל ליל שישי<br>מעביר: הרב אהוד אחיטוב<br>מסגרת: כולל ליל שישי<br>תאריך: כ״ה אלול תשפ״ה (18.09.2025)</p><p>#הרב_אהוד_אחיטוב #כולל_ליל_שישי</p>]]></content:encoded>
+      <itunes:summary>כולל ליל שישי
+מעביר: הרב אהוד אחיטוב
+מסגרת: כולל ליל שישי
+תאריך: כ״ה אלול תשפ״ה (18.09.2025)
+
+#הרב_אהוד_אחיטוב #כולל_ליל_שישי</itunes:summary>
+      <itunes:author>הרב אהוד אחיטוב</itunes:author>
+      <itunes:keywords>הרב אהוד אחיטוב,כולל ליל שישי</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1gyec7qHLuF3Rm_5SJKzvVM0oj99VDxZi.mp3" length="25861076" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-fbf9adc4-6077-469b-8671-6d32b91d5a4f</guid>
+      <pubDate>Thu, 18 Sep 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>3232</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהוד אחיטוב</podcast:person>
+    </item>
+    <item>
+      <title>הרב אהרן כהן | הכנה לראש השנה · כ״א אלול תשפ״ה</title>
+      <description><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב אהרן כהן<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_אהרן_כהן #ראש_השנה</p>]]></content:encoded>
+      <itunes:summary>הכנה לראש השנה
+מעביר: הרב אהרן כהן
+מועד: ראש השנה
+תאריך: כ״א אלול תשפ״ה (14.09.2025)
+
+#הרב_אהרן_כהן #ראש_השנה</itunes:summary>
+      <itunes:author>הרב אהרן כהן</itunes:author>
+      <itunes:keywords>הרב אהרן כהן,ראש השנה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1R5jN1JK4AC7CW1Ep1aUhlEqFVr7CIEiq.mp3" length="25819688" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-9481e5b0-62bb-48e5-b54e-c0b9667cfe29</guid>
+      <pubDate>Sun, 14 Sep 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>3227</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב אהרן כהן</podcast:person>
+    </item>
+    <item>
+      <title>הרב ערן דאום | הכנה לראש השנה</title>
+      <description><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></description>
+      <content:encoded><![CDATA[<p>הכנה לראש השנה<br>מעביר: הרב ערן דאום<br>מועד: ראש השנה<br>תאריך: כ״א אלול תשפ״ה (14.09.2025)</p><p>#הרב_ערן_דאום #ראש_השנה</p>]]></content:encoded>
+      <itunes:summary>הכנה לראש השנה
+מעביר: הרב ערן דאום
+מועד: ראש השנה
+תאריך: כ״א אלול תשפ״ה (14.09.2025)
+
+#הרב_ערן_דאום #ראש_השנה</itunes:summary>
+      <itunes:author>הרב ערן דאום</itunes:author>
+      <itunes:keywords>הרב ערן דאום,ראש השנה</itunes:keywords>
+      <enclosure url="https://github.com/elikbelik100/mirpeset-podcast/releases/download/audio-2025/1EUaUjROLVriVwau9q00eD61GMwob0qw4.mp3" length="21517809" type="audio/mpeg"/>
+      <guid isPermaLink="false">mirpeset-rec-1210c479-77ce-4cc1-96bc-9baacba9c536</guid>
+      <pubDate>Sun, 14 Sep 2025 20:00:00 +0300</pubDate>
+      <itunes:duration>2689</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:person role="host">הרב ערן דאום</podcast:person>
+    </item>
+  </channel>
+</rss>
