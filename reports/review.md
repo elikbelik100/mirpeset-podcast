@@ -1,6 +1,6 @@
 # דוח תיוג – המרפסת פודקאסט
 
-עודכן: 23.11.2026 16:31
+עודכן: 23.11.2026 16:33
 
 - פרקים בפיד: **150**
 - הקלטות שזוהו: 161
@@ -32,17 +32,17 @@
 
 פתחו כל קישור ← שיתוף ← "כל מי שיש לו את הקישור" (צופה). הבוט ינסה שוב בריצה הבאה.
 
-- הרב שניאור אשכנזי | כולל ליל שישי – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/14Mf0_ibRz9IzHkQQ3AcWj-t_JxTW891Z/view
-- הרב יואב אוריאל | סודו של חנוכה – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/1kMI-8BAUqenRV2lUSab-DYqlFpo2Y2x-/view
-- הרב מרדכי מאיר | ד' חול המועד – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/1TVw4uBkMmATPLFYFeHdqhovKG13bPZfv/view
-- הרב אלי פיינסילבר | שמונה קבצים – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/19QlTe2sUm9J07rXQPTVrh8y9XkglNHjy/view
-- הרב יוני מילוא | צום ט' באב – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/1G9S9BMgcusyMFtV89W2txuVji6H6l6Vt/view
-- הרב טל מרום | תשעה באב – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/1gxZiESPvdaYaqRfkPmwTLql8EIJxsqHJ/view
-- הרב ברוך רוזנבלום | לקראת תשעה באב – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/1uVceMBnQY8I7gkUfIGJ4Z-PgBzS9YG20/view
-- הרב ליאון שילאן | כולל ליל שישי – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/1pnLQR8Cuk6jjhDpH492Gv-GHJGSXF01T/view
-- הרב ערן דאום | לקראת עשרה בטבת – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/1Bxq6XH9h0b5L9T0I-UfwI--mU8B2gMCA/view
-- הרב ערן טמיר | משנכנס אדר מרבין בשמחה – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/1391hzbpePqh44RFSEME4s8oueakDxT_2/view
-- הרב ערן טמיר | לקראת תשעה באב – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 2) – https://drive.google.com/file/d/10Zb2BM0G62Rd8xgwI_JVZ-7QlzbB9h7u/view
+- הרב שניאור אשכנזי | כולל ליל שישי – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/14Mf0_ibRz9IzHkQQ3AcWj-t_JxTW891Z/view
+- הרב יואב אוריאל | סודו של חנוכה – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/1kMI-8BAUqenRV2lUSab-DYqlFpo2Y2x-/view
+- הרב מרדכי מאיר | ד' חול המועד – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/1TVw4uBkMmATPLFYFeHdqhovKG13bPZfv/view
+- הרב אלי פיינסילבר | שמונה קבצים – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/19QlTe2sUm9J07rXQPTVrh8y9XkglNHjy/view
+- הרב יוני מילוא | צום ט' באב – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/1G9S9BMgcusyMFtV89W2txuVji6H6l6Vt/view
+- הרב טל מרום | תשעה באב – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/1gxZiESPvdaYaqRfkPmwTLql8EIJxsqHJ/view
+- הרב ברוך רוזנבלום | לקראת תשעה באב – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/1uVceMBnQY8I7gkUfIGJ4Z-PgBzS9YG20/view
+- הרב ליאון שילאן | כולל ליל שישי – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/1pnLQR8Cuk6jjhDpH492Gv-GHJGSXF01T/view
+- הרב ערן דאום | לקראת עשרה בטבת – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/1Bxq6XH9h0b5L9T0I-UfwI--mU8B2gMCA/view
+- הרב ערן טמיר | משנכנס אדר מרבין בשמחה – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/1391hzbpePqh44RFSEME4s8oueakDxT_2/view
+- הרב ערן טמיר | לקראת תשעה באב – הקובץ לא משותף לכל מי שיש לו את הקישור (ניסיונות: 3) – https://drive.google.com/file/d/10Zb2BM0G62Rd8xgwI_JVZ-7QlzbB9h7u/view
 
 ## דולגו (1)
 
@@ -97,7 +97,7 @@
 | 25.08.2026 | הרב אלי פיינסילבר \| שמונה קבצים קובץ ב יא |  | שמונה קבצים |
 | 25.08.2026 | הרב ערן דאום \| יום ג' 26. 8. 26 כי תבוא ברכות וקללות כיצד | ראש השנה |  |
 | 23.08.2026 | הרב ברוך רוזנבלום \| הכנה לראש השנה | ראש השנה |  |
-| 20.08.2026 | הרב מרדכי מאיר \| על קן ציפור יגיעו רחמיך. דביר שחר |  | כולל ליל שישי |
+| 20.08.2026 | הרב מרדכי מאיר \| על קן ציפור יגיעו רחמיך |  | כולל ליל שישי |
 | 13.08.2026 | הרב ערן טמיר \| עבודת ה בחודש אלול | חודש אלול | כולל ליל שישי |
 | 06.08.2026 | הרב יוני מילוא \| קמטי מקראות בשר תאווה עם המבט לעתיד |  | כולל ליל שישי |
 | 30.07.2026 | הרב מרדכי מאיר \| מבית מדרשו של החתם סופר |  | כולל ליל שישי |
