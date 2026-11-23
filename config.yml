@@ -1,13 +1,13 @@
 # Podcast settings: change freely, the next run picks them up.
 
 show:
-  title: "המרפסת – שיעורי תורה"
+  title: "שיעורי תורה במרפסת - בני דקלים"
   description: >-
-    שיעורי התורה של המרפסת: הכנה לחגים ולמועדים, כולל ליל שישי,
-    סדרות לימוד ושיעורים מיוחדים, מפי מגוון רבנים ומרצים.
+    כאן תוכלו להאזין לכל השיעורים שהועברו ב'מרפסת' בבני דקלים:
+    הכנה לחגים ולמועדים, כולל ליל שישי, סדרות לימוד ושיעורים מיוחדים.
     שיעורים חדשים מתווספים מדי שבוע.
-  author: "המרפסת"
-  owner_name: "המרפסת"
+  author: "יצחק חגבי"
+  owner_name: "המרפסת - בני דקלים"
   owner_email: "torabmirpeset@gmail.com"   # Spotify sends the verification code here
   language: "he"
   category: "Religion & Spirituality"
