@@ -14,6 +14,7 @@ show:
   subcategory: "Judaism"
   explicit: false
   website: "https://mirpeset-new.netlify.app/archive"
+  spotify_url: "https://open.spotify.com/show/1QHqvCpYpi0LmsmhjHyasX"
   # Cover art. Built automatically from this image (padded to a square, 1500x1500).
   cover_source: "https://mirpeset-new.netlify.app/NewIcon.jpeg"
 
