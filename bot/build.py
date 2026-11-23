@@ -18,6 +18,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import difflib
 import datetime as dt
 import html
 import io
@@ -65,6 +66,19 @@ def clean(s) -> str:
     s = s.replace("‏", "").replace("‎", "").replace("\xa0", " ")
     s = re.sub(r"\s+", " ", s).strip()
     s = s.strip(" .,:;-–|")
+    return s
+
+
+def fix_mojibake(s: str) -> str:
+    """Drive sends UTF-8 file names that requests decodes as Latin-1; undo that."""
+    if s and re.search(r"[\u00c0-\u00ff]", s):
+        try:
+            raw = s.encode("latin-1")
+        except UnicodeEncodeError:
+            return s
+        # names saved earlier had the byte 0xA0 (part of the letter נ) turned into a space
+        raw = raw.replace(b"\xd7 ", b"\xd7\xa0")
+        return raw.decode("utf-8", errors="replace").replace("\ufffd", "")
     return s
 
 
@@ -215,7 +229,8 @@ def load_sources(cfg, fixtures: Path | None):
             sb = fetch_json(
                 src["supabase_url"].rstrip("/") + "/rest/v1/lessons"
                 "?select=id,title,teacher,description,date,category,location",
-                headers={"apikey": sb_key, "Authorization": f"Bearer {sb_key}"},
+                headers={"apikey": sb_key, **({"Authorization": f"Bearer {sb_key}"}
+                                              if sb_key.startswith("eyJ") else {})},
             )
         except Exception as e:  # noqa: BLE001
             log(f"supabase failed: {e}")
@@ -227,6 +242,7 @@ def load_sources(cfg, fixtures: Path | None):
 
 # ─────────────────────────────── tagging ───────────────────────────────
 
+TITLES = {"הרב", "הרבנית", "ד\"ר", "ר'"}
 GENERIC_TOPICS = {key(x) for x in [
     "הכנה לחגים", "אירועים מיוחדים", "סדרות", "כללי", "שיעור", "הקלטה", "סדרה",
     "חדשה", "הקלטה חדשה", "חדש",
@@ -282,6 +298,36 @@ def topic_from(text: str, tags: Tags) -> str:
     return clean(t.strip("'\"`"))
 
 
+def filename_topic(name: str, rabbi: str | None, tags: Tags) -> str:
+    if junk_filename(name):
+        return ""
+    fn = clean(name)
+    fn = re.sub(r"(\.(mp3|m4a|mp4|mpeg|wav|aac|ogg|opus|wma))+$", "", fn, flags=re.I)
+    fn = re.sub(r"_?compressed", "", fn, flags=re.I)
+    fn = re.sub(r"\(\s*\d+(\.\d+)*\s*\)", "", fn)          # (1)  (9.7)
+    fn = re.sub(r"\bתשפ\"?[א-ת]\b", "", fn)                  # year like תשפו
+    if rabbi:                                                # partial / misspelled names
+        parts = [x for x in rabbi.split() if x not in TITLES]
+        sim = lambda t: any(difflib.SequenceMatcher(None, t.strip(".,"), x).ratio() >= 0.7 for x in parts)
+        name_only = lambda toks: bool(toks) and all(t in TITLES or sim(t) for t in toks)
+        segs = [x.strip() for x in fn.split(".")]
+        while len(segs) > 1 and (not segs[-1] or name_only(segs[-1].split())):
+            segs.pop()                                       # "…. הרב יוני מילוא"
+        toks = ". ".join(x for x in segs if x).split()
+        for i, t in enumerate(toks):                         # "… הרב לביא אנגלמן" at the end
+            if t in TITLES and name_only(toks[i + 1:]):
+                toks = toks[:i]
+                break
+        while toks and (toks[0] in TITLES or sim(toks[0])):  # "הרב עוזי …", "אלידע בר שאול …"
+            toks.pop(0)
+        fn = " ".join(toks)
+    fn = tags.strip_rabbis(fn)
+    fn = re.sub(r"[.\s\-–]*(הרב|הרבנית|ד\"ר)\s+\S+(\s+\S+)?[.\s]*$", "", fn)  # trailing unknown lecturer
+    fn = re.sub(r"^(הרב|הרבנית)\s+", "", fn)
+    fn = re.sub(r"\s*\.\s*", ". ", fn)
+    return topic_from(fn, tags)
+
+
 def tag_recording(rec: dict, lesson: dict, drive_name: str, tags: Tags, unknown: set) -> dict:
     rec_title = clean(rec.get("title"))
     parts = re.split(r"\s+-\s+", rec_title)
@@ -324,10 +370,12 @@ def tag_recording(rec: dict, lesson: dict, drive_name: str, tags: Tags, unknown:
     desc_topic = re.sub(r"מעביר:?", "", l_desc)
     if desc_topic and len(desc_topic) <= 60 and "http" not in desc_topic:
         cands.append(topic_from(desc_topic, tags))
-    if not junk_filename(drive_name):
-        fn = re.sub(r"\.[A-Za-z0-9]{2,4}$", "", clean(drive_name))
-        fn = re.sub(r"[.\s\-–]*(הרב|הרבנית|ד\"ר)\s+\S+(\s+\S+)?[.\s]*$", "", fn)  # trailing lecturer
-        cands.append(topic_from(fn, tags))
+    file_topic = filename_topic(drive_name, rabbi, tags)
+    # A lesson titled only "הכנה ל…"/"לקראת …" is less informative than a real file name.
+    if file_topic and re.match(r"^(הכנה ל|לקראת)", cands[0] or "") and key(file_topic) not in GENERIC_TOPICS:
+        cands.insert(0, file_topic)
+    elif file_topic:
+        cands.append(file_topic)
     # a topic that is just a spelling of the series name becomes the series name
     for se in tags.series:
         if series == se["name"]:
@@ -452,7 +500,7 @@ def download_drive(fid: str, dest: Path) -> str:
         cd = r.headers.get("content-disposition", "")
         m = re.search(r"filename\*=UTF-8''([^;]+)", cd) or re.search(r'filename="([^"]+)"', cd)
         if m:
-            name = unquote(m[1])
+            name = fix_mojibake(unquote(m[1]))
     r.raise_for_status()
     if "text/html" in r.headers.get("content-type", ""):
         raise RuntimeError("Drive returned a web page instead of audio")
@@ -554,7 +602,10 @@ def process_new(episodes, recs_by_id, lessons, state, tags, cfg, args):
             save_state(state)
         except Exception as ex:  # noqa: BLE001
             f = state["failed"].setdefault(rid, {"attempts": 0})
-            f.update(attempts=f["attempts"] + 1, error=str(ex)[:300], title=e["title"],
+            err = str(ex)
+            if "signin" in err or "web page" in err:
+                err = "הקובץ לא משותף לכל מי שיש לו את הקישור"
+            f.update(attempts=f["attempts"] + 1, error=err[:300], title=e["title"], drive_id=e["drive_id"],
                      last=dt.date.today().isoformat())
             log(f"   FAILED: {ex}")
             save_state(state)
@@ -578,6 +629,9 @@ def load_state():
         s = {}
     s.setdefault("episodes", {})
     s.setdefault("failed", {})
+    for v in s["episodes"].values():          # repair names saved before the encoding fix
+        if v.get("drive_name"):
+            v["drive_name"] = clean(fix_mojibake(v["drive_name"]))
     return s
 
 
@@ -793,7 +847,9 @@ def write_report(episodes, skipped, unknown, state, recs_ids, n_feed):
             "הנושא נגזר מהסדרה/המסגרת/המועד. כדאי לתת לשיעור כותרת באפליקציה.")
     section("הקלטות שלא נמצא להן שיעור", [e["rec_title"] for e in episodes if not e["lesson_found"]])
     section("הורדות שנכשלו", [f"{v.get('title')} – {v.get('error')} (ניסיונות: {v.get('attempts')})"
-                               for v in state["failed"].values()])
+                               + (f" – https://drive.google.com/file/d/{v['drive_id']}/view" if v.get("drive_id") else "")
+                               for v in state["failed"].values()],
+            "פתחו כל קישור ← שיתוף ← \"כל מי שיש לו את הקישור\" (צופה). הבוט ינסה שוב בריצה הבאה.")
     section("דולגו", [f"{t} – {why}" for t, why in skipped])
     gone = [k for k in state["episodes"] if k not in recs_ids]
     section("הוסרו מהאפליקציה (ולכן מהפיד)", gone)
