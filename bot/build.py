@@ -321,8 +321,8 @@ def filename_topic(name: str, rabbi: str | None, tags: Tags) -> str:
         while toks and (toks[0] in TITLES or sim(toks[0])):  # "הרב עוזי …", "אלידע בר שאול …"
             toks.pop(0)
         fn = " ".join(toks)
-    fn = tags.strip_rabbis(fn)
     fn = re.sub(r"[.\s\-–]*(הרב|הרבנית|ד\"ר)\s+\S+(\s+\S+)?[.\s]*$", "", fn)  # trailing unknown lecturer
+    fn = tags.strip_rabbis(fn)
     fn = re.sub(r"^(הרב|הרבנית)\s+", "", fn)
     fn = re.sub(r"\s*\.\s*", ". ", fn)
     return topic_from(fn, tags)
