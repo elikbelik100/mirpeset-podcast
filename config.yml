@@ -1,0 +1,42 @@
+# Podcast settings: change freely, the next run picks them up.
+
+show:
+  title: "המרפסת – שיעורי תורה"
+  description: >-
+    שיעורי התורה של המרפסת: הכנה לחגים ולמועדים, כולל ליל שישי,
+    סדרות לימוד ושיעורים מיוחדים, מפי מגוון רבנים ומרצים.
+    שיעורים חדשים מתווספים מדי שבוע.
+  author: "המרפסת"
+  owner_name: "המרפסת"
+  owner_email: "torabmirpeset@gmail.com"   # Spotify sends the verification code here
+  language: "he"
+  category: "Religion & Spirituality"
+  subcategory: "Judaism"
+  explicit: false
+  website: "https://mirpeset-new.netlify.app/archive"
+  # Cover art. Built automatically from this image (padded to a square, 1500x1500).
+  cover_source: "https://mirpeset-new.netlify.app/NewIcon.jpeg"
+
+# How each episode title is built. Fields: {rabbi} {topic}
+episode_title: "{rabbi} | {topic}"
+
+sources:
+  # Tried in order; the first one that returns a JSON list wins.
+  recordings:
+    - "https://mirpeset-new.netlify.app/api/recordings"
+    - "https://mirpeset-new.netlify.app/data/recordings.json"
+  lessons_json: "https://mirpeset-new.netlify.app/data/lessons.json"
+  supabase_url: "https://wfiiytdybhpwasdzrszw.supabase.co"
+  # The Supabase key is read from the SUPABASE_KEY secret (the public "anon" key).
+
+audio:
+  # Speech-quality re-encode: keeps files small, sounds the same for lectures.
+  bitrate: "64k"
+  channels: 1
+  normalize_loudness: true
+  # Audio files are stored as GitHub Release assets, one release per year.
+  release_prefix: "audio"
+
+run:
+  # Stop starting new downloads after this many minutes (GitHub's job limit is 6h).
+  time_budget_minutes: 300

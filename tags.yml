@@ -1,0 +1,120 @@
+# Tagging rules. This is the file to edit when a name or label comes out wrong.
+# After any change, the next run re-tags ALL episodes (no re-upload needed).
+
+# ── Lecturers ────────────────────────────────────────────────────────────
+# Canonical name: [other spellings that mean the same person]
+# Extra spaces and trailing dots are cleaned automatically.
+rabbis:
+  "הרב עוזי ביננפלד": ["הרב עוזי בננפלד", "עוזי ביננפלד"]
+  "הרב חגי לונדין": ["הרב חגי לו דין", "חגי לונדין"]
+  "הרב נח ודקה": ["הרב נח וודקה"]
+  "הרב אהרן כהן": ["הרב אהרון כהן"]
+  "הרב ניסים דעי": ["הרב ניסים דיעי"]
+  "הרב אלי פיינסילבר": ["אלי פיינסילבר", "הרב אלי פינסילבר"]
+  "הרב יואב אוריאל": []
+  "הרב יוני מילוא": []
+  "הרב ברוך רוזנבלום": []
+  "הרב ערן טמיר": []
+  "הרב ערן דאום": []
+  "הרב מרדכי מאיר": ["הרב מאיר מרדכי"]
+  "הרב לביא אנגלמן": []
+  "הרב אהוד אחיטוב": []
+  "הרב אברהם בלס": []
+  "הרב תומר זאבי": []
+  "הרב יחיאל יעיש": []
+  "הרב יוסי קבסה": []
+  "הרב שי סבג": []
+  "הרב נתנאל אוירבך": []
+  "הרב יצחק זאגא": []
+  "הרב הרצל רוזנברג": []
+  "הרב יעקב שמעון": []
+  "הרב יהונתן גיאת": []
+  "הרב יוסף צבי רימון": []
+  "הרב ליאון שילאן": []
+  "הרב יצחק נריה": []
+  "הרב צחי משען": []
+  "הרב נח ויזונסקי": []
+  "הרב יואב אקריש": []
+  "הרב שניאור אשכנזי": []
+  "הרב טל מרום": []
+  "הרב צבי שוורץ": []
+  "הרב ברוך הרניק": []
+  "הרב שי דדוש": []
+  "הרב שמעון טייכנר": ["הרב טייכנר"]
+  "הרב רועי אהרוני": []
+  "הרב משאל רובין": []
+  "הרב מנחם מאיר": []
+  "הרב אלישע אבינר": []
+  "הרב שניר סרי": []
+  "הרב אלעד כהן": []
+  "הרב דביר יצחק": []
+  "הרב נחמיה קרקובר": []
+  "ד\"ר חגי בן ארצי": []
+  "אלישע בר שאול": []
+
+# Values that mean "no lecturer given".
+rabbi_placeholders: ["לא צוין", "רב/מרצה", "מרצה", "-"]
+
+# Fallback when no lecturer can be found anywhere.
+unknown_rabbi: "רבני המרפסת"
+
+# ── Occasions (holidays and special days) ────────────────────────────────
+# Checked in order against the lesson title, category, topic and Drive file name.
+# First match wins, so specific entries come before general ones.
+occasions:
+  - name: "פסח שני"
+    match: ["פסח שני"]
+  - name: "הושענא רבה"
+    match: ["הושענא רב", "הושענה רב"]
+  - name: "ל\"ג בעומר"
+    match: ["ל\"ג בעומר", "לג בעומר", "ל״ג בעומר"]
+  - name: "ט\"ו בשבט"
+    match: ["ט\"ו בשבט", "טו בשבט", "ט״ו בשבט"]
+  - name: "ט\"ו בתמוז"
+    match: ["ט\"ו תמוז", "ט״ו תמוז", "ט\"ו בתמוז"]
+  - name: "תשעה באב"
+    match: ["תשעה באב", "ט' באב", "ט׳ באב", "ט באב", "מגילת איכה"]
+  - name: "עשרה בטבת"
+    match: ["עשרה בטבת"]
+  - name: "יום ירושלים"
+    match: ["יום ירושלים"]
+  - name: "ראש השנה"
+    match: ["ראש השנה", "סוד התקיעות"]
+  - name: "יום הכיפורים"
+    match: ["יום הכיפורים", "יום כיפור", "סליחה מחילה וכפרה"]
+  - name: "סוכות"
+    match: ["סוכות", "אתרוג", "חגי תשרי"]
+  - name: "חנוכה"
+    match: ["חנוכה"]
+  - name: "פורים"
+    match: ["פורים", "מגילת אסתר", "ותלבש אסתר", "משנכנס אדר"]
+  - name: "פסח"
+    match: ["פסח", "ליל הסדר", "יציאת מצרים", "חגי ניסן"]
+  - name: "שבועות"
+    match: ["שבועות"]
+  - name: "חודש אלול"
+    match: ["אלול"]
+
+# Categories that mean "a holiday lesson" without naming the holiday.
+# For these, the bot looks at the lesson date and picks the next holiday within 3 weeks.
+holiday_categories: ["הכנה לחגים", "אירועים מיוחדים"]
+holiday_lookahead_days: 21
+
+# ── Recurring programs ───────────────────────────────────────────────────
+programs:
+  - name: "כולל ליל שישי"
+    match: ["כולל ליל שישי", "כולל יום שישי", "כולל ליל ששי", "כולל יום ששי"]
+
+# ── Named series (besides "X, מפגש N" and "סדרה בנושא X", detected automatically) ──
+series:
+  - name: "שמונה קבצים"
+    match: ["שמונה קבצים"]
+  - name: "שמונה פרקים לרמב\"ם"
+    match: ["שמונה פרקים"]
+  - name: "מוזיקה"
+    match: ["מוזיקה", "מוסיקה"]
+  - name: "תוקף איסורי דרבנן"
+    match: ["איסורי דרבנן"]
+
+# Lessons to leave out entirely (test entries etc.). Matched against title and lecturer.
+exclude: ["בדיקה", "Test", "test"]

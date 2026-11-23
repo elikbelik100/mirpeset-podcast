@@ -1,0 +1,4 @@
+requests>=2.31
+pyyaml>=6.0
+pyluach>=2.2
+Pillow>=10.0
