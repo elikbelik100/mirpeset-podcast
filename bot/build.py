@@ -287,7 +287,7 @@ def detect_series(texts: list[str], tags: Tags):
 
 
 def topic_from(text: str, tags: Tags) -> str:
-    t = clean(text)
+    t = clean(re.sub(r"(\s*\.\s*){2,}", ". ", str(text or "")))
     t = re.sub(r"^הקלטת\s*", "", t)
     t = re.sub(r"\.[A-Za-z0-9]{2,4}$", "", t)          # file extension
     t = tags.strip_rabbis(t)
@@ -306,6 +306,8 @@ def filename_topic(name: str, rabbi: str | None, tags: Tags) -> str:
     fn = re.sub(r"_?compressed", "", fn, flags=re.I)
     fn = re.sub(r"\(\s*\d+(\.\d+)*\s*\)", "", fn)          # (1)  (9.7)
     fn = re.sub(r"\bתשפ\"?[א-ת]\b", "", fn)                  # year like תשפו
+    fn = re.sub(r"\b\d{1,2}\s*\.\s*\d{1,2}\s*\.\s*\d{2,4}\b", "", fn)  # dates 26.8.26
+    fn = re.sub(r"^יום [א-ו]'\s*", "", fn)                     # "יום ג'"
     if rabbi:                                                # partial / misspelled names
         parts = [x for x in rabbi.split() if x not in TITLES]
         sim = lambda t: any(difflib.SequenceMatcher(None, t.strip(".,"), x).ratio() >= 0.7 for x in parts)
@@ -397,6 +399,10 @@ def tag_recording(rec: dict, lesson: dict, drive_name: str, tags: Tags, unknown:
             topic = f"שיעור ל{occasion}" if not occasion.startswith("חודש") else occasion
         else:
             topic = l_cat if l_cat and key(l_cat) not in GENERIC_TOPICS and not tags.find_rabbi(l_cat) else "שיעור"
+    se_aliases = next((se["match"] for se in tags.series if se["name"] == series), [])
+    for al in se_aliases:                                   # "מוסיקה 3" -> "מוזיקה 3"
+        if series and contains(topic, al) and not contains(topic, series):
+            topic = clean(re.sub(re.escape(al), series, topic))
     if series and topic_specific and not contains(topic, series):
         topic = f"{series} – {topic}"
     if series and part and "מפגש" not in topic:
